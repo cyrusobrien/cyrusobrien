@@ -7,8 +7,6 @@ permalink: /photos/
 
 # Photos from the Archives
 
-
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
