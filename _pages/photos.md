@@ -7,6 +7,12 @@ permalink: /photos/
 
 # Photos from the Archives
 
+This short digital exhibit is intended to provide a point of entry into the history of Florida's criminal justice systems. I found these images while conducting research at the State Archives of Florida and other libraries. I provide a few sentence to contextualize each image. To pause the slideshow, simply over over the image or its caption.
+
+Unless otherwise noted, all of these photographs can be found in the State Archives of Florida, Record Group 670, Series 2185. If you are interested in tracking down a particular photo and need the box or folder number, please contact me. All are reproduced here courtesy of the [State Archives of Florida](http://dos.myflorida.com/library-archives/about-us/about-the-state-archives-of-florida/).
+
+The cartoons included are from _The Starke Reality II_, a short-lived publication produced and edited by prisoners at Florida State Prison in Starke, Florida.
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -82,31 +88,49 @@ permalink: /photos/
 <div class="item">
                     <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/FF9_2.jpg" alt="Slide 9" />
                     <div class="carousel-caption">
-                        <p>This is another picture from the State Archives of Florida that had no accompanying or identifying information. Until the 1980s, there were multiple opportunities for prisoners to play and perform music. Florida State Prison had several bands and the Florida School for Boys had an orchestra and marching bands. (For most of their existence, the bands--like the rest of the institution--were segregated.) </p>
+                        <p>This is another picture from the State Archives of Florida that had no accompanying or identifying information. Until the 1980s, there were multiple opportunities for prisoners to play and perform music. Florida State Prison had several bands and the Florida School for Boys had an orchestra and marching bands. (For most of their existence, the bands--like the rest of the institution--were segregated.) This photo (and the following one) are highly stylized and seem to have been taken by a skilled photographer.</p>
                     </div>
                 </div>
                 <div class="item">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/FF4_2.jpg" alt="Slide 10" />
                 <div class="carousel-caption">
-                   <p>I found this picture in the archives with no explanation or location, but was probably taken near Florida Correctional Facility in Lowell, Florida. As prisoners of the Florida Department of Corrections, women were required to wear dresses and most worked in the garment shop, sewing uniforms for male prisoners and staff well as their fellow female prisoners. At the time this image was taken, the official song of FCI Lowell ("A Bridge over Troubled Waters") contained the lines, “Nothing is impossible when you put your trust in God; Nothing is impossible when you’re trusting in His Word.”</p>
+                   <p>This staged photo was probably taken near Florida Correctional Facility in Lowell, Florida. As prisoners of the Florida Department of Corrections, women were required to wear dresses. Their work assignments were also gendered, as most worked in the garment shop sewing uniforms for prisoners and staff. At the time this image was taken, the official song of FCI Lowell ("A Bridge over Troubled Waters") contained the lines, “Nothing is impossible when you put your trust in God; Nothing is impossible when you’re trusting in His Word.”</p>
                  </div>
                  </div>
    <div class="item">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/swampcartoon.jpg" alt="Slide 11" />
                 <div class="carousel-caption">
-                   <p>Florida prisons had a lot of "Troubled Waters" as most were built in swamps. Far from municipal infrastructures, providing clean drinking water and adequate sewage has always been a problem. Water treatment at FCI Lowell was a particular challenge and, in 19</p>
+                   <p>Florida prisons had a lot of "Troubled Waters" as most were built in swamps. Far from municipal infrastructures, providing clean drinking water and adequate sewage has always been a problem. This cartoon is from the <i>Starke Reality II<i>. </p>
                  </div>
                  </div>
 <div class="item">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/beardcartoon.jpg" alt="Slide 12" />
                 <div class="carousel-caption">
-                   <p>Facial hair has long been an issue of contention in Florida prisons. Until the 2015 U.S. Supreme Court decision in <i>Holt v. Hobbs</i> Florida prisoners were subject to solitary confinement and forced shaving if they refused to shave. I was conducting my fieldwork when the Supreme Court invalidated prohibitions on facial hair and, within a few weeks, it seemed that the majority of prisoners had beards. The warden still required prisoners to shave their necks because he "didn't want [them] looking like winos." This 1977 cartoon from the <i>Starke Reality II</i> (Volume II, p. 11) mocks the prison system's antiquated idea that professionalization was incompatible with facial hair. </p>
+                   <p>Facial hair has long been an issue of contention in Florida prisons. Until the 2015 U.S. Supreme Court decision in <i>Holt v. Hobbs</i> Florida prisoners were subject to solitary confinement and forced shaving if they refused to shave. I was conducting my fieldwork when the Supreme Court invalidated prohibitions on facial hair and, within a few weeks, it seemed that the majority of prisoners had beards. The warden still required prisoners to shave their necks because he "didn't want [them] looking like winos." In this 1977 cartoon from the <i>Starke Reality II</i> (Volume II, p. 11), Thom Caraccio mocks the prison system's antiquated idea that professionalization was incompatible with facial hair.</p>
                  </div>
                  </div>
 <div class="item">
                     <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/ripcartoon.jpg" alt="Slide 13" />
                     <div class="carousel-caption">
                         <p>Among the most profitable of Florida's prison industries was its tobacco farm. Florida prisons produced cigarettes with the ominous branding "RIP." Several people who remember them told me that they had so much tar in them that after they had burned, "you could pick the whole ash up." Cigarette production stopped only when overcrowding became so severe in the early 1980s that the tobacco barns were converted into dormitories. The history of Florida's cigarette production continues to complicate the state's litigation (along with 45 other states) against U.S. tobacco producers. Given its captive consumers, RIP brand didn't need to advertise. This satirical 1977 cartoon advertisement appeared in the <i>Starke Reality II</i> (Volume I, p. 9). </p>
+                    </div>
+                </div>
+<div class="item">
+                    <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/FF1_5.jpg" alt="Slide 14" />
+                    <div class="carousel-caption">
+                        <p>This slide from a ca. 1975 Florida Department of Corrections presentation reflects the degree to which corruption and canteen shortages became issues of public concern in the 1970s. The institutional canteen was (and remains) the only place where prisoners can buy supplemental food and necessities like toothbrushes, soap, and toiletries. Administrators regularly blamed prisoners for stealing from the canteen's stocks, but staff were responsible for the more significant thefts. In one instance, prison staff stole several hundred pounds of sugar destined for the prison cafeteria, which they planned to distill into homemade (and illegal) spirits.</p>
+                    </div>
+                </div>
+<div class="item">
+                    <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/shakedown.jpg" alt="Slide 15" />
+                    <div class="carousel-caption">
+                        <p>This is a picture of a sign leading to the Visitor's Park at the North Florida Reception and Medical Center in Lake Butler, Florida, ca. 1972. Prisoners endured strip searches before and after meeting their loved ones, who were also thoroughly searched. On Saturday mornings, I often waited outside the main gate with families, many of whom were made to wait hours before being allowed in to see their loved ones.</p>
+                    </div>
+                </div>
+<div class="item">
+                    <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/FF9_1.jpg" alt="Slide 16" />
+                    <div class="carousel-caption">
+                        <p>This is a picture of the prayer groups meeting outside the chapel at Glades Correctional Institution ca. 1979. Families were invited to attend Sunday services and, afterward, were permitted to walk around the facility's nearby orange groves. In <a href="http://www.worldcat.org/oclc/12431182"> her memoir</a> about her husband's imprisonment and conversion to Christianity, Bunny Constantino jokes that "those were fertile groves" and writes her youngest daughter was conceived there. Prisoners whose families did not attend the Sunday service had no similar opportunities for private interactions.</p>
                     </div>
                 </div>
 

@@ -1,25 +1,63 @@
 ---
-title: "Allan Lab - Research"
+title: "Cyrus O'Brien - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Cyrus O'Brien"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+_Faith in Imprisonment_, a book project expanding on my dissertation, uses religion as a lens to examine the development of mass incarceration. Where existing scholarship about mass incarceration primarily focuses on race (and, to a lesser extent, class and gender), I show that religious ideas and organizations also profoundly shaped the development, structure, and experiences of incarceration in the latter half of the twentieth century. Drawing on the analysis of never-before-accessed internal records of the Florida Department of Corrections and the Florida Parole Commission as well as thirteen months of ethnographic research in a state prison, it traces the transformation of Florida’s prison system as it expanded from an archipelago of small labor camps at the outset of the Second World War into one of the largest justice systems in the world. Religion emerges as a key force in the adoption of parole, the embrace of halfway houses, and the inception of private prisons—fundamental transformations that expanded the criminal justice system’s capacity to supervise and incarcerate and drew its tentacles deeper into the fabric of daily American life. The two key contributions of the dissertation as a whole are to emphasize the religiously-mediated connections between prisons and other social sites, and to demonstrate that mass incarceration depended on reforms—often promoted by religious organizations or motivated by religious ideologies—that grew and legitimated the carceral mechanisms of the U. S. state.
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
- 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+My dissertation consist of three parts, abstracts of which are below. Also included are wordclouds of each section to provide an accessible viewpoint of the topics, themes, and theories discussed in each chapter. The wordclouds were created using [Jonathan Feinberg](http://mrfeinberg.com)'s javascript application, [Wordle](www.wordle.net).
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
 
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
+<hr class="section-heading-spacer">
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
 
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
+   <div markdown="0"  class="container-fluid">
+   <div class="row">
+   <div class="clearfix  col-sm-6">
+                       <h3 class="section-heading">Religion, Race, and Labor: The Making of "Productive Citizenship"</h3>
+                       <p>Chapter 1 traces the actions of prison and parole administrators during WWII, who declared that “no more important element enters into the proper rehabilitation of the individual than does religion.” I argue that war transformed America’s prison systems by creating demand for prisoners’ labor and blood, thereby spurring administrators to expand religious programs under the aegis of “rehabilitation” in an effort to release prisoners into the military or war industries.<a href="{{ site.url }}{{ site.baseurl }}/dissertation/section1"> Read more here...</a></p>
+               </div>
+                   <div class="clearfix col-sm-6">
+                       <a href="{{ site.url }}{{ site.baseurl }}/dissertation/section1#cloud">
+                             <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/wordcloud1.jpg" alt="cartogram">
+                       </a>
+                   </div>
+</div>
+           </div>
 
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
+<hr class="section-heading-spacer">
+ <div markdown="0"  class="container-fluid">
+ <div class="row">
+                   <div class="clearfix  col-sm-6">
+                    <h3 class="section-heading">Privatization and Changing Economics</h3>
+                        <p>Section 2 combines oral history with data from the archives of ancillary institutions—religious organizations, probation offices, courts, and re-entry centers—to reveal the central role religious groups like the Salvation Army played in the privatization of prisons. As corrections administrators embraced a Christian ideology of rehabilitating the “whole person” in the 1970s, they outsourced key state functions to religious organizations. Though these arrangements began with benign intentions, they changed the economic underpinnings of imprisonment and paved the way for more exploitative private prison ventures.
+ <a href="{{ site.url }}{{ site.baseurl }}/dissertation/section2"> Read more here...</a></p>
+               </div>
+                <div class="clearfix  col-sm-6">
+                                    <div class="clearfix"></div>
+                                      <a href="{{ site.url }}{{ site.baseurl }}/dissertation/section2#cloud">
+                                            <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/wordcloud2.jpg" alt="racialdisparities"> </a>
+                                  </div>
+           </div>
+  </div>
+
+<hr class="section-heading-spacer">
+ <div markdown="0"  class="container-fluid">
+  <div class="row">
+                 <div class="clearfix col-sm-6">
+                    <h3 class="section-heading">Work on the Self in a Total Institution</h3>
+                     <p>Faith in Imprisonment concludes with two chapters drawn from my ethnographic research in Wakulla Correctional Institution, a 3,600-bed public prison south of Tallahassee. These chapters amplify the perspectives of individual inmates and ethnographically highlight the specific ways religion shapes the experience of being incarcerated. They contribute to the literature about prisons and analogous “total institutions” by disrupting the paradigms of surveillance and power/knowledge that characterize most of the salient scholarship. <a href="{{ site.url }}{{ site.baseurl }}/dissertation/section3"> Read more here...</a></p>
+                                  </div>
+               <div class="row">
+                   <div class="clearfix col-sm-6">
+                   <a href="{{ site.url }}{{ site.baseurl }}/dissertation/section3#cloud">
+                             <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/wordcloud3.jpg" alt="section3"> </a>
+                   </div>
+  </div>
+               </div>
+           </div>
