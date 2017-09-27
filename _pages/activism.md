@@ -8,7 +8,7 @@ permalink: /activism/
 
 # Criminal and Juvenile Justice Activism
 
-I am a prison abolitionist. I have been working to reduce and limit incarceration since 2008, when I moved to Alabama to work for juvenile justice reform. I've worked with the Southern Poverty Law Center, the Annie E. Casey Foundation, the American Bar Association, and, since 2013, the Project on Accountable Justice, a criminal justice reform think-tank based at Florida State University. My projects to reduce incarceration have involved legislative advocacy, collaborative technical assistance to local courts and state corrections agencies, media campaigns, and assistance with litigation against a private juvenile prison. Some of this work has resulted in publications, a selection of which are below.
+I am a prison abolitionist. I have been working to reduce and limit incarceration since 2008, when I moved to Alabama to work for juvenile justice reform. I've worked with the Southern Poverty Law Center, the Annie E. Casey Foundation, the American Bar Association, and, since 2013, the Project on Accountable Justice, a criminal justice reform think-tank based at Florida State University. My projects to reduce incarceration have involved legislative advocacy, collaborative technical assistance to local courts and state corrections agencies, media campaigns, and assistance with litigation against a private juvenile prison. Some of this work has resulted in publications, a selection of which is below.
 
 
 
@@ -47,8 +47,8 @@ I am a prison abolitionist. I have been working to reduce and limit incarceratio
  <div markdown="0"  class="container-fluid">
  <div class="row">
                    <div class="col-sm-6 clearfix">
-                     <h3 class="section-heading">Fiscal Responsibility: The Case for a Safter, Stronger, and Smarter Juvenile Justice System</h3>
-                        <p>This white paper was based on an analysis of youth incarceration in Florida. It was the basis for <a href="https://www.flsenate.gov/PublishedContent/Session/2012/InterimReports/2012-118cj.pdf"> legislation</a> that prohibited the incarceration of children adjudicated for misdemeanors, the implementation of which has contributed to a nearly 70% decline in juvenile incarceration in the state. Jointly published by the Southern Poverty Law Center and Florida TaxWatch, it was one of the first (and few) successful anti-incarceration collaborations between right and left. I wasn't responsible for the title...
+                     <h3 class="section-heading">Fiscal Responsibility: The Key to a Safer, Stronger, and Smarter Juvenile Justice System</h3>
+                        <p>This white paper was based on a quantitative analysis of youth incarceration in Florida that found that nearly half of all children admitted to juvenile prisons were adjudicated only for a misdemeanor or probation violation. It was the <a href="https://www.flsenate.gov/PublishedContent/Session/2012/InterimReports/2012-118cj.pdf">basis</a> for <a href="http://laws.flrules.org/2011/54" > legislation</a> that prohibited the incarceration of children adjudicated for misdemeanors in most circumstances, the implementation of which has contributed to a nearly 70% decline in juvenile incarceration in the state. Jointly published by the Southern Poverty Law Center and Florida TaxWatch, it was one of the first (and remains one of the few) successful anti-incarceration collaborations between right and left. I wasn't responsible for the title...
  <a href="https://www.splcenter.org/20101222/fiscal-responsibility-key-safer-smarter-and-stronger-juvenile-justice-system"> Read the full document here...</a></p>
                </div>
                 <div class="col-sm-6 clearfix">

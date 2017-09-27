@@ -37,7 +37,7 @@ The cartoons included are from _The Starke Reality II_, a short-lived publicatio
             <div class="item active">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/FF3_1.jpg" alt="Slide 1" />
                 <div class="carousel-caption">
-                    <p>Intake to the Florida Department of Corrections involved strip searches, haircuts, and the donning of a prison uniform. New prisoners also met with doctors, a classification officer, and the institutional chaplain, who informed them about the prison's religious programs and judged their religious disposition. ("Good," "Fair," "Poor," and "Superficial" were the most frequently noted evaluations.) This man is sitting for his institutional mug shot in the early 1970s. His prison number is written on the plaque under his chin.</p>
+                    <p>Intake to the Florida Department of Corrections involved strip searches, haircuts, and the donning of a prison uniform. New prisoners also met with doctors, a classification officer, and the institutional chaplain, who informed them about the prison's religious programs and judged their religious disposition. "Good," "Fair," "Poor," and "Superficial" were chaplains' most frequently noted evaluations. This man is sitting for his institutional mug shot in the early 1970s. His prison number is written on the plaque under his chin.</p>
                 </div>
             </div>
 
@@ -56,7 +56,7 @@ The cartoons included are from _The Starke Reality II_, a short-lived publicatio
             <div class="item">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/FF1_6.jpg" alt="Slide 4" />
                 <div class="carousel-caption">
-                    <p>This is a photo of Bill Glass (a linebacker for the Cleveland Browns and prison evangelist) speaking at Florida State Prison in 1973 or 1974. Like most of these photos, it was unmarked in the archives. A former prisoner with whom I conducted several oral history interviews helped me identify the photograph.</p>
+                    <p>This is a photo of Bill Glass (a linebacker for the Cleveland Browns and prison evangelist) speaking at Florida State Prison in 1973 or 1974. Like most of these photos, it was unmarked in the archives. A former prisoner with whom I conducted several oral history interviews helped me identify the photograph. To indicate that he trusted his audience, Glass would his Superbowl ring into the crowd and invite prisoners to take close look at it.</p>
                 </div>
             </div>
 
@@ -101,7 +101,7 @@ The cartoons included are from _The Starke Reality II_, a short-lived publicatio
    <div class="item">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/swampcartoon.jpg" alt="Slide 11" />
                 <div class="carousel-caption">
-                   <p>Florida prisons had a lot of "Troubled Waters" as most were built in swamps. Far from municipal infrastructures, providing clean drinking water and adequate sewage has always been a problem. Water treatment at FCI Lowell was a particular challenge and, in 19</p>
+                   <p>Florida prisons had a lot of "Troubled Waters" as most were built in swamps. Far from municipal infrastructures, providing clean drinking water and adequate sewage has always been a problem. During my ethnographic fieldwork in 2015 and 2016, prison staff would announce on what felt like a bi-weekly basis that it wasn't safe to drink the water.</p>
                  </div>
                  </div>
 <div class="item">
@@ -113,7 +113,7 @@ The cartoons included are from _The Starke Reality II_, a short-lived publicatio
 <div class="item">
                     <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/ripcartoon.jpg" alt="Slide 13" />
                     <div class="carousel-caption">
-                        <p>Among the most profitable of Florida's prison industries was its tobacco farm. Florida prisons produced cigarettes with the ominous branding "RIP." Several people who remember them told me that they had so much tar in them that after they had burned, "you could pick the whole ash up." Cigarette production stopped only when overcrowding became so severe in the early 1980s that the tobacco barns were converted into dormitories. The history of Florida's cigarette production continues to complicate the state's litigation (along with 45 other states) against U.S. tobacco producers. Given its captive consumers, RIP brand didn't need to advertise. This satirical 1977 cartoon advertisement appeared in the <i>Starke Reality II</i> (Volume I, p. 9). </p>
+                        <p>Among the most profitable of Florida's prison industries was its tobacco farm. Florida prisons produced cigarettes with the ominous branding "RIP." Several people who remember them told me that they had so much tar in them that after they had burned, "you could pick the whole ash up." Cigarette production stopped only when overcrowding became so severe in the early 1980s that the tobacco barns were converted into dormitories. The history of Florida's cigarette production continues to complicate the state's litigation (along with 45 other states) against U.S. tobacco producers. Given its captive consumers, RIP brand didn't need to advertise. This satirical 1977 cartoon advertisement by Thom Caraccio appeared in the <i>Starke Reality II</i> (Volume I, p. 9). </p>
                     </div>
                 </div>
             <div class="item">

@@ -1,6 +1,6 @@
 ---
 title: "Data Visualizations"
-layout: default
+layout: textlay
 excerpt: "Data Visualizations"
 sitemap: false
 permalink: /datavisualizations/
