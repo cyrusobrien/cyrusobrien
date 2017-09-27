@@ -44,7 +44,7 @@ The cartoons included are from _The Starke Reality II_, a short-lived publicatio
             <div class="item">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/FF1_2.jpg" alt="Slide 2" />
                 <div class="carousel-caption">
-                    <p>Until the abolition of parole in 1983, most Florida prisons served indeterminant sentences. Their release from prison depended on favorable action from the parole board. This early 1970s billboard warned motorists that conviction for certain crimes involving guns could result in "3 Years to Life" in prison. In practice, few prisoners served the longest terms permitted under their sentences until after 1983, when the Florida Parole Commission dramatically changed its practices and began holding prisoners for extremely long periods of time.</p>
+                    <p>Until the abolition of parole in 1983, most Florida prisoners served indeterminant sentences. Their release from prison depended on favorable action from the parole board. This early 1970s billboard warned motorists that conviction for certain crimes involving guns could result in "3 Years to Life" in prison. In practice, few prisoners served the longest terms permitted under their sentences until after 1983, when the Florida Parole Commission dramatically changed its practices and began holding prisoners for extremely long periods of time.</p>
                 </div>
             </div>
             <div class="item">
