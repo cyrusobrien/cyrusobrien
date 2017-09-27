@@ -134,12 +134,7 @@ The cartoons included are from _The Starke Reality II_, a short-lived publicatio
                     <p>This is a picture of the prayer groups meeting outside the chapel at Glades Correctional Institution ca. 1979. Families were invited to attend Sunday services and, afterward, were permitted to walk around the facility's nearby orange groves. In <a href="http://www.worldcat.org/oclc/12431182"> her memoir</a> about her husband's imprisonment and conversion to Christianity, Bunny Constantino jokes that "those were fertile groves" and writes her youngest daughter was conceived there. Prisoners whose families did not attend the Sunday service had no similar opportunities for private interactions.</p>
                 </div>
             </div>
-            <div class="item">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/FF9_1.jpg" alt="Slide 16" />
-                <div class="carousel-caption">
-                    <p>This is a picture of the prayer groups meeting outside the chapel at Glades Correctional Institution ca. 1979. Families were invited to attend Sunday services and, afterward, were permitted to walk around the facility's nearby orange groves. In <a href="http://www.worldcat.org/oclc/12431182"> her memoir</a> about her husband's imprisonment and conversion to Christianity, Bunny Constantino jokes that "those were fertile groves" and writes her youngest daughter was conceived there. Prisoners whose families did not attend the Sunday service had no similar opportunities for private interactions.</p>
-                </div>
-            </div>
+
 
 
             <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
