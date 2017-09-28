@@ -1,5 +1,5 @@
 ---
-title: "Cyrus O'Brien"
+title: "Work on the Self in a Total Institution"
 layout: textlay
 excerpt: "Dissertation Section 3"
 sitemap: false

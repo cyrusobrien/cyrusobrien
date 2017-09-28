@@ -1,5 +1,5 @@
 ---
-title: "Cyrus O'Brien"
+title: "Privatization and Changing Economics"
 layout: textlay
 excerpt: "Dissertation Section 2"
 sitemap: false

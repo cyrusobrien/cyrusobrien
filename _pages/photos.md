@@ -1,5 +1,5 @@
 ---
-title: "Cyrus O'Brien - Photos"
+title: "Cyrus O'Brien - Photos from the Archives"
 layout: piclay
 excerpt: "Photos from the Archives"
 permalink: /photos/

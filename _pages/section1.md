@@ -1,5 +1,5 @@
 ---
-title: "Cyrus O'Brien"
+title: "Religion, Race, and Labor"
 layout: textlay
 excerpt: "Dissertation Section 1"
 sitemap: false
