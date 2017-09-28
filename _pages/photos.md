@@ -7,7 +7,7 @@ permalink: /photos/
 
 # Photos from the Archives
 
-This short digital exhibit is intended to provide a point of entry into the history of Florida's criminal justice systems. I found these images while conducting research at the State Archives of Florida and other libraries. I provide a few sentence to contextualize each image. To pause the slideshow, simply over over the image or its caption.
+This short digital exhibit is intended to provide a point of entry into the history of Florida's criminal justice systems. I found these images while conducting research at the State Archives of Florida and other libraries. I've written a short, informal caption to contextualize each image. To pause the slide show, simply over over the image or its caption.
 
 Unless otherwise noted, all of these photographs can be found in the State Archives of Florida, Record Group 670, Series 2185. If you are interested in tracking down a particular photo and need the box or folder number, please contact me. All are reproduced here courtesy of the [State Archives of Florida](http://dos.myflorida.com/library-archives/about-us/about-the-state-archives-of-florida/).
 
