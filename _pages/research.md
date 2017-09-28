@@ -51,7 +51,7 @@ My dissertation consist of three parts, abstracts of which are below. Also inclu
   <div class="row">
                  <div class="clearfix col-sm-6">
                     <h3 class="section-heading">Work on the Self in a Total Institution</h3>
-                     <p>Faith in Imprisonment concludes with two chapters drawn from my ethnographic research in Wakulla Correctional Institution, a 3,600-bed public prison south of Tallahassee. These chapters amplify the perspectives of individual inmates and ethnographically highlight the specific ways religion shapes the experience of being incarcerated. They contribute to the literature about prisons and analogous “total institutions” by disrupting the paradigms of surveillance and power/knowledge that characterize most of the salient scholarship. <a href="{{ site.url }}{{ site.baseurl }}/dissertation/section3"> Read more here...</a></p>
+                     <p>Faith in Imprisonment concludes with two chapters drawn from my ethnographic research in Wakulla Correctional Institution, a 3,600-bed public prison south of Tallahassee. These chapters amplify the perspectives of individual prisoners and ethnographically highlight the specific ways religion shapes the experience of being incarcerated. They contribute to the literature about prisons and analogous “total institutions” by disrupting the paradigms of surveillance and power/knowledge that characterize most of the salient scholarship. <a href="{{ site.url }}{{ site.baseurl }}/dissertation/section3"> Read more here...</a></p>
                                   </div>
                <div class="row">
                    <div class="clearfix col-sm-6">
