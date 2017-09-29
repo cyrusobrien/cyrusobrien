@@ -14,8 +14,6 @@ My dissertation consist of three parts, abstracts of which are below. Also inclu
 
 
 <hr class="section-heading-spacer">
-
-
    <div markdown="0"  class="container-fluid">
    <div class="row">
    <div class="clearfix  col-sm-6">
