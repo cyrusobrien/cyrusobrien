@@ -8,8 +8,22 @@ permalink: /activism/
 
 # Criminal and Juvenile Justice Activism
 
-I am a prison abolitionist. I have been working to reduce and limit incarceration since 2008, when I moved to Alabama to work for juvenile justice reform. I've worked with the Southern Poverty Law Center, the Annie E. Casey Foundation, the American Bar Association, and, since 2013, the Project on Accountable Justice, a criminal justice reform think-tank based at Florida State University. My projects to reduce incarceration have involved legislative advocacy, collaborative technical assistance to local courts and state corrections agencies, media campaigns, and assistance with litigation against a private juvenile prison. Some of this work has resulted in publications, a selection of which is below.
+I am a prison abolitionist. I have been working to reduce and limit incarceration since 2008, when I moved to Alabama to work for juvenile justice reform. I've worked for the [Southern Poverty Law Center](https://www.splcenter.org/issues/childrens-rights), the [Annie E. Casey Foundation](http://www.aecf.org/work/juvenile-justice/), the [American Bar Association](https://www.americanbar.org/advocacy/rule_of_law/where_we_work/middle_east/morocco/programs.html), and, since 2013, the [Project on Accountable Justice](www.iog.fsu.edu/paj/), a criminal justice reform think tank based at Florida State University. My projects to reduce incarceration have involved legislative advocacy, collaborative technical assistance to local courts and state corrections agencies, media campaigns, and assistance with litigation against a private juvenile prison. Some of this work has resulted in publications, a selection of which is below.
 
+<hr class="section-heading-spacer">
+   <div markdown="0"  class="container-fluid">
+   <div class="row">
+   <div class="col-sm-6 clearfix">
+                       <h3 class="section-heading">Florida Criminal Justice Reform: Understanding the Challenges and Opportunities</h3>
+                       <p>This report was released in November 2017 and includes detailed quantitative and historical analyses of Florida's criminal justice system. The growth of Florida's prison system has been both fast and steady. And even as legislators embraced laws and policies that grew the system, they were concerned about continued growth. Just since 2000, Florida's prison population has increased fifty percent, in large part due to laws that send tens of thousands of people to prison each your for minor offenses and other laws that keep people in prison for extremely long periods of time.<a href="https://accountablejustice.github.io/report"> Available here...</a></p>
+               </div>
+                   <div class="col-sm-6 clearfix">
+                        <a href="https://accountablejustice.github.io/report">
+                             <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/PAJwidethumbnail.jpg" style="padding-top:30px" alt="FloridaReport">
+                       </a>
+                   </div>
+</div>
+           </div>
 
 
 <hr class="section-heading-spacer">

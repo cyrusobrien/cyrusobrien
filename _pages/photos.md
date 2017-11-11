@@ -147,7 +147,3 @@ The cartoons included are from _The Starke Reality II_, a short-lived publicatio
             </a>
         </div>
     </div>
-
-
-<div class="buffer">
-</div>

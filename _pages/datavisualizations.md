@@ -9,9 +9,9 @@ permalink: /datavisualizations/
 
 # Data Visualizations
 
-I'm interested in telling stories in multiple ways. At the encouragement of Justin Jocque, the Visualization Librarian the the University of Michigan, I recently began learning [D3 (for Data-Driven Documents), the Javascript library](https://d3js.org/) created by Mike Bostock, formerly of the New York Times.
+I'm interested in telling stories in multiple ways. At the encouragement of [Justin Jocque](http://justinjoque.com/), the Visualization Librarian the the University of Michigan, I recently began learning [D3 (for Data-Driven Documents), the Javascript library](https://d3js.org/) created by Mike Bostock, formerly of the New York Times.
 
-Below are links to a few of the more interesting and revealing visualizations I've created. These are part of a forth-coming report by the Project on Accountable Justice. Stay tuned for updates.
+Below are links to a few of the more interesting and revealing visualizations I've created. These are part of a [recent report by the Project on Accountable Justice](http://accountablejustice.github.io/report) and are reproduced here with permission.
 
 
 
@@ -24,7 +24,7 @@ Below are links to a few of the more interesting and revealing visualizations I'
                </div>
                 <div class="col-sm-6 clearfix">
                   <a href="{{ site.url }}{{ site.baseurl }}/cartogram">
-                                              <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/cartogram.jpg" alt="cartogram">
+                                              <img  class="img-responsive" style="padding-top:10px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/cartogram.jpg" alt="cartogram">
                                         </a>
                                   </div>
            </div>
@@ -42,7 +42,24 @@ Below are links to a few of the more interesting and revealing visualizations I'
                </div>
                 <div class="col-sm-6 clearfix">
                   <a href="{{ site.url }}{{ site.baseurl }}/racialdisparities">
-                                              <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/racialdisparities.jpg" alt="racialdisparities"> </a>
+                                              <img  class="img-responsive" style="padding-top:20px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/racialdisparities.jpg" alt="racialdisparities"> </a>
+                                  </div>
+           </div>
+  </div>
+
+
+
+<hr class="section-heading-spacer">
+ <div markdown="0"  class="container-fluid">
+ <div class="row">
+                   <div class="col-sm-6 clearfix">
+                     <h3 class="section-heading">Florida's Prison Growth in Historical Perspective</h3>
+                        <p>One of my most puzzling moments in the archives was learning about a 1983 law that placed a ceiling on Florida's prison population of 275 prisoners per 100,000 residents. The very same year that the legislature sought to cap prison growth, it also abolished parole--one of the more consequential setps on the path to mass incarceration. This animated timeline highlights the policies that contributed to mass incarceration, while also pointing out the half-steps that might have prevented it.<a href="{{ site.url }}{{ site.baseurl }}/animatedtimeline.html"> Read more and see the interactive visualization...</a></p>
+               </div>
+                <div class="col-sm-6 clearfix">
+                  <a href="{{ site.url }}{{ site.baseurl }}/animatedtimeline">
+                                              <img  class="img-responsive" style="padding-top:20px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/historicalchart.png" alt="animated timeline">
+                                        </a>
                                   </div>
            </div>
   </div>
