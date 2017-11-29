@@ -9,7 +9,7 @@ permalink: /datavisualizations/
 
 # Data Visualizations
 
-I'm interested in telling stories in multiple ways. At the encouragement of [Justin Jocque](http://justinjoque.com/), the Visualization Librarian the the University of Michigan, I recently began learning [D3 (for Data-Driven Documents), the Javascript library](https://d3js.org/) created by Mike Bostock, formerly of the New York Times.
+I'm interested in telling stories in multiple ways. At the encouragement of [Justin Jocque](http://justinjoque.com/), the Visualization Librarian at the [University of Michigan Library](https://www.lib.umich.edu/data-visualization), I recently began learning [D3 (for Data-Driven Documents), the Javascript library](https://d3js.org/) created by Mike Bostock, formerly of the New York Times.
 
 Below are links to a few of the more interesting and revealing visualizations I've created. These are part of a [recent report by the Project on Accountable Justice](http://accountablejustice.github.io/report) and are reproduced here with permission.
 
