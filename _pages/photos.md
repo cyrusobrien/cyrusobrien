@@ -50,13 +50,13 @@ The cartoons included are from _The Starke Reality II_, a short-lived publicatio
             <div class="item">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/FF1_3.jpg" alt="Slide 3" />
                 <div class="carousel-caption">
-                    <p>Like corrections agencies around the country, the Florida Department of Corrections embraced halfway houses and "community corrections" facilities in the 1970s and 1980s. This is a slide from a public presentation (ca. 1975) intending to promote community-based corrections. Louie Wainwright, the Secretary of Corrections, told groups opposing "prisons in their communities" that their opposition was "un-Christian." Neither the slide nor Wainwright's invocation of religious duty was particularly effective in the face of NIMBY protests.</p>
+                    <p>Like corrections agencies around the country, the Florida Department of Corrections embraced halfway houses and "community corrections" facilities in the 1970s and 1980s. This is a slide from a public presentation (ca. 1975) intending to promote community-based corrections. Louie Wainwright, the Secretary of Corrections, told groups opposing "prisons in their communities" that good Christians would accept prisoners as neighbors. Neither the slide nor Wainwright's invocation of religious duty was particularly effective in the face of NIMBY protests.</p>
                 </div>
             </div>
             <div class="item">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/FF1_6.jpg" alt="Slide 4" />
                 <div class="carousel-caption">
-                    <p>This is a photo of Bill Glass (a linebacker for the Cleveland Browns and prison evangelist) speaking at Florida State Prison in 1973 or 1974. Like most of these photos, it was unmarked in the archives. A former prisoner with whom I conducted several oral history interviews helped me identify the photograph. To indicate that he trusted his audience, Glass would his Superbowl ring into the crowd and invite prisoners to take close look at it.</p>
+                    <p>This is a photo of Bill Glass (a linebacker for the Cleveland Browns and prison evangelist) speaking at Florida State Prison in 1973 or 1974. Like most of these photos, it was unmarked in the archives. A former prisoner with whom I conducted several oral history interviews helped me identify the photograph. To indicate that he trusted his audience, Glass would toss his Superbowl ring into the crowd and invite prisoners to take close look at it.</p>
                 </div>
             </div>
 
@@ -71,13 +71,13 @@ The cartoons included are from _The Starke Reality II_, a short-lived publicatio
                 <div class="item">
                     <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/cartoon1.jpg" alt="Slide 6" />
                     <div class="carousel-caption">
-                        <p>Thousands of Florida prisoners worked in hot fields and on scorching roads. Asking for water could sometimes result in severe beatings or solitary confinement in a "sweat box." This 1977 cartoon in <i>Starke Reality II</i> (Vol. 2, p. 26) lays bare the calculations prisoners can be forced to make when their human needs put them at risk of institutional punishment. <i>Starke Reality II</i> was a short-lived inmate newspaper that put out a few issues in the late 1970s. The newspaper takes its name from the town of Starke, Florida, where Florida State Prison is located. The small band of lawyers who defend Florida's capital cases joke that the town is "just down the road from Bleake." (The artist's name is illegible to me. If you think you can read it, please let me know!)</p>
+                        <p>Thousands of Florida prisoners worked in hot fields and on scorching roads. Asking for water could sometimes result in severe beatings or solitary confinement in a "sweat box." This 1977 cartoon in <i>Starke Reality II</i> (Vol. 2, p. 26) lays bare the calculations prisoners could be forced to make when their human needs put them at risk of institutional punishment. <i>Starke Reality II</i> was a short-lived inmate newspaper that put out a few issues in the late 1970s. The newspaper takes its name from the town of Starke, Florida, where Florida State Prison is located. The small band of lawyers who defend Florida's capital cases joke that the town is "just down the road from Bleake." (The artist's name is illegible to me. If you think you can read it, please let me know!)</p>
                     </div>
                 </div>
   <div class="item">
                     <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/getawaycartoon.jpg" alt="Slide 7" />
                     <div class="carousel-caption">
-                        <p>Many prisoners were aware that their experiences of forced labor were incongruous with the emerging idea of Florida as a sunshine paradise. This 1977 cartoon in the <i>Starke Reality II</i> (Vol. 2, p. 3) shows a prisoner working under armed guard. Beneath him are the words "America's Vacationland." During my ethnographic fieldwork, several prisoners suggested that I title my dissertation "From the Sunshine State to the Prison State."</p>
+                        <p>Many prisoners were aware that their experiences of forced labor were incongruous with the emerging idea of Florida as a sunshine paradise. This 1977 cartoon in the <i>Starke Reality II</i> (Vol. 2, p. 3) shows a prisoner working under armed guard. Beneath him are the words "America's Vacationland." During my ethnographic fieldwork, several prisoners suggested that I title my manuscript "From the Sunshine State to the Prison State."</p>
                     </div>
                 </div>
  <div class="item">
@@ -95,19 +95,19 @@ The cartoons included are from _The Starke Reality II_, a short-lived publicatio
                 <div class="item">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/FF4_2.jpg" alt="Slide 10" />
                 <div class="carousel-caption">
-                   <p>I found this picture in the archives with no explanation or location, but was probably taken near Florida Correctional Facility in Lowell, Florida. As prisoners of the Florida Department of Corrections, women were required to wear dresses and most worked in the garment shop, sewing uniforms for male prisoners and staff well as their fellow female prisoners. At the time this image was taken, the official song of FCI Lowell ("A Bridge over Troubled Waters") contained the lines, “Nothing is impossible when you put your trust in God; Nothing is impossible when you’re trusting in His Word.”</p>
+                   <p>I found this picture in the archives with no explanation or location, but was probably taken near Florida Correctional Facility in Lowell, Florida. As prisoners of the Florida Department of Corrections, women were required to wear dresses and most worked in the garment shop, sewing uniforms for male prisoners, prison staff, and their fellow women prisoners. At the time this image was taken, the official song of FCI Lowell ("A Bridge over Troubled Waters") contained the lines, “Nothing is impossible when you put your trust in God/ Nothing is impossible when you’re trusting in His Word.”</p>
                  </div>
                  </div>
    <div class="item">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/swampcartoon.jpg" alt="Slide 11" />
                 <div class="carousel-caption">
-                   <p>Florida prisons had a lot of "Troubled Waters" as most were built in swamps. Far from municipal infrastructures, providing clean drinking water and adequate sewage has always been a problem. During my ethnographic fieldwork in 2015 and 2016, prison staff would announce on what felt like a bi-weekly basis that it wasn't safe to drink the water.</p>
+                   <p>Florida prisons had a lot of "Troubled Waters" as most were built in or near swamps. Far from municipal infrastructures, providing clean drinking water and adequate sewage has always been a problem. During my ethnographic fieldwork in 2015 and 2016, prison staff would announce on what felt like a bi-weekly basis that it wasn't safe to drink the water.</p>
                  </div>
                  </div>
 <div class="item">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/beardcartoon.jpg" alt="Slide 12" />
                 <div class="carousel-caption">
-                   <p>Facial hair has long been an issue of contention in Florida prisons. Until the 2015 U.S. Supreme Court decision in <i>Holt v. Hobbs</i> Florida prisoners were subject to solitary confinement and forced shaving if they refused to shave. I was conducting my fieldwork when the Supreme Court invalidated prohibitions on facial hair and, within a few weeks, it seemed that the majority of prisoners had beards. The warden still required prisoners to shave their necks because he "didn't want [them] looking like winos." This 1977 cartoon from the <i>Starke Reality II</i> (Volume II, p. 11) mocks the prison system's antiquated idea that professionalization was incompatible with facial hair. </p>
+                   <p>Facial hair has long been an issue of contention in Florida prisons. Until the 2015 U.S. Supreme Court decision in <i>Holt v. Hobbs</i> Florida prisoners were subject to solitary confinement if they refused to shave. I was conducting my fieldwork when the Supreme Court invalidated prohibitions on facial hair and, within a few weeks, it seemed that the majority of prisoners had beards. The warden still required prisoners to shave their necks because, according to prisoners I spoke with, he "didn't want [them] looking like winos." This 1977 cartoon from the <i>Starke Reality II</i> (Volume II, p. 11) mocks the prison system's antiquated idea that professionalization was incompatible with facial hair. </p>
                  </div>
                  </div>
 <div class="item">
@@ -125,7 +125,7 @@ The cartoons included are from _The Starke Reality II_, a short-lived publicatio
             <div class="item">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/shakedown.jpg" alt="Slide 15" />
                 <div class="carousel-caption">
-                    <p>This is a picture of a sign leading to the Visitor's Park at the North Florida Reception and Medical Center in Lake Butler, Florida, ca. 1972. Prisoners endured strip searches before and after meeting their loved ones, who were also thoroughly searched. On Saturday mornings, I often waited outside the main gate with families, many of whom were made to wait hours before being allowed in to see their loved ones.</p>
+                    <p>This is a picture of a sign leading to the Visitor's Park at the North Florida Reception and Medical Center in Lake Butler, Florida, ca. 1972. Prisoners endured strip searches before and after meeting their loved ones, who were also thoroughly searched. On Saturday mornings in 2015 and 2016, I often waited outside the main gate with families, many of whom had travelled great distances at great expense to see their loved ones.</p>
                 </div>
             </div>
             <div class="item">
