@@ -316,6 +316,12 @@ Wednesday, October 17
 
 #### Policing Religious and Racial Pluralism during the Cold War
 
+
+
+<div class="container">
+<div class="row">
+<div class="col-sm-6" markdown="1">
+
 Monday October 22
 
 * Robert Bellah, “Civil Religion in America,” _Daedalus_ 96, no. 1, Religion in America (Winter, 1967), 1-21.
@@ -323,10 +329,6 @@ Monday October 22
 
 ***
 
-
-<div class="container">
-<div class="row">
-<div class="col-sm-6" markdown="1">
 
 
 Wednesday, October 24
@@ -366,6 +368,12 @@ Wednesday, October 31 <span style="color:red">**Blog Post #3 Due Before Class.**
 
 #### Religious Movements for Criminal Justice Reform amid Mass Incarceration (on the Political Left and Right)
 
+
+<div class="container">
+<div class="row">
+<div class="col-sm-6" markdown="1">
+
+
 Monday, November 5
 
 * Michelle Alexander, “Introduction,” _The New Jim Crow: Mass Incarceration in the Age of Colorblindness_ (New York: The New Press, 2012).
@@ -384,10 +392,6 @@ Wednesday, November 7
 
 
 
-<div class="container">
-<div class="row">
-<div class="col-sm-6" markdown="1">
-
 
 Monday, November 12
 
@@ -402,16 +406,6 @@ Wednesday, November 14: <span style="color:red">**Second Short Essay Due in Clas
 * Winnifred Sullivan, "The God Pod," in _Prison Religion: Faith-Based Reform and the Constitution_ (Princeton: Princeton University Press, 2009).
 * Kathryn Schultz, ["From the White House to the Jailhouse to the Pulpit: Chuck Colson on Being Wrong," _Slate_ (October 20, 2010)](http://www.slate.com/blogs/thewrongstuff/2010/10/20/from_the_white_house_to_the_jailhouse_to_the_pulpit_chuck_colson_on_being_wrong.html) [Interview with Chuck Colson.]
 
-***
-
-Monday, November 19
-* <span style="color:red">**No Class.**</span>
-
-***
-
-Wednesday, November 21
-* <span style="color:red">**No Class: Thanksgiving.**</span>
-
 
 
 </div>
@@ -422,6 +416,18 @@ Wednesday, November 21
 _After converting in prison, former Nixon aide and Watergate conspirator Chuck Colson established Prison Fellowship. The organization promotes prison ministry and advocates for criminal justice reform. Colson died in 2012. Courtesy of Prison Fellowship._
 
 </div></div></div>
+
+
+***
+
+Monday, November 19
+* <span style="color:red">**No Class.**</span>
+
+***
+
+Wednesday, November 21
+* <span style="color:red">**No Class: Thanksgiving.**</span>
+
 
 
 ***
