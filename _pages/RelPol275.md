@@ -419,7 +419,7 @@ Wednesday, November 21
 
  ![](http://cyrusobrien.com/images/SyllabiImages/RelPolt275/colson.png){: style="max-width: 300px;  border: 10px;"}
 
-_After converting in prison, former Nixon aide and Watergate conspirator Chuck Colson established Prison Fellowship. The organization promotes prison ministry and advocates for criminal justice reform. Colson died in 2012. Courtesy of Prison Fellowship.
+_After converting in prison, former Nixon aide and Watergate conspirator Chuck Colson established Prison Fellowship. The organization promotes prison ministry and advocates for criminal justice reform. Colson died in 2012. Courtesy of Prison Fellowship._
 
 </div></div></div>
 
