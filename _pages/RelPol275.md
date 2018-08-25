@@ -378,13 +378,13 @@ Wednesday, November 7
 
 * James Forman, Jr., [_Fresh Air_ Interview (July 17, 2017)](https://www.npr.org/2017/07/17/537715793/how-black-leaders-unwittingly-contributed-to-the-era-of-mass-incarceration)
 
-* John Pfaff, [_Slate_ Interview] (February 11, 2016)](http://www.slate.com/articles/news_and_politics/crime/2016/02/michelle_alexander_blames_hillary_clinton_for_mass_incarceration_she_shouldn.html).
+* John Pfaff, [[_Slate_ Interview] (February 11, 2016)](http://www.slate.com/articles/news_and_politics/crime/2016/02/michelle_alexander_blames_hillary_clinton_for_mass_incarceration_she_shouldn.html).
 
 ***
 
 Monday, November 12
 
-* American Friends Service Committee, _A Struggle for Justice: A Report on Crime and Punishment in America_ (New York: Hill and Wang, 1971).
+* American Friends Service Committee, _A Struggle for Justice: A Report on Crime and Punishment in America_ (New York: Hill and Wang, 1971), excerpts.
 * Michelle Alexander, [Facebook Post, September 15, 2016](https://m.facebook.com/168304409924191/posts/1090233291064627).
 * Film: Hoodlum Priest (1961), dir., Irvin Kershner
 
