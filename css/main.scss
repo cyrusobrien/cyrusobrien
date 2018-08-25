@@ -76,14 +76,14 @@ firstp {
 /* Grid overrides */
 .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6,
 .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
-	padding-left: 16px;
-	padding-right: 16px;
+	padding-left: 0px;
+	padding-right: 0px;
 }
 
 /* Grid overrides */
 .col-sm-4 {
-	padding-left: 26px;
-	padding-right: 26px;
+	padding-left: 0px;
+	padding-right: 0px;
 }
 
 
@@ -134,4 +134,8 @@ h4 {
 .buffer {
 	padding:300px;
 	position:relative;
+}
+
+.rowh{
+	height:80vh;
 }
