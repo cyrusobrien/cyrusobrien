@@ -382,6 +382,13 @@ Wednesday, November 7
 
 ***
 
+
+
+<div class="container">
+<div class="row">
+<div class="col-sm-6" markdown="1">
+
+
 Monday, November 12
 
 * American Friends Service Committee, _A Struggle for Justice: A Report on Crime and Punishment in America_ (New York: Hill and Wang, 1971), excerpts.
@@ -404,6 +411,18 @@ Monday, November 19
 
 Wednesday, November 21
 * <span style="color:red">**No Class: Thanksgiving.**</span>
+
+
+
+</div>
+<div class="col-sm-4" style="padding:26px; max-width:350px;">
+
+ ![](http://cyrusobrien.com/images/SyllabiImages/RelPolt275/colson.png){: style="max-width: 300px;  border: 10px;"}
+
+_After converting in prison, former Nixon aide and Watergate conspirator Chuck Colson established Prison Fellowship. The organization promotes prison ministry and advocates for criminal justice reform. Colson died in 2012. Courtesy of Prison Fellowship.
+
+</div></div></div>
+
 
 ***
 
