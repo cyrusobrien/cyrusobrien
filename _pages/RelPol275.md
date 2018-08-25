@@ -3,7 +3,7 @@ title: "The Politics of Religion, Crime, and Punishment in the United States Rel
 layout: noheader
 sitemap: false
 excerpt: "Syllabus: Politics of Religion, Crime, and Punishment in the US"
-permalink: syllabi/RelPolt275
+permalink: teaching/RelPolt275/
 ---
 
 # The Politics of Religion, Crime, and Punishment in the United States
