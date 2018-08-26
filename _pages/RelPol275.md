@@ -85,7 +85,7 @@ Throughout the semester, you will write four blog posts, each due before the sta
 
 #### Quizzes
 
-Weeks without other assignments will entail short quizzes (5-6 minutes) at the beginning of class. These quizzes are graded generously and serve two functions: 1) they help ensure that all participants read the materials before class and 2) they help guide your studying and learning by highlighting the most important questions and themes of the course. The goal-setting assignment due through Canvas before the second day of class is assessed as a quiz for grading purposes.
+Weeks without other assignments will entail short quizzes (5-6 minutes) at the beginning of class. These quizzes are graded generously and serve two functions: 1) they help ensure that all participants read the materials before class and 2) they help guide your studying and learning by highlighting the most important questions and themes of the course. The goal setting assignment due through Canvas before the second day of class is assessed as a quiz for grading purposes.
 
 #### Short Essays
 
