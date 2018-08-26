@@ -85,7 +85,7 @@ Throughout the semester, you will write four blog posts, each due before the sta
 
 #### Quizzes
 
-Weeks without other assignments will entail short quizzes (5-6 minutes) at the beginning of class. These quizzes are graded generously and serve two functions: 1) they help ensure that all participants read the materials before class and 2) they help guide your studying and learning by highlighting the most important questions and themes of the course. The assignment due through Canvas before the second day of class is assessed as a quiz for grading purposes.
+Weeks without other assignments will entail short quizzes (5-6 minutes) at the beginning of class. These quizzes are graded generously and serve two functions: 1) they help ensure that all participants read the materials before class and 2) they help guide your studying and learning by highlighting the most important questions and themes of the course. The goal-setting assignment due through Canvas before the second day of class is assessed as a quiz for grading purposes.
 
 #### Short Essays
 
@@ -156,7 +156,7 @@ Monday, August 27, 2018
 <div class="col-sm-6" markdown="1">
 
 
-Wednesday, August 29:
+Wednesday, August 29: <span style="color:red"> **Goal Setting Assignment Due before Class.**</span>
 
 * Katherine Grandjean, “‘Our Fellow-Creatures & our Fellow-Christians’: Race and Religion in Eighteenth-Century Narratives of Indian Crime,” _American Quarterly_ 62, No. 4 (December 2010), 925-950.
 
