@@ -262,9 +262,9 @@ Monday, September 24
 
 Wednesday, September 26
 
-* Michael Willrich, “The Price of Justice” and “Socialized Law in Action,” _City of Courts: Socializing Justice in Progressive Era Chicago_ (New York: Cambridge University Press, 2003).
+* Michael Willrich, “Socialized Law in Action,” _City of Courts: Socializing Justice in Progressive Era Chicago_ (New York: Cambridge University Press, 2003).
 
-* Chicago Vice Commission, EXCERPTS, [_The Social Evil in Chicago; A Study of Existing Conditions with Recommendations by the Vice Commission of Chicago_](https://archive.org/details/socialevilinchic00chic) (Chicago: Gunthorp-Warren, 1911), p. 1-2 and 261-278.
+* Chicago Vice Commission, [_The Social Evil in Chicago; A Study of Existing Conditions with Recommendations by the Vice Commission of Chicago_](https://archive.org/details/socialevilinchic00chic) (Chicago: Gunthorp-Warren, 1911), p. 1-2 and 261-278.
 
 </div>
 
@@ -289,13 +289,12 @@ Monday, October 1:  <span style="color:red"> **Blog Post #2 Due before class.**<
 
 Wednesday, October 3
 
-* Khalil Gibran Mohammad, “Introduction: The Mismeasure of Crime” and “Incriminating Culture: The Limits of Racial Liberalism in the Progressive Era” in _The Condemnation of Blackness: Race, Crime, and the Making of Modern America_ (Cambridge, Mass: Harvard University Press, 2011).
+* Khalil Gibran Mohammad, “Introduction: The Mismeasure of Crime” and “Incriminating Culture: The Limits of Racial Liberalism in the Progressive Era” [EXCERPTS] in _The Condemnation of Blackness: Race, Crime, and the Making of Modern America_ (Cambridge, Mass: Harvard University Press, 2011).
 
 ***
 
 Monday, October 8
 
-* Ralph Luker, “Urban Mission,” in _The Social Gospel in Black and White: American Racial Reform 1885-1912_ (Chapel Hill: University of North Carolina Press, 1991).
 * Laura Briggs, “Sex and Citizenship: The Politics of Prostitution in Puerto Rico, 1898–1918,” in _Reproducing Empire: Race, Sex, Science, and U.S. Imperialism in Puerto Rico_ (Berkeley: University of California Press, 2011).
 
 ***
@@ -324,8 +323,11 @@ Wednesday, October 17
 
 Monday October 22
 
-* Robert Bellah, “Civil Religion in America,” _Daedalus_ 96, no. 1, Religion in America (Winter, 1967), 1-21.
-* Primary Source Analysis: Civil Religion in Cold War-Era Probation and Parole Reports.
+* Kevin Kruse, [“Introduction,” in _One Nation Under God_ (New York: Basic Books, 2015)](https://books.google.com/books?id=jwGCBgAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false).
+
+* Will Herberg, _Protestant, Catholic, Jew: An Essay on American Religious Sociology_ (New York: Anchor Books, 1955), EXCERPTS.
+
+* Primary Source Analysis: Civil Religion in Cold War-Era Probation and Parole Reports. [Details distributed in class.]
 
 ***
 
@@ -358,27 +360,29 @@ _Prisoners at Attica State Prison in 1971 participate in a negotiation session. 
 
 ***
 
-Wednesday, October 31 <span style="color:red">**Blog Post #3 Due Before Class.**</span>
-
-* Sarah Barringer Gordon, “Faith as Liberation,” in _The Spirit of the Law: Religious Voices and the Constitution in Modern America_ (Cambridge, MA: Harvard University Press, 2010).
-
-* Garrett Felber, “Shades of Mississippi: The Nation of Islam’s Prison Organizing, the Carceral State, and the Black Freedom Struggle,” Journal of American History (July 2018).
-
-***
 
 #### Religious Movements for Criminal Justice Reform amid Mass Incarceration (on the Political Left and Right)
-
 
 <div class="container">
 <div class="row">
 <div class="col-sm-6" markdown="1">
 
 
-Monday, November 5
+Wednesday, October 31
+
 
 * Michelle Alexander, “Introduction,” _The New Jim Crow: Mass Incarceration in the Age of Colorblindness_ (New York: The New Press, 2012).
 
 * Peter Wagner and Wendy Sawyer, [_Mass Incarceration: The Whole Pie_](https://www.prisonpolicy.org/reports/pie2018.html), Prison Policy Intiative, March 2018.
+
+***
+
+
+Monday, November 5 <span style="color:red">**Blog Post #3 Due Before Class.**</span>
+
+* Garrett Felber, “Shades of Mississippi: The Nation of Islam’s Prison Organizing, the Carceral State, and the Black Freedom Struggle,” Journal of American History (July 2018).
+* Suggested/supplemental listening: [Interview with Garrett Felber](http://jahpodcast.com/podcast/201806.mp3), Journal of American History Podcast (June 2018).
+* <span style="color:green">Skype Q&A with Garrett Felber.</span>
 
 ***
 
@@ -390,12 +394,9 @@ Wednesday, November 7
 
 ***
 
-
-
-
 Monday, November 12
 
-* American Friends Service Committee, _A Struggle for Justice: A Report on Crime and Punishment in America_ (New York: Hill and Wang, 1971), excerpts.
+* American Friends Service Committee, _A Struggle for Justice: A Report on Crime and Punishment in America_ (New York: Hill and Wang, 1971), EXCERPTS.
 * Michelle Alexander, [Facebook Post, September 15, 2016](https://m.facebook.com/168304409924191/posts/1090233291064627).
 * Film: Hoodlum Priest (1961), dir., Irvin Kershner
 
