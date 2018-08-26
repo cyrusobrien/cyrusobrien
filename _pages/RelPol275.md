@@ -445,8 +445,8 @@ Monday, November 26
 
 Wednesday, November 28: <span style="color:red">**Blog Post #4 Due Before Class.**</span>
 
-* Michael Barkun, “The FBI and American Muslims after September 11,” in The FBI and Religion.
-* Junaid Rana, “Policing Kashmiri Brooklyn,” in The FBI and Religion.
+* Michael Barkun, “The FBI and American Muslims after September 11,” in _The FBI and Religion._
+* Junaid Rana, “Policing Kashmiri Brooklyn,” in _The FBI and Religion._
 
 ***
 
