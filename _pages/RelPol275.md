@@ -160,7 +160,9 @@ Wednesday, August 29: <span style="color:red"> **Goal Setting Assignment Due bef
 
 * Katherine Grandjean, “‘Our Fellow-Creatures & our Fellow-Christians’: Race and Religion in Eighteenth-Century Narratives of Indian Crime,” _American Quarterly_ 62, No. 4 (December 2010), 925-950.
 
-* Nathan Strong, _A Sermon Preached in Hartford, June 10th, 1797, at the Execution of Richard Doane_ (Hartford: Elisha Babcock, 1797).
+* Nathan Strong, _A Sermon Preached in Hartford, June 10th, 1797, at the Execution of Richard Doane_ (Hartford: Elisha Babcock, 1797). A PDF of the original printing is available on Canvas. A transcription is available [here](https://quod.lib.umich.edu/cgi/t/text/text-idx?c=evans;cc=evans;rgn=main;view=text;idno=N24808.0001.001).
+
+
 
 </div>
 <div class="col-sm-4" style="padding:26px; max-width:350px;">
@@ -422,11 +424,13 @@ _After converting in prison, former Nixon aide and Watergate conspirator Chuck C
 ***
 
 Monday, November 19
+
 * <span style="color:red">**No Class.**</span>
 
 ***
 
 Wednesday, November 21
+
 * <span style="color:red">**No Class: Thanksgiving.**</span>
 
 
