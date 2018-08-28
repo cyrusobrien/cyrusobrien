@@ -77,7 +77,7 @@ The most important assignments for this course are to attend class regularly, do
 
 #### #RelPolt
 
-Whether it’s the Trump Administration’s travel ban or churches trying to shield people from deportation, the themes of this course are often relevant to current events in the U.S. and elsewhere in the world. Each student in the course will create an account on Twitter and tweet about current events relating to the course using the hashtag #RelPolt. We will often begin class by discussing the news and our tweets about it. Each student should share at least 8 articles before the end of the semester.
+Whether it’s the Trump Administration’s travel ban or churches trying to shield people from deportation, the themes of this course are often relevant to current events in the U.S. and elsewhere in the world. Each student in the course will create an account on Twitter and tweet about current events relating to the course using the hashtag #RelPolt. We will often begin class by discussing the news and our tweets about it. Each student should share at least **5 articles** before the end of the semester.
 
 #### Blog Posts
 
