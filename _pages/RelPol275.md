@@ -186,7 +186,8 @@ _A depiction of a hanging in New England, courtesy of the New England Historical
 
 Wednesday, September 5
 
-* Jennifer Graber, “Prison as Garden” and “The Furnace of Affliction,” in The Furnace of Affliction: Prisons and Religion in Antebellum America (Durham, N.C.: University of North Carolina Press, 2011).
+* Michel Foucault, "Torture," in _Discipline and Punish: The Birth of the Prison_ (New York: Vintage, 1979).
+* Jennifer Graber, “Prison as Garden” in The Furnace of Affliction: Prisons and Religion in Antebellum America (Durham, N.C.: University of North Carolina Press, 2011).
 * <span style="color:green"> **Handout for Blog Post #1 Distributed in Class.**</span>
 
 ***
