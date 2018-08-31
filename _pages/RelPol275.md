@@ -187,7 +187,6 @@ _A depiction of a hanging in New England, courtesy of the New England Historical
 Wednesday, September 5
 
 * Michel Foucault, "Torture," in _Discipline and Punish: The Birth of the Prison_ (New York: Vintage, 1979).
-* Jennifer Graber, “Prison as Garden” in The Furnace of Affliction: Prisons and Religion in Antebellum America (Durham, N.C.: University of North Carolina Press, 2011).
 * <span style="color:green"> **Handout for Blog Post #1 Distributed in Class.**</span>
 
 ***
@@ -200,8 +199,9 @@ Monday, September 10 (Rosh Hashana): <span style="color:red"> **Blog Post #1 Due
 
 Wednesday, September 12
 
-* Michael Ignatieff, “Pentonville” in A Just Measure of Pain (New York: Pantheon, 1978).
+* Jennifer Graber, “Prison as Garden” in The Furnace of Affliction: Prisons and Religion in Antebellum America (Durham, N.C.: University of North Carolina Press, 2011).
 * [Board of Managers of the Prison Discipline Society, First Annual Report (1826), p. 5-6, 8 (on Solitary Confinement), 54-60, and 77-78](https://babel.hathitrust.org/cgi/pt?id=mdp.39015031043790).
+* Recommended Michael Ignatieff, “Pentonville” in A Just Measure of Pain (New York: Pantheon, 1978).
 *  <span style="color:green"> **First essay assignment distributed and discussed in class.**</span>
 
 ***
