@@ -222,11 +222,12 @@ Monday, September 17
 
 ***
 
-Wednesday, September 19: <span style="color:red"> **First Short Essay Due in Class.**</span>
+Wednesday, September 19:
 
 * Film: _13th_, Ava DuVernay (Netflix, 2013).
 </div>
 
+ <span style="color:red"> **First Short Essay Due on Canvas at 6pm Friday, September 21.**</span>
 
 <div class="col-sm-4" style="padding:26px; max-width:350px;">
 
@@ -284,7 +285,7 @@ _Campaigns against "vice" defined many aspects of urban American life during the
 
 ***
 
-Monday, October 1:  <span style="color:red"> **Blog Post #2 Due before class.**</span>
+Monday, October 1:  <span style="color:red"> **Blog Post #2 Due at 10 pm September 30.**</span>
 
 * Paul Boyer, “Battling the Saloon and the Brothel: The Great Coercive Crusades” and “Young Men and the City: The Emergence of the YMCA” in _Urban Masses and Moral Order in America, 1820-1920_ (Cambridge, Mass: Harvard University Press, 1978), 191-204.
 
@@ -381,7 +382,7 @@ Wednesday, October 31
 ***
 
 
-Monday, November 5 <span style="color:red">**Blog Post #3 Due Before Class.**</span>
+Monday, November 5 <span style="color:red">**Blog Post #3 Due at 10 pm on November 4.**</span>
 
 * Garrett Felber, “Shades of Mississippi: The Nation of Islam’s Prison Organizing, the Carceral State, and the Black Freedom Struggle,” Journal of American History (July 2018).
 * Suggested/supplemental listening: [Interview with Garrett Felber](http://jahpodcast.com/podcast/201806.mp3), Journal of American History Podcast (June 2018).
@@ -448,7 +449,7 @@ Monday, November 26
 
 ***
 
-Wednesday, November 28: <span style="color:red">**Blog Post #4 Due Before Class.**</span>
+Wednesday, November 28: <span style="color:red">**Blog Post #4 Due 10 pm November 27.**</span>
 
 * Michael Barkun, “The FBI and American Muslims after September 11,” in _The FBI and Religion._
 * Junaid Rana, “Policing Kashmiri Brooklyn,” in _The FBI and Religion._
