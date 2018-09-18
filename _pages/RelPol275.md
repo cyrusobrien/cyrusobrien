@@ -222,12 +222,20 @@ Monday, September 17
 
 ***
 
+#### Criminalization, Racism, and Social Control
+
 Wednesday, September 19:
 
 * Film: _13th_, Ava DuVernay (Netflix, 2013).
-</div>
+
 
  <span style="color:red"> **First Short Essay Due on Canvas at 6pm Friday, September 21.**</span>
+
+Monday, September 24
+
+* Victor Rios, Preface and Chapter 4, _Punished: Policing the Lives of Black and Latino Boys_ (New York University Press, 2011).
+
+</div>
 
 <div class="col-sm-4" style="padding:26px; max-width:350px;">
 
@@ -248,6 +256,8 @@ _Solitude and isolation were believed to facilitate penitence and reform. Courte
 
 ***
 
+
+
 #### Vice, Morals, and the Social Gospel
 
 
@@ -257,18 +267,17 @@ _Solitude and isolation were believed to facilitate penitence and reform. Courte
 
 
 
-Monday, September 24
-
-* Matthew Bowman, “Sin, Spirituality and Primitivism: The Theologies of the American Social Gospel, 1885-1917,” _Religion and American Culture: A Journal of Interpretation_ 17, no. 1, (2007), Pages 95-126
-* William T. Stead, [“Preface [to the American Version],” “In Harrison Street Police Station,” and “The Scarlet Woman” in _If Christ Came to Chicago!_](https://archive.org/details/ifchristcametoc02steagoog) (London: Review of Reviews, 1894).
-
 ***
 
 Wednesday, September 26
 
-* Michael Willrich, “Socialized Law in Action,” _City of Courts: Socializing Justice in Progressive Era Chicago_ (New York: Cambridge University Press, 2003).
 
-* Chicago Vice Commission, [_The Social Evil in Chicago; A Study of Existing Conditions with Recommendations by the Vice Commission of Chicago_](https://archive.org/details/socialevilinchic00chic) (Chicago: Gunthorp-Warren, 1911), p. 1-2 and 261-278.
+* Christopher H. Evans, ["How the Social Gospel Movement Explains the Roots of Today's Religious Left," _Salon_ (July 25, 2017)](https://www.salon.com/2017/07/25/how-the-social-gospel-movement-explains-the-roots-of-todays-religious-left_partner/)
+* Matthew Bowman, “Sin, Spirituality and Primitivism: The Theologies of the American Social Gospel, 1885-1917,” _Religion and American Culture: A Journal of Interpretation_ 17, no. 1, (2007), EXCERPTS from pages 95-126.
+
+* William T. Stead, [“Preface [to the American Version],” and “In Harrison Street Police Station,”in _If Christ Came to Chicago!_](https://archive.org/details/ifchristcametoc02steagoog) (London: Review of Reviews, 1894).
+
+
 
 </div>
 
@@ -287,7 +296,11 @@ _Campaigns against "vice" defined many aspects of urban American life during the
 
 Monday, October 1:  <span style="color:red"> **Blog Post #2 Due at 10 pm September 30.**</span>
 
-* Paul Boyer, “Battling the Saloon and the Brothel: The Great Coercive Crusades” and “Young Men and the City: The Emergence of the YMCA” in _Urban Masses and Moral Order in America, 1820-1920_ (Cambridge, Mass: Harvard University Press, 1978), 191-204.
+* Paul Boyer, “Battling the Saloon and the Brothel: The Great Coercive Crusades” in _Urban Masses and Moral Order in America, 1820-1920_ (Cambridge, Mass: Harvard University Press, 1978).
+
+* Michael Willrich, “Socialized Law in Action,” _City of Courts: Socializing Justice in Progressive Era Chicago_ (New York: Cambridge University Press, 2003).
+
+* Chicago Vice Commission, [_The Social Evil in Chicago; A Study of Existing Conditions with Recommendations by the Vice Commission of Chicago_](https://archive.org/details/socialevilinchic00chic) (Chicago: Gunthorp-Warren, 1911), p. 1-2 and 261-278.
 
 ***
 
