@@ -272,11 +272,12 @@ _Solitude and isolation were believed to facilitate penitence and reform. Courte
 Wednesday, September 26
 
 
-* Christopher H. Evans, ["How the Social Gospel Movement Explains the Roots of Today's Religious Left," _Salon_ (July 25, 2017)](https://www.salon.com/2017/07/25/how-the-social-gospel-movement-explains-the-roots-of-todays-religious-left_partner/)
-* Matthew Bowman, “Sin, Spirituality and Primitivism: The Theologies of the American Social Gospel, 1885-1917,” _Religion and American Culture: A Journal of Interpretation_ 17, no. 1, (2007), EXCERPTS from pages 95-126.
+* Christopher H. Evans, ["Introduction", in _The Social Gospel in American Religion: A History_ (New York: New York University Press, 2017)[https://books.google.com/books?id=24MtDgAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false].
 
-* William T. Stead, [“Preface [to the American Version],” and “In Harrison Street Police Station,”in _If Christ Came to Chicago!_](https://archive.org/details/ifchristcametoc02steagoog) (London: Review of Reviews, 1894).
 
+* William T. Stead, [“Preface [to the American Version],” and “In Harrison Street Police Station,” in _If Christ Came to Chicago!_](https://archive.org/details/ifchristcametoc02steagoog) (London: Review of Reviews, 1894).
+
+* Worth a look but not required: Matthew Bowman, “Sin, Spirituality and Primitivism: The Theologies of the American Social Gospel, 1885-1917,” _Religion and American Culture: A Journal of Interpretation_ 17, no. 1, (2007), especially pages 95-102.
 
 
 </div>
@@ -306,7 +307,7 @@ Monday, October 1:  <span style="color:red"> **Blog Post #2 Due at 10 pm Septemb
 
 Wednesday, October 3
 
-* Khalil Gibran Mohammad, “Introduction: The Mismeasure of Crime” and “Incriminating Culture: The Limits of Racial Liberalism in the Progressive Era” [EXCERPTS] in _The Condemnation of Blackness: Race, Crime, and the Making of Modern America_ (Cambridge, Mass: Harvard University Press, 2011).
+* Khalil Gibran Mohammad, “Introduction: The Mismeasure of Crime” and “Incriminating Culture: The Limits of Racial Liberalism in the Progressive Era” in _The Condemnation of Blackness: Race, Crime, and the Making of Modern America_ (Cambridge, Mass: Harvard University Press, 2011).
 
 ***
 
