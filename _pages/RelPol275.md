@@ -272,7 +272,7 @@ _Solitude and isolation were believed to facilitate penitence and reform. Courte
 Wednesday, September 26
 
 
-* Christopher H. Evans, ["Introduction", in _The Social Gospel in American Religion: A History_ (New York: New York University Press, 2017)[https://books.google.com/books?id=24MtDgAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false].
+* Christopher H. Evans, ["Introduction", in _The Social Gospel in American Religion: A History_ (New York: New York University Press, 2017)](https://books.google.com/books?id=24MtDgAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false).
 
 
 * William T. Stead, [“Preface [to the American Version],” and “In Harrison Street Police Station,” in _If Christ Came to Chicago!_](https://archive.org/details/ifchristcametoc02steagoog) (London: Review of Reviews, 1894).
