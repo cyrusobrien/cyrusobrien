@@ -203,6 +203,7 @@ Wednesday, September 12
 * [Board of Managers of the Prison Discipline Society, First Annual Report (1826), p. 5-6, 8 (on Solitary Confinement), 54-60, and 77-78](https://babel.hathitrust.org/cgi/pt?id=mdp.39015031043790).
 * Recommended Michael Ignatieff, “Pentonville” in A Just Measure of Pain (New York: Pantheon, 1978).
 *  <span style="color:green"> **First essay assignment distributed and discussed in class.**</span>
+* Theme song: [The Tallest Man on Earth, "The Gardener" (2008)](https://www.youtube.com/watch?v=Wa3lyo_Eowc).
 
 ***
 
@@ -234,6 +235,8 @@ Wednesday, September 19:
 Monday, September 24
 
 * Victor Rios, Preface and Chapter 4, _Punished: Policing the Lives of Black and Latino Boys_ (New York University Press, 2011).
+
+* Theme song: [Public Enemy, "Public Enemy No. 1" (1987)](https://www.youtube.com/watch?v=u92k48bG8d4).
 
 </div>
 
@@ -279,6 +282,8 @@ Wednesday, September 26
 
 * Worth a look but not required: Matthew Bowman, “Sin, Spirituality and Primitivism: The Theologies of the American Social Gospel, 1885-1917,” _Religion and American Culture: A Journal of Interpretation_ 17, no. 1, (2007), especially pages 95-102.
 
+* Theme song: [Madonna, Material Girl (1984)](https://www.youtube.com/watch?v=6p-lDYPR2P8).
+
 
 </div>
 
@@ -303,11 +308,15 @@ Monday, October 1:  <span style="color:red"> **Blog Post #2 Due at 10 pm Septemb
 
 * Chicago Vice Commission, [_The Social Evil in Chicago; A Study of Existing Conditions with Recommendations by the Vice Commission of Chicago_](https://archive.org/details/socialevilinchic00chic) (Chicago: Gunthorp-Warren, 1911), p. 1-2 and 261-278.
 
+* Theme song: [Amy Winehouse, "Rehab" (2006)](https://www.youtube.com/watch?v=KUmZp8pR1uc).
+
 ***
 
 Wednesday, October 3
 
 * Khalil Gibran Mohammad, “Introduction: The Mismeasure of Crime” and “Incriminating Culture: The Limits of Racial Liberalism in the Progressive Era” in _The Condemnation of Blackness: Race, Crime, and the Making of Modern America_ (Cambridge, Mass: Harvard University Press, 2011).
+
+* Theme song: [Harry Nilsson, "Coconut" (1971)](https://www.youtube.com/watch?v=5LxC3M-Yngs).
 
 ***
 
