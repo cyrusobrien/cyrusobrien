@@ -162,7 +162,7 @@ Wednesday, August 29: <span style="color:red"> **Goal Setting Assignment Due bef
 
 * Nathan Strong, _A Sermon Preached in Hartford, June 10th, 1797, at the Execution of Richard Doane_ (Hartford: Elisha Babcock, 1797). A PDF of the original printing is available on Canvas. A transcription is available [here](https://quod.lib.umich.edu/cgi/t/text/text-idx?c=evans;cc=evans;rgn=main;view=text;idno=N24808.0001.001).
 
-
+* [Bob Marley and the Wailers, "Keep on Moving" (1977)](https://www.youtube.com/watch?v=DnnGnV7wEdo).
 
 </div>
 <div class="col-sm-4" style="padding:26px; max-width:350px;">
@@ -194,6 +194,8 @@ Wednesday, September 5
 Monday, September 10 (Rosh Hashana): <span style="color:red"> **Blog Post #1 Due before Class.**</span>
 
 * Michel Foucault, “The Means of Correct Training” and “Panopticism” in _Discipline and Punish: The Birth of the Prison_ (New York: Vintage, 1979).
+
+* Theme song: [The Police, "Every Breath You Take" (1983)](https://www.youtube.com/watch?v=OMOGaugKpzs).
 
 ***
 
@@ -336,7 +338,7 @@ Wednesday, October 10, 2018
 
 Wednesday, October 17
 
-* Jurgen Martschukat, “‘The Art of Killing with Electricity’: The Sublime and the Electric Chair,” Journal of American History 89, no. 3 (December 2002), 900-921.
+* Jurgen Martschukat, “‘The Art of Killing with Electricity’: The Sublime and the Electric Chair,” _Journal of American History_ 89, no. 3 (December 2002), 900-921.
 
 ***
 
