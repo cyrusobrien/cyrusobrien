@@ -325,6 +325,7 @@ Wednesday, October 3
 Monday, October 8
 
 * Laura Briggs, “Sex and Citizenship: The Politics of Prostitution in Puerto Rico, 1898–1918,” in _Reproducing Empire: Race, Sex, Science, and U.S. Imperialism in Puerto Rico_ (Berkeley: University of California Press, 2011).
+* Theme song: [Ben Bernie, "Sweet Georgia Brown" (1925)](https://www.youtube.com/watch?v=DAExrFCVVT0)
 
 ***
 
@@ -339,6 +340,7 @@ Wednesday, October 10, 2018
 Wednesday, October 17
 
 * Jurgen Martschukat, “‘The Art of Killing with Electricity’: The Sublime and the Electric Chair,” _Journal of American History_ 89, no. 3 (December 2002), 900-921.
+* Theme song: [The Doors, "Light My Fire" (1967)](https://www.youtube.com/watch?v=deB_u-to-IE)
 
 ***
 
@@ -354,7 +356,7 @@ Monday October 22
 
 * Kevin Kruse, [“Introduction,” in _One Nation Under God_ (New York: Basic Books, 2015)](https://books.google.com/books?id=jwGCBgAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false).
 
-* Will Herberg, _Protestant, Catholic, Jew: An Essay on American Religious Sociology_ (New York: Anchor Books, 1955), EXCERPTS.
+* Will Herberg, _Protestant, Catholic, Jew: An Essay on American Religious Sociology_ (New York: Anchor Books, 1955), 247-262.
 
 * Primary Source Analysis: Civil Religion in Cold War-Era Probation and Parole Reports. [Details distributed in class.]
 
@@ -364,7 +366,7 @@ Monday October 22
 
 Wednesday, October 24
 
-* Kathryn Gin Lum and Lerone A. Martin, “American Religion and the Rise of Internal Security: A Prologue,” in _The FBI and Religion: Faith and National Security Before and After 9/11_, ed., Sylvester A. Johnson and Steven Weitzman (Berkeley: University of California Press, 2017.
+* Kathryn Gin Lum and Lerone A. Martin, “American Religion and the Rise of Internal Security: A Prologue,” in _The FBI and Religion: Faith and National Security Before and After 9/11_, ed., Sylvester A. Johnson and Steven Weitzman (Berkeley: University of California Press, 2017).
 
 * Dianne Kirby, “J. Edgar Hoover, the FBI, and the Religious Cold War,” in _The FBI and Religion_, ed., Sylvester A. Johnson and Steven Weitzman.
 
