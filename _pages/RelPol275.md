@@ -33,7 +33,6 @@ Washington University in St. Louis
 
 ## Course Description
 
-
 This course traces the relationship between religion and the politics of crime and punishment in the United States from the Colonial and Revolutionary Eras to the Trump Administration. We ask how religious movements and religious ideas shaped the establishment of penitentiaries, the structures of modern policing, and the prisoners’ rights movement. We also explore how religion shaped the priorities of the FBI, contemporary movements for prison reform, and the contours of American debates about immigration and the War on Terror. The course highlights the unintended consequences of efforts to reform and rehabilitate and emphasizes religion’s interconnections to race and citizenship. Students will leave the course with an understanding of how American religious traditions and movements from Quakers and followers of the Social Gospel to the Nation of Islam and evangelical Christianity have continually reshaped the politics of crime and punishment in America.
 
 
