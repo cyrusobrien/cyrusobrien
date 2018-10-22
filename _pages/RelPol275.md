@@ -370,6 +370,7 @@ Wednesday, October 24
 
 * Dianne Kirby, “J. Edgar Hoover, the FBI, and the Religious Cold War,” in _The FBI and Religion_, ed., Sylvester A. Johnson and Steven Weitzman.
 
+
 ***
 
 Monday, October 29
