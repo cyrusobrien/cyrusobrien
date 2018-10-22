@@ -359,6 +359,7 @@ Monday October 22
 
 * Primary Source Analysis: Civil Religion in Cold War-Era Probation and Parole Reports. [Details distributed in class.]
 
+* Theme song: [Vampire Weekend, "Ya Hey" (2014)](https://www.youtube.com/watch?v=i-BznQE6B8U)
 ***
 
 
