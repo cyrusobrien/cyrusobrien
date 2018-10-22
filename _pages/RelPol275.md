@@ -340,7 +340,6 @@ Wednesday, October 10, 2018
 Wednesday, October 17
 
 * Jurgen Martschukat, “‘The Art of Killing with Electricity’: The Sublime and the Electric Chair,” _Journal of American History_ 89, no. 3 (December 2002), 900-921.
-* Theme song: [The Doors, "Light My Fire" (1967)](https://www.youtube.com/watch?v=deB_u-to-IE)
 
 ***
 
