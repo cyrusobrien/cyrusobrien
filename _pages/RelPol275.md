@@ -357,7 +357,7 @@ Monday October 22
 
 * Will Herberg, _Protestant, Catholic, Jew: An Essay on American Religious Sociology_ (New York: Anchor Books, 1955), 247-262.
 
-* Primary Source Analysis: Civil Religion in Cold War-Era Probation and Parole Reports. [Details distributed in class.]
+* Primary Source Analysis: Civil Religion in Cold War-Era Parole Reports and Prison Correspondence. [Details distributed in class.]
 
 * Theme song: [Vampire Weekend, "Ya Hey" (2014)](https://www.youtube.com/watch?v=i-BznQE6B8U)
 ***
