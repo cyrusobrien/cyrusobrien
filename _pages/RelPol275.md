@@ -12,7 +12,7 @@ Religion and Politics 275
 
 Fall 2018
 
-Danforth Center on Religion and Politics
+John C. Danforth Center on Religion and Politics
 
 Washington University in St. Louis
 
