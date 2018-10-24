@@ -378,7 +378,7 @@ Monday, October 29
 
 * Lerone Martin, “Bureau Clergyman: How the FBI Colluded with an African American Televangelist to Destroy Reverend Dr. Martin Luther King, Jr.,” _Religion and American Culture: A Journal of Interpretation_, Winter Vol.28, No. 1 (2018).
 
-* Film: Malcolm X, 1992
+* Recommended: [Annette Gordon-Reed, "MLK: What We Lost," _New York Review of Books_ (November 8, 2018)](https://www.nybooks.com/articles/2018/11/08/martin-luther-king-what-we-lost/)
 
 ***
 
