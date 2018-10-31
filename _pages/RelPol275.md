@@ -423,7 +423,7 @@ Wednesday, November 7
 
 * James Forman, Jr., [_Fresh Air_ Interview (July 17, 2017)](https://www.npr.org/2017/07/17/537715793/how-black-leaders-unwittingly-contributed-to-the-era-of-mass-incarceration)
 
-* John Pfaff, [[_Slate_ Interview] (February 11, 2016)](http://www.slate.com/articles/news_and_politics/crime/2016/02/michelle_alexander_blames_hillary_clinton_for_mass_incarceration_she_shouldn.html).
+* John Pfaff, Waylaid by a Metaphor: A Deeply Problematic Account of Prison Growth, _Michigan Law Review_ 111, No. 6, (2013), 1087-1110. [On Canvas.]
 
 ***
 
