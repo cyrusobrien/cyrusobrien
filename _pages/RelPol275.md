@@ -435,7 +435,7 @@ Monday, November 12
 
 ***
 
-Wednesday, November 14: <span style="color:red">**Second Short Essay Due in Class.**</span>
+Wednesday, November 14
 
 * Winnifred Sullivan, "The God Pod," in _Prison Religion: Faith-Based Reform and the Constitution_ (Princeton: Princeton University Press, 2009).
 * Kathryn Schultz, ["From the White House to the Jailhouse to the Pulpit: Chuck Colson on Being Wrong," _Slate_ (October 20, 2010)](http://www.slate.com/blogs/thewrongstuff/2010/10/20/from_the_white_house_to_the_jailhouse_to_the_pulpit_chuck_colson_on_being_wrong.html) [Interview with Chuck Colson.]
@@ -454,7 +454,8 @@ _After converting in prison, former Nixon aide and Watergate conspirator Chuck C
 
 ***
 
-Monday, November 19
+Monday, November 19: <span style="color:red">**Second Short Essay Due on Canvas.**</span>
+
 
 * <span style="color:red">**No Class.**</span>
 
