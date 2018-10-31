@@ -380,6 +380,8 @@ Monday, October 29
 
 * Recommended: [Annette Gordon-Reed, "MLK: What We Lost," _New York Review of Books_ (November 8, 2018)](https://www.nybooks.com/articles/2018/11/08/martin-luther-king-what-we-lost/)
 
+* Song: [Elder Lightfoot Solomon Michaux & Congregation, "Happy Am I" (ca. 1950)](https://www.youtube.com/watch?v=P2zVxG5rbIw).
+
 ***
 
 </div>
@@ -407,6 +409,8 @@ Wednesday, October 31
 * Michelle Alexander, “Introduction,” _The New Jim Crow: Mass Incarceration in the Age of Colorblindness_ (New York: The New Press, 2012).
 
 * Peter Wagner and Wendy Sawyer, [_Mass Incarceration: The Whole Pie_](https://www.prisonpolicy.org/reports/pie2018.html), Prison Policy Intiative, March 2018.
+
+* Song: [Leadbelly, "Jim Crow Blues" (1930)](https://www.youtube.com/watch?v=Fq0lXTTS_1E).
 
 ***
 
