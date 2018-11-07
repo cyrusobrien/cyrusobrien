@@ -429,13 +429,14 @@ Wednesday, November 7
 
 * John Pfaff, Waylaid by a Metaphor: A Deeply Problematic Account of Prison Growth, _Michigan Law Review_ 111, No. 6, (2013), 1087-1110. [On Canvas.]
 
+* Song: [Tupac Shakur, "Trapped" (1991)](https://www.youtube.com/watch?v=TU90Fe4FcPY)
+
 ***
 
 Monday, November 12
 
-* American Friends Service Committee, _A Struggle for Justice: A Report on Crime and Punishment in America_ (New York: Hill and Wang, 1971), EXCERPTS.
 * Michelle Alexander, [Facebook Post, September 15, 2016](https://m.facebook.com/168304409924191/posts/1090233291064627).
-* Film: Hoodlum Priest (1961), dir., Irvin Kershner
+
 
 ***
 
