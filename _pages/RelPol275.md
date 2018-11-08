@@ -436,6 +436,7 @@ Wednesday, November 7
 Monday, November 12
 
 * Michelle Alexander, [Facebook Post, September 15, 2016](https://m.facebook.com/168304409924191/posts/1090233291064627).
+* Guest speaker: Joshua Saleem, Peace Education Director, American Friends Service Committee.
 
 
 ***
