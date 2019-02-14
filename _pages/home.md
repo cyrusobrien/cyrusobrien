@@ -7,7 +7,7 @@ permalink: /
 
 
 # About
-![]({{ site.url }}{{ site.baseurl }}/images/webportrait2.jpg){: style="width: 270px; float: right; border: 10px;"}
+![]({{ site.url }}{{ site.baseurl }}/images/webportrait2.jpg){: style="width: 270px; float: right; border: 10px; border-radius:50%"}
 
 I am a postdoctoral fellow at the [Danforth Center for Religion and Politics at Washington University in St. Louis](http://rap.wustl.edu/bio/cyrus-obrien/). I completed my PhD in Anthropology and History at the University of Michigan in 2018. My research focuses on racial inequality, religion, and institutions in the United States.
 
