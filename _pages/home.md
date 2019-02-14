@@ -7,7 +7,7 @@ permalink: /
 
 
 # About
-![]({{ site.url }}{{ site.baseurl }}/images/webportrait.jpg){: style="width: 270px; float: right; border: 10px;"}
+![]({{ site.url }}{{ site.baseurl }}/images/webportrait2.jpg){: style="width: 270px; float: right; border: 10px;"}
 
 I am a postdoctoral fellow at the [Danforth Center for Religion and Politics at Washington University in St. Louis](http://rap.wustl.edu/bio/cyrus-obrien/). I completed my PhD in Anthropology and History at the University of Michigan in 2018. My research focuses on racial inequality, religion, and institutions in the United States.
 
@@ -16,3 +16,5 @@ My research places religion at the center of the study of mass incarceration in 
 My work has been supported by the [National Science Foundation](https://www.nsfgrfp.org), the [Wenner-Gren Foundation for Anthropological Research](http://www.wennergren.org/grantees/obrien-cyrus-james), the [Rackham Graduate School at the University of Michigan](https://www.rackham.umich.edu/blog/announcing-2016-2017-rackham-predoctoral-fellowship-winners), the [Anti-Discrimination Center](http://www.antibiaslaw.com/) and the [Charlotte Newcombe Foundation](http://woodrow.org/news/2017-newcombe-fellows-named/).
 
 For a copy of my CV, [click here](https://drive.google.com/file/d/0BztWFCdHIreXbFpfbzJuVjhvWTA/view).
+
+<small>Photo courtesy of WUSTL photos/Sid Hastings.</small>
