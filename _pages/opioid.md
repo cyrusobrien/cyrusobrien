@@ -1,6 +1,6 @@
 ---
 title: "Opioid Retroactivity"
-layout: plain
+layout: page
 excerpt: "Justice Demands Retroactivity"
 sitemap: false
 permalink: /opioid_retroactivity/
