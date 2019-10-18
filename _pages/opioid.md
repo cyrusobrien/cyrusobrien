@@ -110,7 +110,7 @@ Despite the change in law, hundreds of Floridians whose offenses occurred before
 
 The Florida Legislature reformed the state’s mandatory minimum drug trafficking thresholds because they imposed sentences that were wildly disproportionate to the crime. Justice demands that the reforms be made retroactive.
 
-#### *A Note on Implementation
+#### *A Note on Implementation*
 Sentencing in Florida’s criminal courts is often more complicated than might appear at first glance, especially in cases where a defendant is sentenced for multiple offenses. Some people incarcerated for drug crimes were convicted of multiple offenses, which typically involved more than one type of drug or charges relating to paraphernalia. In many cases where a defendant is convicted of multiple similar offenses, Florida courts impose the same sentence for each offense, even if one charge requires a mandatory minimum sentence and an additional charge gives the judge discretion. Applying the same sentence for different offenses is sometimes more a matter of administrative efficiency than careful judgement. After all, barring a change in law, a defendant will serve the same term of imprisonment no matter how the sentence is constructed. As a result, approximately 250 prisoners are sentenced to a mandatory term for opioid trafficking and an equal, non-mandatory term for a less serious offense. As Florida makes the 2014 drug-law reforms retroactive, the Legislature should consider allowing prisoners who were simultaneously convicted of less serious offenses to seek relief and resentencing from the courts.
 
 
