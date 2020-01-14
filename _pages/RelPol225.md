@@ -18,7 +18,7 @@ Washington University in St. Louis
 
 ***
 
-* Instructor: Dr. Cyrus J. O'Brien
+* Instructor: Cyrus J. O'Brien
 * Email: cyrusobrien@wustl.edu
 * Office Location: 120 Umrath Hall (Danforth Center on Religion and Politics)
 * Office Hours: Tuesdays 3pm-4:30, or by appointment
