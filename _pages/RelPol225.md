@@ -214,12 +214,13 @@ _A statute of Thomas Jonathan "Stonewall" Jackson is prominent in Richmond, Virg
 </div>
 
 
+***
+
 
 <div class="container">
 <div class="row">
 <div class="col-sm-6" markdown="1">
 
-***
 
 #### Empire Within
 
@@ -445,7 +446,7 @@ Thursday, April 9, 2020
 
 <span style="color:red">**Monday April 13: Second Paper Due via Canvas by 6pm.**</span>
 
-### Culture Wars
+#### Culture Wars
 
 Tuesday, April 14, 2020
 
