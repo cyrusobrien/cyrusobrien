@@ -155,7 +155,7 @@ Thursday, January 23, 2020
 
 * Jonathan D. Sarna and David G. Dalin, eds., Religion and State in the American Jewish Experience (1997), 45-53, 61-80.
 
-* Barbara Bradley Hagerty, “The Most Influential Evangelist You’ve Never Heard Of,” _NPR_ (https://www.npr.org/2012/08/08/157754542/the-most-influential-evangelist-youve-never-heard-of
+* [Barbara Bradley Hagerty, “The Most Influential Evangelist You’ve Never Heard Of,” _NPR_](https://www.npr.org/2012/08/08/157754542/the-most-influential-evangelist-youve-never-heard-of).
 * [Ronald Reagan, “Farewell Address to the Nation,” (1989)](https://www.reaganfoundation.org/media/128652/farewell.pdf). Video available [here](https://www.youtube.com/watch?v=UKVsq2daR8Q).
 
 
