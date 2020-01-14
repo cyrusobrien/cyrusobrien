@@ -122,6 +122,8 @@ You should write papers in a double-spaced, reader-friendly, size 12 font and us
 #### Introductions
 Tuesday, January 14, 2020
 
+* Song: [Sam Cooke, "A Change is Gonna Come" (1964)](https://www.youtube.com/watch?v=wEBlaMOmKV4).
+
 ***
 
 #### A Framework for Thinking about Religion and Nation
@@ -131,6 +133,7 @@ Thursday, January 16, 2020
 
 * [Robert Bellah, “Civil Religion” from Daedalus 96 (1967): 1-21](http://www.robertbellah.com/articles_5.htm).
 * In Class: [Nancy Pelosi, Full Statement ahead of Impeachment Vote](https://www.youtube.com/watch?v=6SuOeDUtQSc).
+* Song: [Lee Greenwood, "God Bless the USA," 2001 World Series](https://www.youtube.com/watch?v=PvPgYLhOq24).
 
 ***
 
@@ -143,6 +146,8 @@ Tuesday, January 21, 2020
 * Peter Gardella, “City on a Hill: From Jesus to Winthrop, Kennedy, and Reagan,” from American Civil Religion: What Americans Hold Sacred (2014), 54-60.
 
 * Nikole Hannah-Jones, [Introduction to 1619 Project, _New York Times Magazine_ (August 14, 2019)](https://www.nytimes.com/interactive/2019/08/14/magazine/black-history-american-democracy.html).
+
+* Song: [Janelle Monae, "Americans" (2018)](https://www.youtube.com/watch?v=POZNheF-KdY).
 
 Thursday, January 23, 2020
 
