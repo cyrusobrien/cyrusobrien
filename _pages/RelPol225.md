@@ -127,6 +127,8 @@ Tuesday, January 14, 2020
 #### A Framework for Thinking about Religion and Nation
 Thursday, January 16, 2020
 
+<span style="color:orange">**Goal Setting Assignement due before 9am.**</span>
+
 * [Robert Bellah, “Civil Religion” from Daedalus 96 (1967): 1-21](http://www.robertbellah.com/articles_5.htm).
 * In Class: [Nancy Pelosi, Full Statement ahead of Impeachment Vote](https://www.youtube.com/watch?v=6SuOeDUtQSc).
 
