@@ -133,7 +133,7 @@ Thursday, January 16, 2020
 
 * [Robert Bellah, “Civil Religion” from Daedalus 96 (1967): 1-21](http://www.robertbellah.com/articles_5.htm).
 * In Class: [Nancy Pelosi, Full Statement ahead of Impeachment Vote](https://www.youtube.com/watch?v=6SuOeDUtQSc).
-* Song: [Lee Greenwood, "God Bless the USA," 2001 World Series](https://www.youtube.com/watch?v=PvPgYLhOq24).
+* Songs: [Lee Greenwood, "God Bless the USA," 2001 World Series](https://www.youtube.com/watch?v=PvPgYLhOq24) and [Frank Sinatra, "God's Country" (1950)](https://www.youtube.com/watch?v=6WJOV35_168).
 
 ***
 
