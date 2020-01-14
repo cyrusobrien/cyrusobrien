@@ -95,6 +95,14 @@ This course uses frequent, low-stakes assessments (such as quizzes, blog posts, 
 ***
 
 
+## A Community of Practice
+
+Our conversations and discussions will, at times, be difficult. We are tackling problems in liberal democracy that the best minds have failed to solve -- and that equally good minds have worked to exploit. Every one of us has come of age in a world shaped by the topics we are studying in this course. The diversity of our prior experiences will be a great asset, and we will be fortunate to learn from one another. By the same token, difficult and impolitic situations will arise. When they do so, I ask that you approach one another as though we are all participants in a "community of practice." We are learning from one another, and your goal in interacting with your peers are to learn from and _teach_ one another. Focusing on teaching -- on bringing someone along -- is especially important because it helps maintain our community and the atmosphere for social learning. My goal -- and I ask that you share it -- is to leave people better than you found them.
+
+***
+
+
+
 ## Readings
  All articles, book chapters, and documents listed in the syllabus will be available electronically, either as pdf files on Canvas or as online links in the syllabus.
 
@@ -123,6 +131,7 @@ You should write papers in a double-spaced, reader-friendly, size 12 font and us
 Tuesday, January 14, 2020
 
 * Song: [Sam Cooke, "A Change is Gonna Come" (1964)](https://www.youtube.com/watch?v=wEBlaMOmKV4).
+* In Class: [Space Force Bible Dedication](https://www.dropbox.com/s/six4of3t5rujy4r/Space%20Force%20Bible%20Dedication.mp4?dl=0). See also reporting by [_NPR_](https://www.npr.org/2020/01/13/796028336/space-force-bible-blessing-at-national-cathedral-sparks-outrage).
 
 ***
 
