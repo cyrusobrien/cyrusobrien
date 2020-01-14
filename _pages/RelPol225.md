@@ -3,7 +3,7 @@ title: "Religion and Politics in American History"
 layout: noheader
 sitemap: false
 excerpt: "Syllabus: Religion and Politics in American History"
-permalink: teaching/relpol225/
+permalink: teaching/relpol225
 ---
 
 # Religion and Politics in American History
