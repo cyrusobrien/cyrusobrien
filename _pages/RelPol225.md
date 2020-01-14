@@ -3,7 +3,7 @@ title: "Religion and Politics in American History"
 layout: noheader
 sitemap: false
 excerpt: "Syllabus: Religion and Politics in American History"
-permalink: teaching/RelPol225/
+permalink: teaching/relpol225/
 ---
 
 # Religion and Politics in American History
@@ -31,7 +31,7 @@ Washington University in St. Louis
 
 ***
 
-* Location and Room: Cupples II 207
+* Location and Room: Cupples I 207
 * Class Meetings: Tuesdays and Thursdays, 1pm-2:20
 
 ***
