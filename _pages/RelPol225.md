@@ -81,7 +81,7 @@ Most weeks will entail short quizzes (5-6 minutes) at the beginning of class. Th
 
 #### Short Essays
 
-Two short essays, between 800-1100 words, will follow units on the ____ and on the _____. Prompts and instructions for these essays will be distributed in class.
+Two short essays, between 800-1100 words, will follow units on the Slavery, Abolition, & Confederate Nationalism and on Civil Rights, Struggle, and Retrenchment. Prompts and instructions for these essays will be distributed in class.
 
 #### Exams
 
@@ -182,6 +182,9 @@ Tuesday, January 28, 2020
 * Abraham Lincoln, [Second Inaugural Address, (1865)](https://www.ourdocuments.gov/doc.php?flash=true&doc=38&page=transcript)
 
 * Michelle Martin, ["Slave Bible From The 1800s Omitted Key Passages That Could Incite Rebellion," NPR (December 9, 2018)](https://www.npr.org/2018/12/09/674995075/slave-bible-from-the-1800s-omitted-key-passages-that-could-incite-rebellion).
+
+<span style="color:green">**Wednesday January 29 to Tuesday February 4: Individual Meetings to Discuss 1st Paper.**</span>
+
 
 Thursday, January 30, 2020
 
@@ -385,9 +388,14 @@ Tuesday, March 24, 2020
 
 Thursday, March 26, 2020
 
+<span style="color:green">**Second Paper Assignment Distributed in Class**</span>
+
 * [Annette Gordon-Reed, "MLK: What We Lost," _New York Review of Books_ (November 8, 2018)](https://www.nybooks.com/articles/2018/11/08/martin-luther-king-what-we-lost/).
 
 * Michael K. Honey, "'In God's Economy': Organizing and the Poor Peoples' Campaign," in _To the Promised Land: Martin Luther King and the Fight for Economic Justice_ (New York: W.W. Norton, 2019).
+
+
+<span style="color:green">**Monday March 30 to Friday April 3: Individual Meetings to Discuss 2nd Paper.**</span>
 
 Tuesday, March 31, 2020
 
@@ -435,6 +443,7 @@ Thursday, April 9, 2020
 
 * Primary Sources available on Canvas.
 
+<span style="color:red">**Monday April 13: Second Paper Due via Canvas by 6pm.**</span>
 
 ### Culture Wars
 
