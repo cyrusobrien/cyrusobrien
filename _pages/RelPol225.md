@@ -205,7 +205,7 @@ Three articles on the recent debate in Richmond:
 
 </div>
 
-<div class="col-sm-6" markdown="1">
+<div class="col-sm-5" markdown="1">
 
  ![Statue of Stonewall Jackson](http://cyrusobrien.com/images/Syllabi Images/RelPol225/stonewalljackson.jpg){: style="max-width: 100%; padding: 10px; display: block; margin: auto;"}
 
@@ -249,7 +249,7 @@ Thursday, February 6, 2020
 
 
 </div>
-<div class="col-sm-6" markdown="1">
+<div class="col-sm-5" markdown="1">
 
  ![Picture of 1911 Carlisle Indians Football Team](http://cyrusobrien.com/images/Syllabi Images/RelPol225/1911_Carlisle_Indians_FB_team.jpg){: style="max-width: 100%;  border: 20px; display: block; margin: auto;"}
 
@@ -284,7 +284,7 @@ Thursday, February 13, 2020
 * William Jennings Bryan, “Imperialism,” (1900).
 
 </div>
-<div class="col-sm-6" markdown="1">
+<div class="col-sm-5" markdown="1">
 
  ![_life Magazine_ cartoon William William](http://cyrusobrien.com/images/Syllabi Images/RelPol225/williamwilliam.png){: style="max-width: 90%;  padding: 10px; display: block; margin: auto;"}
 
@@ -408,7 +408,7 @@ Tuesday, March 31, 2020
 
 
 </div>
-<div class="col-sm-4" style="padding:26px; max-width:350px;">
+<div class="col-sm-5" style="padding:26px; max-width:350px;">
 
  ![Protest at Attica](http://cyrusobrien.com/images/SyllabiImages/RelPolt275/attica_AP.jpg){: style="max-width: 100%;  border: 10px; display: block; margin: auto;"}
 
