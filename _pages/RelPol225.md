@@ -121,6 +121,13 @@ You should write papers in a double-spaced, reader-friendly, size 12 font and us
 ***
 
 
+## A Guide on How To Read (for this Course and Others)
+
+Paul Edwards has written a very helpful guide to reading. Though it is intended for how to read a book, it's also relevant to articles and other written media.
+
+* [Paul N. Edwards How to Read a Book, v5.0, (University of Michigan School of Information, n.d.).](https://pne.people.si.umich.edu/PDF/howtoread.pdf)
+
+
 # Course Schedule
 
 **This syllabus will change.** Changes will be announced on Canvas, in class, and reflected here on the online syllabus.
