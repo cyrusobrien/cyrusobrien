@@ -174,13 +174,13 @@ Thursday, January 23, 2020
 
 * [James Madison, “Memorial and Remonstrance against Religious Assessments” (1785)](http://press-pubs.uchicago.edu/founders/documents/amendI_religions43.html).
 
-* Jonathan D. Sarna and David G. Dalin, eds., Religion and State in the American Jewish Experience (1997), 45-53, 61-80.
-
 * [Barbara Bradley Hagerty, “The Most Influential Evangelist You’ve Never Heard Of,” _NPR_](https://www.npr.org/2012/08/08/157754542/the-most-influential-evangelist-youve-never-heard-of).
 * [Ronald Reagan, “Farewell Address to the Nation,” (1989)](https://www.reaganfoundation.org/media/128652/farewell.pdf). Video available [here](https://www.youtube.com/watch?v=UKVsq2daR8Q).
 
 
 * In class: David Barton on Jon Stewart, [Parts I](http://www.cc.com/video-clips/bk6j07/the-daily-show-with-jon-stewart-exclusive---david-barton-extended-interview-pt--1), [II](http://www.cc.com/video-clips/i599g7/the-daily-show-with-jon-stewart-exclusive---david-barton-extended-interview-pt--2), and [III](http://www.cc.com/video-clips/llnof7/the-daily-show-with-jon-stewart-exclusive---david-barton-extended-interview-pt--3).
+
+* Recommended (not required): Jonathan D. Sarna and David G. Dalin, eds., Religion and State in the American Jewish Experience (1997), 45-53, 61-80.
 
 
 ***
