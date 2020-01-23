@@ -196,15 +196,15 @@ Tuesday, January 28, 2020
 
 <span style="color:green">**First Paper Assignment Distributed in Class**</span>
 
-* David Walker’s Appeal to the Coloured Citizens of the World (1829), 1-6, 35-43, 74-76
-
 * Frederick Douglass, [“What to the Slave is the Fourth of July?” (1852)](http://teachingamericanhistory.org/library/document/what-to-the-slave-is-the-fourth-of-july/).
 
 * Peter Gardella, “Lincoln’s Second Inaugural Address,” from _American Civil Religion: What Americans Hold Sacred_ (2014), 183-190.
 
 * Abraham Lincoln, [Second Inaugural Address, (1865)](https://www.ourdocuments.gov/doc.php?flash=true&doc=38&page=transcript)
 
-* Michelle Martin, ["Slave Bible From The 1800s Omitted Key Passages That Could Incite Rebellion," NPR (December 9, 2018)](https://www.npr.org/2018/12/09/674995075/slave-bible-from-the-1800s-omitted-key-passages-that-could-incite-rebellion).
+* Review quickly, Michelle Martin, ["Slave Bible From The 1800s Omitted Key Passages That Could Incite Rebellion," NPR (December 9, 2018)](https://www.npr.org/2018/12/09/674995075/slave-bible-from-the-1800s-omitted-key-passages-that-could-incite-rebellion).
+
+* Recommended Additional Reading: David Walker’s Appeal to the Coloured Citizens of the World (1829), 1-6, 35-43, 74-76
 
 <span style="color:green">**Wednesday January 29 to Tuesday February 4: Individual Meetings to Discuss 1st Paper.**</span>
 
