@@ -8,7 +8,24 @@ permalink: /activism/
 
 # Criminal and Juvenile Justice Activism
 
-I am a prison abolitionist. I have been working to reduce and limit incarceration since 2008, when I moved to Alabama to work for juvenile justice reform. I've worked for the [Southern Poverty Law Center](https://www.splcenter.org/issues/childrens-rights), the [Annie E. Casey Foundation](http://www.aecf.org/work/juvenile-justice/), the [American Bar Association](https://www.americanbar.org/advocacy/rule_of_law/where_we_work/middle_east/morocco/programs.html), and, since 2013, the [Project on Accountable Justice](www.iog.fsu.edu/paj/), a criminal justice reform think tank based at Florida State University. My projects to reduce incarceration have involved legislative advocacy, collaborative technical assistance to local courts and state corrections agencies, media campaigns, and assistance with litigation against a private juvenile prison. Some of this work has resulted in publications, a selection of which is below.
+I am a prison abolitionist. I have been working to reduce and limit incarceration since 2008, when I moved to Alabama to work for juvenile justice reform. I've worked for the [Southern Poverty Law Center](https://www.splcenter.org/issues/childrens-rights), the [Annie E. Casey Foundation](http://www.aecf.org/work/juvenile-justice/), the [American Bar Association](https://www.americanbar.org/advocacy/rule_of_law/where_we_work/middle_east/morocco/programs.html), and, from 2013 to 2020, the [Project on Accountable Justice](www.iog.fsu.edu/paj/), a criminal justice reform think tank based at Florida State University. My projects to reduce incarceration have involved legislative advocacy, collaborative technical assistance to local courts and state corrections agencies, media campaigns, and assistance with litigation against a private juvenile prison. Some of this work has resulted in publications, a selection of which is below.
+
+
+<hr class="section-heading-spacer">
+   <div markdown="0"  class="container-fluid">
+   <div class="row">
+   <div class="col-sm-6 clearfix">
+                       <h3 class="section-heading">Florida Rolled Back Parts of the War on Drugs, but Hundreds Remain in Prison under Obsolete Laws Justice Demands that Reforms Be Made Retroactive</h3>
+                       <p><a href="https://accountablejustice.github.io/report/retroactivity">This report highlights the plight of 935 Floridians </a>who are serving mandatory minimum sentences for offenses that are no longer in state law. I collaborated with Emily Mahoney of the <i>Miami Herald</i> and <i>Tampa Bay Times</i>, which published a <a href="https://www.tampabay.com/special-reports/2019/11/13/hundreds-of-florida-inmates-are-serving-drug-sentences-no-longer-in-state-law/">Special Report detailed the cases of people sentenced to up to 25 years in prison</a> for simply possessing prescription opioids.</p>
+               </div>
+                   <div class="col-sm-6 clearfix">
+                        <a href="https://accountablejustice.github.io/report">
+                             <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/HundredsofInmates.png" style="padding-top:30px" alt="Screenshot from Tampa Bay Times">
+                       </a>
+                   </div>
+</div>
+           </div>
+
 
 <hr class="section-heading-spacer">
    <div markdown="0"  class="container-fluid">
