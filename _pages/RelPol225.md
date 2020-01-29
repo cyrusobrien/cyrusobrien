@@ -291,7 +291,6 @@ _The football team of the Carlisle Indian School transformed America's now-most-
 
 Tuesday, February 11, 2020
 
-<span style="color:orange">**Third Blog Post due before 9am.**</span>
 
 * Susan K. Harris, "The National Christian," in _God's Arbiters:  Americans and the Philippines: 1898-1902_ (Oxford: Oxford University Press, 2011).
 
@@ -445,13 +444,13 @@ Thursday, April 2, 2020
 
 In Class Viewings:
 
-* Martin Luther King Jr., I Have a Dream, August 28, 1963.
+* Martin Luther King, Jr., I Have a Dream, August 28, 1963.
 
 * Fannie Lou Hamer, “Speech Before the Democratic National Convention,” August 22, 1964.
 
 Tuesday, April 7, 2020
 
-<span style="color:orange">**Fourth and Final Blog Post due before 9am.**</span>
+<span style="color:orange">**Third and Final Blog Post due before 9am.**</span>
 
 
 * Carl McIntire, Against the Civil Rights Bill, 1964.
