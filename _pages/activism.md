@@ -19,8 +19,8 @@ I am a prison abolitionist. I have been working to reduce and limit incarceratio
                        <p><a href="https://accountablejustice.github.io/report/retroactivity">This report highlights the plight of 935 Floridians </a>who are serving mandatory minimum sentences for offenses that are no longer in state law. I collaborated with Emily Mahoney of the <i>Miami Herald</i> and <i>Tampa Bay Times</i>, which published a <a href="https://www.tampabay.com/special-reports/2019/11/13/hundreds-of-florida-inmates-are-serving-drug-sentences-no-longer-in-state-law/">Special Report detailed the cases of people sentenced to up to 25 years in prison</a> for simply possessing prescription opioids.</p>
                </div>
                    <div class="col-sm-6 clearfix">
-                        <a href="https://accountablejustice.github.io/report">
-                             <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/HundredsofInmates.png" style="padding-top:30px" alt="Screenshot from Tampa Bay Times">
+                        <a href="https://accountablejustice.github.io/report/retroactivity">
+                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/HundredsofInmates.png" style="padding-top:30px" alt="Screenshot from Tampa Bay Times">
                        </a>
                    </div>
 </div>
