@@ -182,6 +182,7 @@ Thursday, January 23, 2020
 
 * Recommended (not required): Jonathan D. Sarna and David G. Dalin, eds., Religion and State in the American Jewish Experience (1997), 45-53, 61-80.
 
+* Song: [Vampire Weekend, "Ya Hey" (2015).](https://www.youtube.com/watch?v=i-BznQE6B8U)
 
 ***
 
@@ -206,6 +207,8 @@ Tuesday, January 28, 2020
 
 * Recommended Additional Reading: David Walker’s Appeal to the Coloured Citizens of the World (1829), 1-6, 35-43, 74-76
 
+* Song: [The Melodians, "Rivers of Babylon" (1970).](https://www.youtube.com/watch?v=3NcbyzqILd8)
+
 <span style="color:green">**Wednesday January 29 to Tuesday February 4: Individual Meetings to Discuss 1st Paper.**</span>
 
 
@@ -221,8 +224,9 @@ Three articles on the recent debate in Richmond:
 
 * [Gregory S. Schneider, "In the Former Capital of the Confederacy, the Debate over Statutes Is Personal and Painful," _Washington Post_ (August 27, 2017)](https://www.washingtonpost.com/local/virginia-politics/in-the-former-capital-of-the-confederacy-the-debate-over-statues-is-personal-and-painful/2017/08/27/87002bc4-8998-11e7-a94f-3139abce39f5_story.html).
 
-* [Gregory S. Schneier, "Richmond Monument Panel Urges Removing Jefferson Davis Statue," _Washington Post_ (July 2, 2018)](https://www.washingtonpost.com/local/virginia-politics/richmond-monument-panel-urges-removing-jefferson-davis-statue/2018/07/02/73636904-7e17-11e8-bb6b-c1cb691f1402_story.html)
+* [Gregory S. Schneier, "Richmond Monument Panel Urges Removing Jefferson Davis Statue," _Washington Post_ (July 2, 2018)](https://www.washingtonpost.com/local/virginia-politics/richmond-monument-panel-urges-removing-jefferson-davis-statue/2018/07/02/73636904-7e17-11e8-bb6b-c1cb691f1402_story.html).
 
+* Song: [The Band, "The Night They Drove Old Dixie Down" (1969)](https://www.youtube.com/watch?v=jREUrbGGrgM).
 
 </div>
 
@@ -257,6 +261,7 @@ Tuesday, February 4, 2020
 
 * Read the first two pages and the section headers of Tsianina K. Lomawaima, ["The Unnatural History of American Indian Education," in _Next Steps: Research and Practice to Advance Indian Education_, Karen Gayton Swisher and John Tippeconnic III (Charleston, WV: Clearninghouse on Rurual Education and Small Schools, 1999)](https://files.eric.ed.gov/fulltext/ED427903.pdf), 2-31.
 
+* [Bob Marley and the Wailers, "Buffalo Soldier" (1978)](https://www.youtube.com/watch?v=S5FCdx7Dn0o).
 
 Thursday, February 6, 2020
 
@@ -265,6 +270,10 @@ Thursday, February 6, 2020
 * [Inspection Report of J. H. Dortch for May 1915, Carlisle Indian School Digital Resource Center](http://carlisleindian.dickinson.edu/documents/inspection-report-j-h-dortch-may-1915).
 
 * In class: [Tearful Justin Trudeau Apologizes to Residential School Survivors in Newfoundland, YouTube (November 24, 2017)](https://www.youtube.com/watch?v=f-FWK-NJ_lM).
+
+* Also in Class: [Katie Smith, "Song about the Departure of Seminole Indians from Florida for Oklahoma" (1940).](https://www.loc.gov/item/flwpa000357/)
+
+* Song: [Pink Floyd, "Brick in the Wall" (1979)](https://www.youtube.com/watch?v=YR5ApYxkU-U).
 
 <span style="color:red">**Friday February 7: First Paper Due via Canvas by 6pm.**</span>
 
