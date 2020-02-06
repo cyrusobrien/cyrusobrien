@@ -269,9 +269,11 @@ Thursday, February 6, 2020
 
 * [Inspection Report of J. H. Dortch for May 1915, Carlisle Indian School Digital Resource Center](http://carlisleindian.dickinson.edu/documents/inspection-report-j-h-dortch-may-1915).
 
-* In class: [Tearful Justin Trudeau Apologizes to Residential School Survivors in Newfoundland, YouTube (November 24, 2017)](https://www.youtube.com/watch?v=f-FWK-NJ_lM).
+* Recommended: [Tearful Justin Trudeau Apologizes to Residential School Survivors in Newfoundland, YouTube (November 24, 2017)](https://www.youtube.com/watch?v=f-FWK-NJ_lM).
 
-* Also in Class: [Katie Smith, "Song about the Departure of Seminole Indians from Florida for Oklahoma" (1940).](https://www.loc.gov/item/flwpa000357/)
+* Recommended: [Katie Smith, "Song about the Departure of Seminole Indians from Florida for Oklahoma" (1940).](https://www.loc.gov/item/flwpa000357/)
+
+* [In class small group activity described here.](http://cyrusobrien.com/documents/2020 - 0206 Primary Source Activity.pdf)
 
 * Song: [Pink Floyd, "Brick in the Wall" (1979)](https://www.youtube.com/watch?v=YR5ApYxkU-U).
 
