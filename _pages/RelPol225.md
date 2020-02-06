@@ -249,7 +249,7 @@ _A statute of Thomas Jonathan "Stonewall" Jackson is prominent in Richmond, Virg
 <div class="col-sm-6" markdown="1">
 
 
-#### Empire Within
+#### Empire
 
 Tuesday, February 4, 2020
 
@@ -296,12 +296,10 @@ _The football team of the Carlisle Indian School transformed America's now-most-
 
 ***
 
-#### Empire Without
-
 Tuesday, February 11, 2020
 
 
-* Susan K. Harris, "The National Christian," in _God's Arbiters:  Americans and the Philippines: 1898-1902_ (Oxford: Oxford University Press, 2011).
+* Sylverster Johnson, "Religion, Race, and American Empire," in _The Oxford Handbook of Religion and Race in American History_, Paul Harvey and Kathryn Gin Lum, ed. (New York: Oxford University Press, 2018). Please read up to "Communism and Religion," then read the Conclusion. (Roughly, pages 1-11, 16.)
 
 * Walt Witmann, "Passage to India" (1902), in Cherry, _God's New Israel_, 131-139.
 
@@ -329,43 +327,40 @@ _This 1900 Cartoon from_ Life Magazine _criticized U.S. Imperialism in the Phili
 
 Tuesday, February 18, 2020
 
-* [Ralph Waldo Emerson, “Self-Reliance,” (1841)](https://archive.vcu.edu/english/engweb/transcendentalism/authors/emerson/essays/selfreliance.html).
-
-* [Harold Bloom, “Out of Panic, Self-Reliance,” _New York Times_ (October 12, 2008)](https://www.nytimes.com/2008/10/12/opinion/12bloom.html).
-
-* [Barack Obama, First Inaugural Address, (2009)](https://obamawhitehouse.archives.gov/blog/2009/01/21/president-barack-obamas-inaugural-address).
-
-Thursday, February 20, 2020
-
-* [Russell Conwell, Acres of Diamonds (1890)](https://www.americanrhetoric.com/speeches/PDFFiles/Russell%20Conwell%20-%20Acres%20of%20Diamonds.pdf).
-
-* In Class Viewing: Joel Osteen
-
-
-Tuesday, February 25, 2020
-
 * Ronald Isetti, “The Moneychangers of the Temple: FDR, American Civil Religion, and the New Deal,” Presidential Studies Quarterly 26:3 (1996): 678-693.
 
 * Sarah Hammond, “God Is My Partner”: An Evangelical Business Man Confronts Depression and War,” Church History 80:3 (2011): 498–519. _This article is available online through the WashU library. Please search for and download the article on your own._
 
+Thursday, February 20, 2020
+
+* Bethany Moreton, _To Serve God and Walmart_ (Cambridge, MA: Harvard University Press, 2009), excerpts.
+
 ***
+
 
 #### Religion and the New Deal Coalition
 
  ![Four Freedoms](http://cyrusobrien.com/images/Syllabi Images/RelPol225/four_freedoms.jpg){: style="max-width: 100%;  border: 10px; display: block; margin: auto;"}
 _Normal Rockwell memorialized FDR's "Four Freedoms" in a series of paintings in 1943. From left to right, they are "Freedom of Speech," Freedom of Worship," "Freedom from Want," and "Freedom from Fear."_ [Norman Rockwell, 1943](https://www.parkwestgallery.com/75-year-norman-rockwell-four-freedoms-anniversary/).
 
-Thursday, February 27, 2020
+
+Tuesday, February 25, 2020
+
 
 * Kelly Baker, _Gospel According to the Klan: The KKK’s Appeal to Protestant America, 1915-1930_ (Lawrence, KS: University of Kansas Press, 2011), 70-96, 246-264.
 
-Tuesday, March 3, 2020
+
+Thursday, February 27, 2020
 
 * Peter Gardella, “Four Freedoms,” from American Civil Religion: What Americans Hold Sacred (2014), 257-269.
 
 * [Henry Luce, “American Century,” (1941)](http://www-personal.umich.edu/~mlassite/discussions261/luce.pdf).
 
+* <span style="color:green">We will discuss the form and content of the midterm exam.</span>
 
+Tuesday, March 3, 2020
+
+* Reading TBD: Khalil Muhammad will be a special guest.
 
 Thursday, March 5, 2020
 
@@ -398,11 +393,11 @@ Tuesday, March 17, 2020
 
 Thursday, March 19, 2020
 
-* Ronit Stahl, "Chaplain Jim Wants You," in _Enlisting Faith_ (Cambridge: Harvard University Press, 2015).
-
 * Cyrus J. O'Brien, "'It's Not the Same Old Place Anymore': WWII and Religious and Racial Citizenship," excerpt from unpublished manuscript.
 
 Tuesday, March 24, 2020
+
+* Ronit Stahl, "Chaplain Jim Wants You," in _Enlisting Faith_ (Cambridge: Harvard University Press, 2015).
 
 * John F. Kennedy, “Address to the Greater Houston Ministerial Association” (1960). [Video](https://www.youtube.com/watch?v=mBNlS8Zg1WA) and/or [transcript](https://www.npr.org/templates/story/story.php?storyId=16920600).
 
