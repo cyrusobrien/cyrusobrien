@@ -292,11 +292,11 @@ _The football team of the Carlisle Indian School transformed America's now-most-
 </div>
 
 
+***
+
 <div class="container">
 <div class="row">
 <div class="col-sm-6" markdown="1">
-
-***
 
 Tuesday, February 11, 2020
 
