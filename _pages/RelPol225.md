@@ -362,7 +362,7 @@ Thursday, February 27, 2020
 
 Tuesday, March 3, 2020
 
-* Reading TBD: Khalil Muhammad will be a special guest.
+* Reading TBD.
 
 Thursday, March 5, 2020
 
