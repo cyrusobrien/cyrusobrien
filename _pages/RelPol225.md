@@ -305,6 +305,8 @@ Tuesday, February 11, 2020
 
 * Walt Witmann, "Passage to India" (1902), in Cherry, _God's New Israel_, 131-139.
 
+* Additional Recommended Reading: [Paul Kramer, "The Water Cure," _The New Yorker_ (February 25, 2008)](https://www.newyorker.com/magazine/2008/02/25/the-water-cure).
+
 
 Thursday, February 13, 2020
 
