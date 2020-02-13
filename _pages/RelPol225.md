@@ -301,7 +301,7 @@ _The football team of the Carlisle Indian School transformed America's now-most-
 Tuesday, February 11, 2020
 
 
-* Sylverster Johnson, "Religion, Race, and American Empire," in _The Oxford Handbook of Religion and Race in American History_, Paul Harvey and Kathryn Gin Lum, ed. (New York: Oxford University Press, 2018). Please read up to "Communism and Religion," then read the Conclusion. (Roughly, pages 1-11, 16.)
+* Sylvester Johnson, "Religion, Race, and American Empire," in _The Oxford Handbook of Religion and Race in American History_, Paul Harvey and Kathryn Gin Lum, ed. (New York: Oxford University Press, 2018). Please read up to "Communism and Religion," then read the Conclusion. (Roughly, pages 1-11, 16.)
 
 * Walt Witmann, "Passage to India" (1902), in Cherry, _God's New Israel_, 131-139.
 
