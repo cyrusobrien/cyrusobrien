@@ -14,10 +14,10 @@ permalink: teaching/2020-0213-discussion.html
 
 4. What does Bryan think the U.S. should do in regard the the Philippine?
 
-4. What was Bryan's take on U.S. efforts to evangelize/Christianize in the Philippines?
+5. What was Bryan's take on U.S. efforts to evangelize/Christianize in the Philippines?
 
-5. Why was Bryan concerned about the U.S. coming to resemble European empires? How would you compare U.S. imperialism to the European variety?
+6. Why was Bryan concerned about the U.S. coming to resemble European empires? How would you compare U.S. imperialism to the European variety?
 
-6. Compare Bryan's "Imperialism" speech to other speeches and primary sources we've read for class. Which thinkers is he most similar to? Whose work does he draw on most? Who does he seem to disagree with most?
+7. Compare Bryan's "Imperialism" speech to other speeches and primary sources we've read for class. Which thinkers is he most similar to? Whose work does he draw on most? Who does he seem to disagree with most?
 
-7. What was Bryan's racial ideology? How did his racial understandings impact his thoughts about government?
+8. What was Bryan's racial ideology? How did his racial understandings impact his thoughts about government?
