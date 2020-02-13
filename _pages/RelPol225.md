@@ -307,12 +307,17 @@ Tuesday, February 11, 2020
 
 * Additional Recommended Reading: [Paul Kramer, "The Water Cure," _The New Yorker_ (February 25, 2008)](https://www.newyorker.com/magazine/2008/02/25/the-water-cure).
 
+* Song: [Rage against the Machine, "Freedom" (1992)](https://www.youtube.com/watch?v=H_vQt_v8Jmw).
 
 Thursday, February 13, 2020
 
 * “Interview with President William McKinley” (1899).
 
 * William Jennings Bryan, “Imperialism,” (1900).
+
+* [In class discussion activity.](http://cyrusobrien.com/teaching/2020-0213-discussion.html).
+
+* Song: [Akon, "Freedom" (2009)](https://www.youtube.com/watch?v=ulCJY7lLw0E).
 
 </div>
 <div class="col-sm-5" markdown="1">
