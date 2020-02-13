@@ -1,7 +1,7 @@
 ---
 title: "Testing"
-layout: plain
-excerpt: "testing"
+layout: textlay
+excerpt: "discussion Qs"
 sitemap: false
 permalink: teaching/2020-0213-discussion.html
 ---
