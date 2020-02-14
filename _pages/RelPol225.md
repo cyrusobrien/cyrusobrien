@@ -342,7 +342,7 @@ Tuesday, February 18, 2020
 
 Thursday, February 20, 2020
 
-* Bethany Moreton, _To Serve God and Walmart_ (Cambridge, MA: Harvard University Press, 2009), excerpts.
+* Bethany Moreton, _To Serve God and Walmart_ (Cambridge, MA: Harvard University Press, 2009), Prologue, Chapter 5 and Chapter 8.
 
 ***
 
