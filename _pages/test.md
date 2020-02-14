@@ -1,6 +1,6 @@
 ---
-title: "Testing"
-layout: textlay
+title: "discussion questions"
+layout: noheader
 excerpt: "discussion Qs"
 sitemap: false
 permalink: teaching/2020-0213-discussion.html
