@@ -16,7 +16,7 @@ Section Two demonstrates that punitive motives alone do not explain mass incarce
 
   <div markdown="0"  class="container-fluid">
                <div id="cloud" class="row">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/wordcloud2.jpg" style="width:100%" alt="WordCloud2">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/wordcloud2.png" style="width:100%" alt="WordCloud2">
  </div>
  </div>
 

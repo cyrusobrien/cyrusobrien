@@ -17,7 +17,7 @@ Section 1 intervenes in literature about incarceration by empirically linking th
 
   <div markdown="0"  class="container-fluid">
                <div id="cloud" class="row">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/wordcloud1.jpg" style="width:100%" alt="WordCloud1">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/wordcloud1.png" style="width:100%" alt="WordCloud1">
  </div>
  </div>
 

@@ -15,7 +15,7 @@ Breaking with research that focuses chiefly on how people are molded by institut
 
   <div markdown="0"  class="container-fluid">
                <div id="cloud" class="row">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/wordcloud3.jpg" style="width:100%" alt="WordCloud3">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/wordcloud3.png" style="width:100%" alt="WordCloud3">
  </div>
  </div>
 
