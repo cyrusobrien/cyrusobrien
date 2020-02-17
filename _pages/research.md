@@ -22,7 +22,7 @@ The book consist of three parts, abstracts of which are below. Also included are
                </div>
                    <div class="clearfix col-sm-6">
                        <a href="{{ site.url }}{{ site.baseurl }}/dissertation/section1#cloud">
-                             <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/wordcloud1.jpg" alt="cartogram">
+                             <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/wordcloud1.png" alt="cartogram">
                        </a>
                    </div>
 </div>
@@ -39,7 +39,7 @@ The book consist of three parts, abstracts of which are below. Also included are
                 <div class="clearfix  col-sm-6">
                                     <div class="clearfix"></div>
                                       <a href="{{ site.url }}{{ site.baseurl }}/dissertation/section2#cloud">
-                                            <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/wordcloud2.jpg" alt="racialdisparities"> </a>
+                                            <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/wordcloud2.png" alt="racialdisparities"> </a>
                                   </div>
            </div>
   </div>
@@ -54,7 +54,7 @@ The book consist of three parts, abstracts of which are below. Also included are
                <div class="row">
                    <div class="clearfix col-sm-6">
                    <a href="{{ site.url }}{{ site.baseurl }}/dissertation/section3#cloud">
-                             <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/wordcloud3.jpg" alt="section3"> </a>
+                             <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/wordcloud3.png" alt="section3"> </a>
                    </div>
   </div>
                </div>
