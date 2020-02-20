@@ -340,9 +340,14 @@ Tuesday, February 18, 2020
 
 * Sarah Hammond, “God Is My Partner”: An Evangelical Business Man Confronts Depression and War,” Church History 80:3 (2011): 498–519. _This article is available online through the WashU library. Please search for and download the article on your own._
 
+* [Song: The Notorious B.I.G., "Mo' Money, Mo' Problems" (1997)](https://www.youtube.com/watch?v=gUhRKVIjJtw).
+
 Thursday, February 20, 2020
 
 * Bethany Moreton, _To Serve God and Walmart_ (Cambridge, MA: Harvard University Press, 2009), Prologue, Chapter 5 and Chapter 8.
+
+* Song: [Men without Hats, "Safety Dance" (1983).](https://www.youtube.com/watch?v=AjPau5QYtYs).
+
 
 ***
 
