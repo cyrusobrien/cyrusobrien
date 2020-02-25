@@ -363,6 +363,10 @@ Tuesday, February 25, 2020
 
 * Kelly Baker, _Gospel According to the Klan: The KKK’s Appeal to Protestant America, 1915-1930_ (Lawrence, KS: University of Kansas Press, 2011), 70-96, 246-264.
 
+* Song: [Billie Holiday, "Strange Fruit" (1939)](https://www.youtube.com/watch?v=Web007rzSOI).
+
+* In Class: [Small Group Discussion.](http://cyrusobrien.com/teaching/2020-0225-discussion.html)
+
 
 Thursday, February 27, 2020
 
