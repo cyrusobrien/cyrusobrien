@@ -305,6 +305,8 @@ Tuesday, February 11, 2020
 
 * Walt Witmann, "Passage to India" (1902), in Cherry, _God's New Israel_, 131-139.
 
+* In class: ["The Filipinos Are Being Tortured," _Omaha Morning World-Herald_ (May 13, 1900).](http://cyrusobrien.com/images/Syllabi Images/RelPol225/Ohama Morning World-Herald, May 13, 1900.pdf)
+
 * Additional Recommended Reading: [Paul Kramer, "The Water Cure," _The New Yorker_ (February 25, 2008)](https://www.newyorker.com/magazine/2008/02/25/the-water-cure).
 
 * Song: [Rage against the Machine, "Freedom" (1992)](https://www.youtube.com/watch?v=H_vQt_v8Jmw).
