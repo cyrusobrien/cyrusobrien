@@ -376,6 +376,8 @@ Thursday, February 27, 2020
 
 * [Henry Luce, “American Century,” (1941)](http://www-personal.umich.edu/~mlassite/discussions261/luce.pdf).
 
+* Song: [The Ink Spots, "I Don't Want To Set the World on Fire" (1941).](https://www.youtube.com/watch?v=6l6vqPUM_FE)
+
 * <span style="color:green">We will discuss the form and content of the midterm exam.</span>
 
 Tuesday, March 3, 2020
