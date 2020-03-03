@@ -382,6 +382,7 @@ Tuesday, March 3, 2020
 
   * Song: [The Ink Spots, "I Don't Want To Set the World on Fire" (1941).](https://www.youtube.com/watch?v=6l6vqPUM_FE)
 
+   * [In class discussion questions](http://cyrusobrien.com/teaching/2020-0303-discussion.html)
 Thursday, March 5, 2020
 
 * No Class. Optional peer-led review session.
