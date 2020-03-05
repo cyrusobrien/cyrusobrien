@@ -1,7 +1,7 @@
 ---
-title: "Cyrus O'Brien - Photos from the Archives"
+title: "Archival Photos of Florida's Prison System"
 layout: piclay
-excerpt: "Photos from the Archives"
+excerpt: "Digital Exhibit"
 permalink: /exhibit/
 ---
 
