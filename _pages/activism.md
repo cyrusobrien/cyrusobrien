@@ -3,12 +3,12 @@ title: "Cyrus O'Brien - Activism"
 layout: textlay
 excerpt: "Cyrus O'Brien -- Activism"
 sitemap: false
-permalink: /activism/
+permalink: /practice/
 ---
 
-# Criminal and Juvenile Justice Activism
+# Criminal and Juvenile Justice Practice
 
-I am a prison abolitionist. I have been working to reduce and limit incarceration since 2008, when I moved to Alabama to work for juvenile justice reform. I've worked for the [Southern Poverty Law Center](https://www.splcenter.org/issues/childrens-rights), the [Annie E. Casey Foundation](http://www.aecf.org/work/juvenile-justice/), the [American Bar Association](https://www.americanbar.org/advocacy/rule_of_law/where_we_work/middle_east/morocco/programs.html), and, from 2013 to 2020, the [Project on Accountable Justice](www.iog.fsu.edu/paj/), a criminal justice reform think tank based at Florida State University. My projects to reduce incarceration have involved legislative advocacy, collaborative technical assistance to local courts and state corrections agencies, media campaigns, and assistance with litigation against a private juvenile prison. Some of this work has resulted in publications, a selection of which is below.
+My scholarship is informed by more than a dozen years practical work to reduce and limit incarceration. I've worked for the [Southern Poverty Law Center](https://www.splcenter.org/issues/childrens-rights), the [Annie E. Casey Foundation](http://www.aecf.org/work/juvenile-justice/), the [American Bar Association](https://www.americanbar.org/advocacy/rule_of_law/where_we_work/middle_east/morocco/programs.html), and, from 2013 to 2020, the Project on Accountable Justice, a criminal justice reform think tank based at Florida State University. My projects to reduce incarceration have involved legislative advocacy, collaborative technical assistance to local courts and state corrections agencies, media campaigns, and assistance with litigation against a private juvenile prison. Some of this work has resulted in publications, a selection of which is below.
 
 
 <hr class="section-heading-spacer">

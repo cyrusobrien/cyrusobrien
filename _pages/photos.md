@@ -2,10 +2,10 @@
 title: "Cyrus O'Brien - Photos from the Archives"
 layout: piclay
 excerpt: "Photos from the Archives"
-permalink: /photos/
+permalink: /exhibit/
 ---
 
-# Photos from the Archives
+# Multimedia and Public Scholarship
 
 This short digital exhibit is intended to provide a point of entry into the history of Florida's criminal justice systems. I found these images while conducting research at the State Archives of Florida and other libraries. I've written a short, informal caption to contextualize each image. To pause the slide show, simply hover over the image or its caption.
 
