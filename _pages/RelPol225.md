@@ -8,7 +8,10 @@ permalink: teaching/relpol225
 
 # Religion and Politics in American History
 
-## <span style="color:red">Note: This course transitioned to online only in March 2020 in response to the COVID-19 global pandemic. The original original syllabus is available [here.](http://cyrusobrien.com/teaching/relpol225-preCOVID-19) </span>
+## <span style="color:red">This course transitioned to online only in March 2020 in response to the COVID-19 global pandemic. The  original syllabus is available [here.](http://cyrusobrien.com/teaching/relpol225-preCOVID-19) </span>
+
+The shift to online classes, and the extention of Spring Break, not only necessitated changes to the course schedule, but also changes to other organizational aspects of the course. I have tried to make it easy to scan this document for such changes by ~~striking out obsolete portions of the syllabus~~ and <span style="color:red">marking new text in red font.</span>
+
 
 Religion and Politics 225
 
@@ -50,10 +53,13 @@ The United States has often been imagined as both a deeply Christian nation and 
 
 Your grade will be calculated as follows:
 
- * 30% class participation (this includes blog posts, quizzes, and other forms of participation)
- * 20% two short essays
+ * ~~30% class participation (this includes blog posts, quizzes, and other forms of participation)~~
+ * ~~20% two short essays~~
  * 25% take-home midterm exam
  * 25% take-home final exam
+ * <span style="color:red">10% short essay</span>
+ * <span style="color:red">20% class participation (pre-COVID-19, including pre-COVID-19 quizzes)</span>
+ * <span style="color:red">20% online assignments (group chats, blog posts, online quizzes)<span>
 
 _Note: All assignments must be completed to receive a passing grade in the course._
 
@@ -69,6 +75,8 @@ The most important assignments for this course are to attend class regularly, do
 
 Whether it’s impeachment, Supreme Court cases, or the ongoing election, the themes of this course are often relevant to current events in the U.S. and elsewhere in the world. Each student in the course will create an account on Twitter and tweet about current events relating to the course using the hashtag #RelPolt. We will often begin class by discussing the news and our tweets about it. Each student should share at least **5 articles** before the end of the semester. _To receive credit, be sure to post links to your tweets on Canvas in the "Twitter Quiz" section._
 
+<span style="color:red">Since we are no longer meeting in person, I ask that you interact with each other and the news on Twitter. Please be sure to comment on at least 3 of your classmates' Twitter posts. I have added Quiz fields on Canvas for you to post links to your replies to your classmates.</span>
+
 #### Blog Posts
 
 Throughout the semester, you will write four blog posts, each due before 9 a.am the day of class. These 250-400 word posts should be written informally. The blog posts are designed to help you prepare for discussion and to provide a forum for you to write . They should include your response to the readings: What do you have questions about? What confused or interested you? How do themes in recent readings relate to topics we studied earlier in the course. Feel free to engage with your classmates, but make sure to root your responses in the reading.
@@ -83,7 +91,7 @@ Most weeks will entail short quizzes (5-6 minutes) at the beginning of class. Th
 
 #### Short Essays
 
-Two short essays, between 800-1100 words, will follow units on the Slavery, Abolition, & Confederate Nationalism and on Civil Rights, Struggle, and Retrenchment. Prompts and instructions for these essays will be distributed in class.
+~~Two short essays,~~ <span style="color:red">One short essay,</span> between 800-1100 words, will follow units on the Slavery, Abolition, & Confederate Nationalism ~~and on Civil Rights, Struggle, and Retrenchment.~~ Prompts and instructions for ~~these essays~~ <span style="color:red">this essay</span> will be distributed in class.
 
 #### Exams
 
@@ -397,24 +405,16 @@ Thursday, March 5, 2020
 
 Tuesday, March 10, 2020 and Thursday, March 12, 2020
 
-* Be safe and enjoy yourself!
+* Be <span style="color:red">extra</span> safe and ~~enjoy yourself!~~ <span style="color:red">have as much fun as possible while practicing social distancing
 
 
 ***
 
-#### The Possibilities and Limits of Religious Citizenship
+#### Extended Spring Break: No Class
 
-Tuesday, March 17, 2020
+Tuesday and Thursday, March 19, 2020
 
-* Jonathan P. Herzog, The Spiritual-Industrial Complex: America’s Religious Battle against Communism in the Early Cold War (2011), 3-12.
-
-* J. Edgar Hoover, “A Good Christian is a Good Citizen,” _Christianity Today_ (August 12, 1951).
-
-* J. Edgar Hoover, “Soviet Rule or Christian Renewal,” _Christianity Today_, (November 7, 1960).
-
-* Dwight D. Eisenhower, “What Faith in God Means to Me,” _These Times_, (September 1, 1960).
-
-Thursday, March 19, 2020
+*
 
 * Cyrus J. O'Brien, "'It's Not the Same Old Place Anymore': WWII and Religious and Racial Citizenship," excerpt from unpublished manuscript.
 
