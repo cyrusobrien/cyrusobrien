@@ -507,7 +507,7 @@ In Class Viewing:
 
 Thursday, April 16, 2020
 
-* R. Marie Griffith, "The Abortion War Before and After _Roe v. Wade_," in _Moral Combat: How Sex Divided American Christians and Fractured American Politics (New York: Basic Books, 2017).
+* R. Marie Griffith, "The Abortion War Before and After _Roe v. Wade_," in _Moral Combat: How Sex Divided American Christians and Fractured American Politics_ (New York: Basic Books, 2017).
 
 #### Religion and State in Post 9/11 America
 
