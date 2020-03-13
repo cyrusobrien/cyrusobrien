@@ -8,7 +8,7 @@ permalink: teaching/relpol225
 
 # Religion and Politics in American History
 
-## <span style="color:red">>Note: This course transitioned to online only in March 2020 in response to the COVID-19 global pandemic. [The original original syllabus is available here.](http://cyrusobrien.com/teaching/relpol225-preCOVID-19) </span>
+## <span style="color:red">Note: This course transitioned to online only in March 2020 in response to the COVID-19 global pandemic. The original original syllabus is available [here.](http://cyrusobrien.com/teaching/relpol225-preCOVID-19) </span>
 
 Religion and Politics 225
 
