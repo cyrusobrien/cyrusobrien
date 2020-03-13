@@ -414,9 +414,6 @@ Tuesday, March 10, 2020 and Thursday, March 12, 2020
 
 Tuesday and Thursday, March 19, 2020
 
-*
-
-* Cyrus J. O'Brien, "'It's Not the Same Old Place Anymore': WWII and Religious and Racial Citizenship," excerpt from unpublished manuscript.
 
 Tuesday, March 24, 2020
 
