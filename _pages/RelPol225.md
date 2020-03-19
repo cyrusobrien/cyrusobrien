@@ -420,11 +420,11 @@ Tuesday and Thursday, March 19, 2020
 
 <span style="color:maroon">The format of the online course will primarily be asynchronous. Most weeks, you will write a short, informal blog posts on Canvas of about 200 words about a subset of the week's readings. (This is slightly shorter than the blog posts you wrote earlier in the course.) Emily and I will comment on your posts.
 
-Each week will also feature "chats" in your small groups. The model for this are fivethirtyeight.com's Chats, [which you can review here if you're interested.](https://fivethirtyeight.com/tag/slack-chat/)
+<span style="color:maroon">Each week will also feature "chats" in your small groups. The model for this are fivethirtyeight.com's Chats, [which you can review here if you're interested.](https://fivethirtyeight.com/tag/slack-chat/)</span>
 
-<span style="color:maroon"> **This will entail synchronous activities with the members of your small group. If someone from your group is unable to participate, please just note that at the beginning of the conversation.** Also, do your best to preserve a record of who said what. Take a look at the fivethirtyeight model to get a sense of what we're shooting for.
+<span style="color:maroon"> **This will entail synchronous activities with the members of your small group. If someone from your group is unable to participate, please just note that at the beginning of the conversation.** Also, do your best to preserve a record of who said what. Take a look at the fivethirtyeight model to get a sense of what we're shooting for.</span>
 
-I suggest that you chat during what used to be our class time, namely from 1-2pm CDT. However, if you want to collectively schedule another time that works for all the members of your small group, that is fine, too. These groups will have the same composition of the small discussion groups we frequently used when we met IRL.</span>
+<span style="color:maroon">I suggest that you chat during what used to be our class time, namely from 1-2pm CDT. However, if you want to collectively schedule another time that works for all the members of your small group, that is fine, too. These groups will have the same composition of the small discussion groups we frequently used when we met IRL.</span>
 
 
 <span style="color:maroon">I have a few goals in preserving the small groups. First, I hope it offers some continuity as we shift to online learning. Second, I hope that the groups retain their efficacy; I was impressed with how well you tackled the course content in your small group discussions, and I hope you can can continue in that productive vein. Finally, I hope that chatting in the small groups will provide some sense of community during these very unusual times. Many of us are likely to feel isolated and trapped, and I invite you to use the small group chat forums to connect with one another.
@@ -433,7 +433,7 @@ I suggest that you chat during what used to be our class time, namely from 1-2pm
 
 <span style="color:maroon">I have set up forums for your small groups on Canvas, in the "Collaborations" tab. When you click on it, you'll find a GoogleDoc that you share with the other members of your group. **I expect Google Docs to be a bit of a clunky platform, and I invite you to use whatever platform is best, so long as you can paste your transcipt into Google Docs so Emily and I can review your chats.** Personally, I think chatting inside Google Hangouts may best, though Slack and old fashioned text messaging also promise to be effective. You're also welcome to conduct a conference call or video call with your small group, so long as you rotate taking notes and making those notes available to me and Emily by the end of the day on Friday.</span>
 
-<span style="color:maroon">**I ask that you conclude each chat session by attempting to articulate a "So What?!" statement or two, and by creating a short list of key terms that could be used for the final exam.**</span> Using online chat functions is slower than talking face-to-face, so I expect your small group chats to take an hour or so.
+<span style="color:maroon">**I ask that you conclude each chat session by attempting to articulate a "So What?!" statement or two, and by creating a short list of key terms that could be used for the final exam.** Using online chat functions is slower than talking face-to-face, so I expect your small group chats to take an hour or so.</span>
 
 <span style="color:maroon">I will circulate discussion questions to guide your chats on Thursdays by 10am CDT.</span>
 
