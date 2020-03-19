@@ -469,6 +469,8 @@ Week of March 30, 2020
 
 * **Thursday April 2: Plan on having completed all the reading and chatting with members of your small group at 2pm EDT/1pm CDT etc. Please your discussion on Professor Martin's article, but feel free to also talk about MLK.**
 
+<span style="color:orange">**Submit your Chat transcript by Friday at 5pm.**</span>
+
 Week of April 6, 2020
 
 * [Keisha N. Blain, "This Speech Changed the Course of Black Voting Rights in America," _Timeline_ (August 22, 2018).](https://timeline.com/hamer-speech-voting-rights-d5f6ddc7470a)
