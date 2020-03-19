@@ -414,119 +414,100 @@ Tuesday, March 10, 2020 and Thursday, March 12, 2020
 
 Tuesday and Thursday, March 19, 2020
 
-
-Tuesday, March 24, 2020
-
-* Ronit Stahl, "Chaplain Jim Wants You," in _Enlisting Faith_ (Cambridge: Harvard University Press, 2015).
-
-* John F. Kennedy, “Address to the Greater Houston Ministerial Association” (1960). [Video](https://www.youtube.com/watch?v=mBNlS8Zg1WA) and/or [transcript](https://www.npr.org/templates/story/story.php?storyId=16920600).
-
-* Mario Cuomo, “Religious Belief and Public Morality: A Catholic Governor’s Perspective.” [Video](https://www.c-span.org/video/?124642-1/cuomo-notre-dame-speech) and/or [transcript](http://archives.nd.edu/research/texts/cuomo.htm).
-
 ***
 
-<div class="container">
-<div class="row">
-<div class="col-sm-6" markdown="1">
+#### <span style="color:red">At this point in the semester, the course is shifting to online only.</span>
+
+<span style="color:maroon">The format of the online course will primarily be asynchronous. Most weeks, you will write a short, informal blog posts on Canvas of about 200 words about a subset of the week's readings. (This is slightly shorter than the blog posts you wrote earlier in the course.) Emily and I will comment on your posts.
+
+Each week will also feature "chats" in your small groups. The model for this are fivethirtyeight.com's Chats, [which you can review here if you're interested.](https://fivethirtyeight.com/tag/slack-chat/)
+
+<span style="color:maroon"> **This will entail synchronous activities with the members of your small group. If someone from your group is unable to participate, please just note that at the beginning of the conversation.** Also, do your best to preserve a record of who said what. Take a look at the fivethirtyeight model to get a sense of what we're shooting for.
+
+I suggest that you chat during what used to be our class time, namely from 1-2pm CDT. However, if you want to collectively schedule another time that works for all the members of your small group, that is fine, too. These groups will have the same composition of the small discussion groups we frequently used when we met IRL.</span>
 
 
-#### Civil Rights, Struggle, and Retrenchment
+<span style="color:maroon">I have a few goals in preserving the small groups. First, I hope it offers some continuity as we shift to online learning. Second, I hope that the groups retain their efficacy; I was impressed with how well you tackled the course content in your small group discussions, and I hope you can can continue in that productive vein. Finally, I hope that chatting in the small groups will provide some sense of community during these very unusual times. Many of us are likely to feel isolated and trapped, and I invite you to use the small group chat forums to connect with one another.
+
+<span style="color:maroon">I know that this goes without saying, but please make sure to be considerate of your peers. Many of us (myself included) are worried about family who are particularly vulnerable to COVID-19 and, according to a recent poll, one in five American households now has someone out of work due to the pandemic. In such stressful times, it's especially important to be compassionate towards one another.</span>
+
+<span style="color:maroon">I have set up forums for your small groups on Canvas, in the "Collaborations" tab. When you click on it, you'll find a GoogleDoc that you share with the other members of your group. **I expect Google Docs to be a bit of a clunky platform, and I invite you to use whatever platform is best, so long as you can paste your transcipt into Google Docs so Emily and I can review your chats.** Personally, I think chatting inside Google Hangouts may best, though Slack and old fashioned text messaging also promise to be effective. You're also welcome to conduct a conference call or video call with your small group, so long as you rotate taking notes and making those notes available to me and Emily by the end of the day on Friday.</span>
+
+<span style="color:maroon">**I ask that you conclude each chat session by attempting to articulate a "So What?!" statement or two, and by creating a short list of key terms that could be used for the final exam.**</span> Using online chat functions is slower than talking face-to-face, so I expect your small group chats to take an hour or so.
+
+<span style="color:maroon">I will circulate discussion questions to guide your chats on Thursdays by 10am CDT.</span>
+
+#### Cold War Religion and Anti-Communism
+Week of March 23, 2020
+
+* Jonathan P. Herzog, _The Spiritual-Industrial Complex: America’s Religious Battle against Communism in the Early Cold War_ (2011), 3-12.
+
+* J. Edgar Hoover, “Soviet Rule or Christian Renewal,” Christianity Today, (November 7, 1960).
+
+* Dwight D. Eisenhower, “What Faith in God Means to Me,” These Times, (September 1, 1960).
+
+* Highly recommended but not required: [Richard Rhodes, "The General and World War III," _The New Yorker_ (June 19, 1996).](https://www.newyorker.com/magazine/1995/06/19/the-general-and-world-war-iii) _This is a fascinating and riveting article. The thing to take away from it for this course is that the Cold War was no joke: People who occupied positions of leadership in the U.S. military were more than ready to begin a nuclear World War III that would resulted in hundreds of millions of deaths. It's not exactly comforting reading in the era of coronavirus, but it's a great article._
+
+* Tuesday March 24, 1pm: I will be online in Canvas's "Chat" function for an AMA about the remainder of the course and the treansition to online learning.
+
+* **Thursday March 26: Plan on having completed all the reading and chatting with members of your small group at 2pm EDT/1pm CDT etc.**
+
+<span style="color:orange">**Submit your Chat transcript by Friday at 5pm.**</span>
 
 
-Thursday, March 26, 2020
+#### Civil Rights and Struggle
 
-<span style="color:green">**Second Paper Assignment Distributed in Class**</span>
+Week of March 30, 2020
 
-* [Annette Gordon-Reed, "MLK: What We Lost," _New York Review of Books_ (November 8, 2018)](https://www.nybooks.com/articles/2018/11/08/martin-luther-king-what-we-lost/).
-
-* Michael K. Honey, "'In God's Economy': Organizing and the Poor Peoples' Campaign," in _To the Promised Land: Martin Luther King and the Fight for Economic Justice_ (New York: W.W. Norton, 2019).
-
-
-<span style="color:green">**Monday March 30 to Friday April 3: Individual Meetings to Discuss 2nd Paper.**</span>
-
-Tuesday, March 31, 2020
+* [Annette Gordon-Reed, "MLK: What We Lost," _New York Review of Books_ (November 8, 2018)](https://www-nybooks-com.libproxy.wustl.edu/articles/2018/11/08/martin-luther-king-what-we-lost/).
 
 * Lerone Martin, “Bureau Clergyman: How the FBI Colluded with an African American Televangelist to Destroy Reverend Dr. Martin Luther King, Jr.,” _Religion and American Culture: A Journal of Interpretation_, Winter Vol.28, No. 1 (2018).
 
 * Song: [Elder Lightfoot Solomon Michaux & Congregation, "Happy Am I" (ca. 1950)](https://www.youtube.com/watch?v=P2zVxG5rbIw).
 
+* <span style="color:orange">**Tuesday March 31: Submit a blog post about Annette Gordon-Reed's essay by 1pm CDT**</span>
 
-</div>
-<div class="col-sm-5" style="padding:26px; max-width:350px;">
+* **Thursday April 2: Plan on having completed all the reading and chatting with members of your small group at 2pm EDT/1pm CDT etc. Please your discussion on Professor Martin's article, but feel free to also talk about MLK.**
 
- ![Protest at Attica](http://cyrusobrien.com/images/SyllabiImages/RelPolt275/attica_AP.jpg){: style="max-width: 100%;  border: 10px; display: block; margin: auto;"}
+Week of April 6, 2020
 
-_Prisoners at Attica State Prison in 1971 participate in a negotiation session. Associated Press_.
+* [Keisha N. Blain, "This Speech Changed the Course of Black Voting Rights in America," _Timeline_ (August 22, 2018).](https://timeline.com/hamer-speech-voting-rights-d5f6ddc7470a)
 
-</div>
-</div>
-</div>
+* [Fannie Lou Hamer, “Speech Before the Democratic National Convention,” August 22, 1964.](https://www.americanrhetoric.com/speeches/fannielouhamercredentialscommittee.htm)
 
-Thursday, April 2, 2020
+* [Martin Luther King, Jr., Letter from Birmingham Jail (1963).](https://www.theatlantic.com/magazine/archive/2018/02/letter-from-a-birmingham-jail/552461/)
 
-* Andrew Murphy, Prodigal Nation: Moral Decline and Divine Punishment from New England to 9/11 (2009), 109-124.
+* <span style="color:orange">**Tuesday April 7: Submit a blog post about Hamer's Speech before the Democratic National Convention by 1pm.**</span>
 
-In Class Viewings:
+* **Thursday April 9: Plan on having completed all the reading and chatting with members of your small group at 2pm EDT/1pm CDT etc. Please focus your discussion on Martin Luther King, Jr.'s Letter from Birmingham Jail.**
 
-* Martin Luther King, Jr., I Have a Dream, August 28, 1963.
-
-* Fannie Lou Hamer, “Speech Before the Democratic National Convention,” August 22, 1964.
-
-Tuesday, April 7, 2020
-
-<span style="color:orange">**Third and Final Blog Post due before 9am.**</span>
-
-
-* Carl McIntire, Against the Civil Rights Bill, 1964.
-
-* Jerry Falwell, Ministers and Marchers, 1965.
-
-
-Thursday, April 9, 2020
-
-* _Special Guest Lecture by Emily Cosgrove, "Religious Movements against Mass Incarceration."_
-
-* [United States Conference of Catholic Bishops, Responsibility, Rehabilitation, and Restoration: A Catholic Perspective on Crime and Criminal Justice (November 15, 2000)](http://www.usccb.org/issues-and-action/human-life-and-dignity/criminal-justice-restorative-justice/crime-and-criminal-justice.cfm), excerpts.
-
-* Primary Sources available on Canvas.
-
-<span style="color:red">**Monday April 13: Second Paper Due via Canvas by 6pm.**</span>
+<span style="color:orange">**Submit your Chat transcript by Friday at 5pm.**</span>
 
 #### Culture Wars
 
-Tuesday, April 14, 2020
+Week of April 13, 2020
 
-* Andrew Murphy, Prodigal Nation: Moral Decline and Divine Punishment from New England to 9/11 (2009), 142-155.
+* [Randall Balmer, "The Real Origins of the Religious Right," _Politico Magazine_ (May 27, 2014)](https://www.politico.com/magazine/story/2014/05/religious-right-real-origins-107133)
 
-In Class Viewing:
-
-* [Patrick J. Buchanan, “Address to the Republican National Convention,” August 17, 1992.](https://www.youtube.com/watch?v=2olwuAy3_og).
-
-* [Barack Obama, “Address to the Democratic National Convention,” July 27, 2004](https://www.youtube.com/watch?v=R9FJKQTJ3V4).
-
-
-Thursday, April 16, 2020
+* Jerry Falwell, Ministers and Marchers, 1965.
 
 * R. Marie Griffith, "The Abortion War Before and After _Roe v. Wade_," in _Moral Combat: How Sex Divided American Christians and Fractured American Politics_ (New York: Basic Books, 2017).
 
-#### Religion and State in Post 9/11 America
+* Mrs. X, "One Woman's Abortion," _The Atlantic_ (August 1965).](https://www.theatlantic.com/past/docs/politics/abortion/mrsx.htm)
 
-Tuesday, April 21, 2020
+* <span style="color:orange">**Tuesday April 14: Submit a blog post about Randall Balmer's article and Jerry Falwell's 1965 speech.**</span>
 
-* [George W. Bush, “Remarks at National Day of Prayer and Remembrance,” September 14, 2001](http://www.washingtonpost.com/wp-srv/nation/specials/attacked/transcripts/bushtext_091401.html).
+* **Thursday April 16: Plan on having completed all the reading and chatting with members of your small group at 2pm EDT/1pm CDT etc. Please focus your discussion on Professor Griffith's chapter and the short 1965 article in _The Atlantic_.**
 
-* Paul C. Johnson, “Savage Civil Religion,” _Numen_ 52, No. 3 (2005), 289-324.
+<span style="color:orange">**Submit your Chat transcript by Friday at 5pm.**</span>
 
-* Matt Apuzzo and Adam Goldman, “With CIA Help, NYPD Moves Covertly In Muslim Areas,” Associated Press (August 24, 2011), available at [_The Seattle Daily Times_](https://www.seattletimes.com/seattle-news/politics/with-cia-help-nypd-moves-covertly-in-muslim-areas/).
 
-In Class Viewing:
-Billy Graham, “9/11 Message from the Washington National Cathedral,” September 14, 2001
+Week of April 20, 2020
 
-Thursday, April 23, 2020
+* There are so many great options, but I have not yet decided how we'll end the course. Reading and details TBD.
 
-* Final Class: Wrap Up.
 
-<span style="color:red">**Final Exam due on Canvas, date TBD.**</span>
+<span style="color:red">**Open book, take-home final Exam due on Canvas, date TBD.**</span>
 
 
 
