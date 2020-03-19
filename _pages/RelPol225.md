@@ -10,7 +10,7 @@ permalink: teaching/relpol225
 
 ## <span style="color:red">This course transitioned to online only in March 2020 in response to the COVID-19 global pandemic. The  original syllabus is available [here.](http://cyrusobrien.com/teaching/relpol225-preCOVID-19) </span>
 
-#### The shift to online classes, and the extention of Spring Break, not only necessitated changes to the course schedule, but also changes to other organizational aspects of the course. I have tried to make it easy to scan this document for such changes by ~~striking out obsolete portions of the syllabus~~ and <span style="color:red">marking new text in red font.</span>
+#### The shift to online classes, and the extension of Spring Break, not only necessitated changes to the course schedule, but also changes to other organizational aspects of the course. I have tried to make it easy to scan this document for such changes by ~~striking out obsolete portions of the syllabus~~ and <span style="color:red">marking new text in red font.</span>
 
 
 Religion and Politics 225
