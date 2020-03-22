@@ -442,7 +442,7 @@ Week of March 23, 2020
 
 * Jonathan P. Herzog, _The Spiritual-Industrial Complex: America’s Religious Battle against Communism in the Early Cold War_ (2011), 3-12.
 
-* J. Edgar Hoover, “Soviet Rule or Christian Renewal,” Christianity Today, (November 7, 1960).
+* J. Edgar Hoover, “Soviet Rule or Christian Renewal,” Christianity Today, (November 7, 1960). _Update 3/21/2020: I just learned that this is not yet up on Canvas. I will do my best to have it posted by 3/22/2020 in the early afternoon. Thanks to those of you who reached out to let me know that this wasn't yet available!_
 
 * Dwight D. Eisenhower, “What Faith in God Means to Me,” These Times, (September 1, 1960).
 
