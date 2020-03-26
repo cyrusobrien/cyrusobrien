@@ -75,7 +75,7 @@ The most important assignments for this course are to attend class regularly, do
 
 Whether it’s impeachment, Supreme Court cases, or the ongoing election, the themes of this course are often relevant to current events in the U.S. and elsewhere in the world. Each student in the course will create an account on Twitter and tweet about current events relating to the course using the hashtag #RelPolt. We will often begin class by discussing the news and our tweets about it. Each student should share at least **5 articles** before the end of the semester. _To receive credit, be sure to post links to your tweets on Canvas in the "Twitter Quiz" section._
 
-<span style="color:red">Since we are no longer meeting in person, I ask that you interact with each other and the news on Twitter. Please be sure to comment on at least 3 of your classmates' Twitter posts. I have added Quiz fields on Canvas for you to post links to your replies to your classmates.</span>
+<span style="color:red">~~Since we are no longer meeting in person, I ask that you interact with each other and the news on Twitter. Please be sure to comment on at least 3 of your classmates' Twitter posts. I have added Quiz fields on Canvas for you to post links to your replies to your classmates.~~</span> **Forgive me, this was a bad idea. Instead, we'll be talking about the news in our small group chats. Please ignore these earlier instructions.**
 
 #### Blog Posts
 
