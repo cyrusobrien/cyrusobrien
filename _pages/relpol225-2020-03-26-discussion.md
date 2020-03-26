@@ -27,7 +27,7 @@ If not everyone from your group has joined after about 1:03pm CDT, go ahead and 
 
 4. Herzog argues that the U.S. (unlike, say, France) was a "covenant nation." What does this mean?
 
-4. Who was J. Edgar Hoover, and what does his 1960 article in Christianity Today (the country's most prominent evangelical publication) have to do with the "spiritual-industrial complex?"
+4. Who was J. Edgar Hoover, and what does his 1960 article in _Christianity Today_ (the country's most prominent evangelical publication) have to do with the "spiritual-industrial complex?"
 
 7. What do you think about Hoover's article, "Soviet Rule or Christian Renewal?" Do parts of this sound right to you? Do parts sound kind of insane?
 
