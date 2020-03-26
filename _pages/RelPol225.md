@@ -452,6 +452,8 @@ Week of March 23, 2020
 
 * **Thursday March 26: Plan on having completed all the reading and chatting with members of your small group at 2pm EDT/1pm CDT etc.**
 
+* [The Discussion Questions can be found here.](http://cyrusobrien.com/teaching/2020-0326-discussion.html)
+
 <span style="color:orange">**Submit your Chat transcript by Friday at 5pm.**</span>
 
 
