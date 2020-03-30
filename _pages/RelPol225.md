@@ -497,7 +497,7 @@ Week of April 13, 2020
 
 * R. Marie Griffith, "The Abortion War Before and After _Roe v. Wade_," in _Moral Combat: How Sex Divided American Christians and Fractured American Politics_ (New York: Basic Books, 2017).
 
-* Mrs. X, "One Woman's Abortion," _The Atlantic_ (August 1965).](https://www.theatlantic.com/past/docs/politics/abortion/mrsx.htm)
+* [Mrs. X, "One Woman's Abortion," _The Atlantic_ (August 1965).](https://www.theatlantic.com/past/docs/politics/abortion/mrsx.htm)
 
 * <span style="color:orange">**Tuesday April 14: Submit a blog post about Randall Balmer's article and Jerry Falwell's 1965 speech.**</span>
 
