@@ -471,6 +471,8 @@ Week of March 30, 2020
 
 * **Thursday April 2: Plan on having completed all the reading and chatting with members of your small group at 2pm EDT/1pm CDT etc. Please your discussion on Professor Martin's article, but feel free to also talk about MLK.**
 
+* [The Discussion Questions can be found here.](http://cyrusobrien.com/teaching/2020-0402-discussion.html)
+
 <span style="color:orange">**Submit your Chat transcript by Friday at 5pm.**</span>
 
 Week of April 6, 2020
