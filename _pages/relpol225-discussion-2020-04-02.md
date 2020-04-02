@@ -15,7 +15,12 @@ Overall, your chats were fantastic. Almost every group did a great job of workin
 
 That being said, a couple of groups could benefit from a bit more exchange and dialogue. Rather than each student doing their best to answer the question as comprehensively as possible, the best chats chipped away at the questions. Often the first response to the question was a brief, solid building block—more a place to begin the conversation than a place to end. The best chats regularly contained phrases like, “Yeah, I agree.” “Right!” “Exactly!” “It makes me think about ______.” and “I’m not sure what to think about this article/question.” In general, the groups that began to tackle each question with shorter answers got
 
-The readings from this week build on last week’s exploration of the Cold War. You all did a great job identifying the main thrusts from last week. 1) That, during the Cold War, “religion” became central to understandings of national identity and that this idea was advanced through massive (public and private) investments in religious life. 2) That the idea of a Christian nation was an especially potent contrast to the Soviet Union, which had a religious propaganda campaign of its own. Though these campaigns had opposing goals—the USSR delegitimized religion and promoted atheism while the US did the opposite—they shared some similarities, too. 3) Powerful figures such as J. Edgar Hoover and President Eisenhower promoted the idea of the US as a religious nation, though there were some differences that are worth pointing out. Hoover especially promoted “Christian renewal” while, as many of you noticed, Eisenhower did more to promote religion in general (as opposed to specifically Christian).
+The readings from this week build on last week’s exploration of the Cold War. You all did a great job identifying the main thrusts from last week.
+
+* That, during the Cold War, “religion” became central to understandings of national identity and that this idea was advanced through massive (public and private) investments in religious life.
+
+* That the idea of a Christian nation was an especially potent contrast to the Soviet Union, which had a religious propaganda campaign of its own. Though these campaigns had opposing goals—the USSR delegitimized religion and promoted atheism while the US did the opposite—they shared some similarities, too.
+* Powerful figures such as J. Edgar Hoover and President Eisenhower promoted the idea of the US as a religious nation, though there were some differences that are worth pointing out. Hoover especially promoted “Christian renewal” while, as many of you noticed, Eisenhower did more to promote religion in general (as opposed to specifically Christian).
 
 
 ### Discussion Questions
