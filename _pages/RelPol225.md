@@ -487,6 +487,8 @@ Week of April 6, 2020
 
 * **Thursday April 9: Plan on having completed all the reading and chatting with members of your small group at 2pm EDT/1pm CDT etc. Please focus your discussion on Martin Luther King, Jr.'s Letter from Birmingham Jail.**
 
+* You can find the [Discussion Questions here.](http://cyrusobrien.com/teaching/2020-0409-discussion.html)
+
 <span style="color:orange">**Submit your Chat transcript by Friday at 5pm.**</span>
 
 #### Culture Wars
