@@ -21,7 +21,9 @@ And your flag decal won't get you into Heaven anymore
 
 ### Questions for Today
 
-1. Martin Luther King, Jr.’s “Letter from Birmingham Jail” is perhaps MLK’s most famous piece of writing, but I think that there is a good chance that many of you had never read it before. Have you read this before? And, (regardless) what stood out to you or surprised you about this piece?
+1. Take time (if you feel like it) to check in with one another.
+2. Please look over [#relpol225](https://twitter.com/search?q=%23relpol225&src=typed_query&f=live) and discuss the posts you find interesting.
+2. Martin Luther King, Jr.’s “Letter from Birmingham Jail” is perhaps MLK’s most famous piece of writing, but I think that there is a good chance that many of you had never read it before. Have you read this before? And, (regardless) what stood out to you or surprised you about this piece?
 2. Who were the “dear fellow clergymen” whom King addressed? Why did King take issue with them? (For more information, you can check out [these](https://en.wikipedia.org/wiki/A_Call_for_Unity) [links](https://web.archive.org/web/20181229055408/https://moodle.tiu.edu/pluginfile.php/57183/mod_resource/content/1/StatementAndResponseKingBirmingham1.pdf).)
 3. If you had to choose the most emblematic line (of couplet of lines) of this letter, what would you choose? Why? (There’s no right answer to this question: I’m hoping members of the group  choose different lines and bring out different messages.)
 4. Last week, we read Annette Gordon-Reed’s essay which argued, in part, that King’s mission was a _religious_ mission. She also argued that King’s contributions to philosophy be taken more seriously. What evidence do you see evidence to support these claims in “Letter from Birmingham Jail,” despite its relative brevity and the conditions in which King wrote it? How did religious and philosophical texts shape King’s political arguments (please address 3 or 4 instances in their specificity)?
