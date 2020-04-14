@@ -510,10 +510,17 @@ Week of April 13, 2020
 <span style="color:orange">**Submit your Chat transcript by Friday at 5pm.**</span>
 
 
+#### Fault Lines
+
 Week of April 20, 2020
 
-* There are so many great options, but I have not yet decided how we'll end the course. Reading and details TBD.
+* [Jeff Greenfield, "Donald Trump’s Birther Strategy," _Politico Magazine_ (July 22, 2015).](https://www.politico.com/magazine/story/2015/07/donald-trumps-birther-strategy-120504)
 
+* [Late Night With Seth Meyers, "Trump Lies about His Birther Past: A Closer Look" (September 19, 2016).](https://www.youtube.com/watch?v=5sBhANSz--k&list=FLn4ZZv9b9L1VapAm20bhkiA&index=720)
+
+* [Adam Serwer, "We Can Finally See the Real Source of Washington Gridlock," _The Atlantic_ (April 1, 2020).](https://www.theatlantic.com/ideas/archive/2020/04/republican-party-discovers-virtues-stimulus/609244/)
+
+* [Emma Green, "America's Profound Gender Anxiety," _The Atlantic_ (May 31, 2016).](https://www.theatlantic.com/politics/archive/2016/05/americas-profound-gender-anxiety/484856/)
 
 <span style="color:red">**Open book, take-home final Exam due on Canvas, date TBD.**</span>
 
