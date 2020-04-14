@@ -14,9 +14,9 @@ As a side note, some groups weren’t able to get through all the questions and 
 
 Were we in class together, the theme song would be John Prine’s [Your Flag Decal Won’t Get You Into Heaven Anymore.](https://www.youtube.com/watch?v=OlofnxJxMIQ) John Prine died of COVID-19 this week. The chorus of the Vietnam-era song goes,
 
-But your flag decal won't get you into Heaven anymore
-They're already overcrowded from your dirty little war
-Now Jesus don't like killin', no matter what the reason's for
+But your flag decal won't get you into Heaven anymore/
+They're already overcrowded from your dirty little war/
+Now Jesus don't like killin', no matter what the reason's for/
 And your flag decal won't get you into Heaven anymore
 
 ### Questions for Today
