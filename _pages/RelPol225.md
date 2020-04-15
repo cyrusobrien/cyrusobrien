@@ -518,6 +518,8 @@ Week of April 20, 2020
 
 * [Late Night With Seth Meyers, "Trump Lies about His Birther Past: A Closer Look" (September 19, 2016).](https://www.youtube.com/watch?v=5sBhANSz--k&list=FLn4ZZv9b9L1VapAm20bhkiA&index=720)
 
+* Optional: [The Daily Show with Trevor Noah, "Jordan Klepper Fingers the Pulse -- Conspiracy Theories Thrive at a Trump Rally" (September 21, 2016).](https://www.youtube.com/watch?v=eFQhw3VVToQ) The point of this video for this course is to dramatize the connections between claims that Obama was born outside the U.S. and claims that he is Muslim.
+
 * [Adam Serwer, "We Can Finally See the Real Source of Washington Gridlock," _The Atlantic_ (April 1, 2020).](https://www.theatlantic.com/ideas/archive/2020/04/republican-party-discovers-virtues-stimulus/609244/)
 
 * [Emma Green, "America's Profound Gender Anxiety," _The Atlantic_ (May 31, 2016).](https://www.theatlantic.com/politics/archive/2016/05/americas-profound-gender-anxiety/484856/)
