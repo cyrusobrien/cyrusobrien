@@ -505,7 +505,7 @@ Week of April 13, 2020
 
 * <span style="color:orange">**Tuesday April 14: Submit a blog post about Randall Balmer's article and Jerry Falwell's 1965 speech.**</span>
 
-* **Thursday April 16: Plan on having completed all the reading and chatting with members of your small group at 2pm EDT/1pm CDT etc. Please focus your discussion on Professor Griffith's chapter and the short 1965 article in _The Atlantic_.**
+* **Thursday April 16: Plan on having completed all the reading and chatting with members of your small group at 2pm EDT/1pm CDT etc. Please focus your discussion on Professor Griffith's chapter and the short 1965 article in _The Atlantic_.** [Discussion Questions are available here.](http://cyrusobrien.com/teaching/2020-0416-discussion.html)
 
 <span style="color:orange">**Submit your Chat transcript by Friday at 5pm.**</span>
 
