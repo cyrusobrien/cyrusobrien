@@ -529,8 +529,10 @@ Week of April 20, 2020
 
 <span style="color:orange">**Submit your Chat transcript by Friday at 5pm.**</span>
 
+Friday or Saturday April 24-25: I will circulate a study guide for the final exam. The exam will take the same form as the midterm.
 
-<span style="color:red">**Open book, take-home final Exam due on Canvas, date TBD.**</span>
+
+<span style="color:red">**May 6, 2020: Open book, take-home Final Exam due on Canvas.**</span>
 
 
 
