@@ -7,6 +7,7 @@ permalink: teaching/2020-0422-discussion.html
 ---
 
 ### Discussion Questions for April 22, 2020
+
 Hi folks,
 
 I hope you are all doing well. Forgive the fact that some of these discussion questions are a bit long-winded. I intended the readings this week to be a bit provocative. All the readings have to do with legitimacy—both social legitimacy and political legitimacy. On the one hand, Emma Green’s article in the _Atlantic_ does a great job of highlighting the disconnect in the “Culture Wars” between people who see gender as a spectrum and those who see it as binary. Professor R. Marie Griffith (#WUSTL) is quoted at length.
