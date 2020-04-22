@@ -525,7 +525,7 @@ Week of April 20, 2020
 * [Emma Green, "America's Profound Gender Anxiety," _The Atlantic_ (May 31, 2016).](https://www.theatlantic.com/politics/archive/2016/05/americas-profound-gender-anxiety/484856/)
 
 
-* **Thursday April 23: Plan on having completed all the reading and chatting with members of your small group at 2pm EDT/1pm CDT etc.**
+* **Thursday April 23: Plan on having completed all the reading and chatting with members of your small group at 2pm EDT/1pm CDT etc.** [Discussion Questions can be found here.](http://cyrusobrien.com/teaching/2020-0422-discussion.html)
 
 <span style="color:orange">**Submit your Chat transcript by Friday at 5pm.**</span>
 
