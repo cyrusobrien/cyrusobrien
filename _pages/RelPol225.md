@@ -529,8 +529,7 @@ Week of April 20, 2020
 
 <span style="color:orange">**Submit your Chat transcript by Friday at 5pm.**</span>
 
-Friday or Saturday April 24-25: I will circulate a study guide for the final exam. The exam will take the same form as the midterm.
-
+[The study guide for the final exam is available here.](http://cyrusobrien.com/teaching/2020-0424-study-guide-for-final-exam.html)
 
 <span style="color:red">**May 6, 2020: Open book, take-home Final Exam due on Canvas.**</span>
 
