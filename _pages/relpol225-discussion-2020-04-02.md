@@ -3,7 +3,7 @@ title: "discussion questions"
 layout: noheader
 excerpt: "discussion Qs"
 sitemap: false
-permalink: teaching/2020-0402-discussion.html
+permalink: teaching/2020-0422-discussion.html
 ---
 
 
