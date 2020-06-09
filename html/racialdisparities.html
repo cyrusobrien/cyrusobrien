@@ -154,15 +154,13 @@
 <h3>Key Populations by Race and Ethnicity </h3>
 <form>
     <label><input type="radio" name="dataset" id="dataset" value="Option1" checked> Prison Population (n=36,904)</label><br>
-    <label><input type="radio" name="dataset" id="dataset" value="Option2"> Released Early (n=3,173)</label> <br>
-    <label><input type="radio" name="dataset" id="dataset" value="Option3"> Released 90+ Days Early (n=1,225)</label><br>
-    <label><input type="radio" name="dataset" id="dataset" value="Option4"> Released 180+ Days Early (n=552)</label>
+    <label><input type="radio" name="dataset" id="dataset" value="Option2"> EDSC Early Releases (n=1,166)</label> <br>
+    <label><input type="radio" name="dataset" id="dataset" value="Option3"> Released 90+ Days Early through EDSC (n=809)</label><br>
+    <label><input type="radio" name="dataset" id="dataset" value="Option4"> Released 180+ Days Early through EDSC(n=337)</label>
 </form>
 <script src="https://d3js.org/d3.v3.min.js"></script>
 <body>
 <script>
-
-
 
 
     Option1 = [
@@ -173,22 +171,22 @@
 
 
     Option2 = [
-        {label:"Black",value :0.45},
-        {label:"Hispanic",value :0.096},
-        {label:"White",value :0.444}
+        {label:"Black",value :0.305},
+        {label:"Hispanic",value :0.099},
+        {label:"White",value :0.577}
     ];
 
     Option3 = [
-        {label:"Black",value :0.35},
-        {label:"Hispanic",value :0.1},
-        {label:"White",value :0.54}
+        {label:"Black",value :0.292},
+        {label:"Hispanic",value :0.098},
+        {label:"White",value :0.596}
 
     ];
 
     Option4 = [
-        {label:"Black",value :0.31},
-        {label:"Hispanic",value :0.1},
-        {label:"White",value :0.57}
+        {label:"Black",value :0.263},
+        {label:"Hispanic",value :0.098},
+        {label:"White",value :0.623}
     ];
 
     d3.selectAll("input").on("change", selectDataset);
