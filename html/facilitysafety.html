@@ -1,0 +1,418 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+    body {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        width: 450px;
+        height: 450px;
+        position: absolute;
+    }
+    svg {
+        width: 100%;
+        height: 100%;
+        position: center;
+    }
+
+    path.slice{
+        stroke-width:2px;
+    }
+
+    text{
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+    polyline{
+        opacity: .3;
+        stroke: black;
+        stroke-width: 2px;
+        fill: none;
+    }
+
+    .labelValue
+    {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 200%;
+        opacity: 1;
+
+    }
+
+    label {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: normal;
+    }
+
+    datalabel {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: normal;
+    }
+
+
+
+    .toolTip {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        position: absolute;
+        display: none;
+        width: auto;
+        height: auto;
+        background: rgba(0, 0, 0, 0.8);
+        border: 0 none;
+        border-radius: 2px;
+        box-shadow: -1px 1px 1px #888888;
+        color: white;
+        font-size: 14px;
+        padding: 5px;
+        text-align: center;
+    }
+
+
+
+
+    text.datalabel {
+        font-size: 120%;
+        fill: black;
+    }
+    .legend {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 60%;
+    }
+    rect {
+        stroke-width: 2;
+    }
+
+    text {
+        font: 12px sans-serif;
+    }
+
+
+    text.value{
+        font-size: 100%;
+        fill: black;
+    }
+
+    text.label{
+        font-size: 100%;
+    }
+
+    .axis text {
+        font: 12px sans-serif;
+    }
+
+    .axis path{
+        fill: none;
+        stroke: #000;
+    }
+
+    .axis line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+    }
+
+    .axis .tick line {
+        stroke-width: 1;
+        stroke: rgba(0, 0, 0, 0.2);
+    }
+
+    .axisHorizontal path{
+        fill: none;
+    }
+
+    .axisHorizontal line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+    }
+
+    .axisHorizontal .tick line {
+        stroke-width: 1;
+        stroke: rgba(0, 0, 0, 0.2);
+    }
+
+    .bar {
+        fill-opacity: .7;
+    }
+
+    .bar:hover {
+        fill-opacity: 1;
+    }
+    .x.axis path {
+        display: none;
+    }
+    h3 {
+        text-align: center;
+        color: #555;
+    }
+    .form {
+        text-align: center
+    }
+
+
+</style>
+<h3>Only 3 Illinois Prisons Are Safe</h3>
+<form>
+    <label><input type="radio" name="dataset" id="dataset" value="Option1" checked> Occupancy Rate</label><br>
+    <label><input type="radio" name="dataset" id="dataset" value="Option2"> Current Population<sup>1</sup></label> <br>
+    <label><input type="radio" name="dataset" id="dataset" value="Option3"> Releases Required to Reach Safe Occupancy</label> <br>
+ </form>
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<body>
+<script>
+
+
+
+
+    Option1 = [
+        {label:"Kewanee Reentry Center",value :0.324046920821114},
+        {label:"Vandalia",value :0.364914107235815},
+        {label:"Joliet Treatment Center",value :0.411522633744856},
+        {label:"Big Muddy River",value :0.565749235474006},
+        {label:"Decatur",value :0.581818181818182},
+        {label:"Pontiac",value :0.621004566210046},
+        {label:"Stateville",value :0.639244186046512},
+        {label:"Pinckneyville",value :0.661324041811847},
+        {label:"Menard",value :0.675762439807384},
+        {label:"Southwestern Illinois",value :0.693570451436389},
+        {label:"Vienna",value :0.69535864978903},
+        {label:"Sheridan",value :0.701471286188894},
+        {label:"East Moline",value :0.704266088214027},
+        {label:"Robinson",value :0.73017170891251},
+        {label:"Western Illinois",value :0.730569948186529},
+        {label:"Logan",value :0.732325957906098},
+        {label:"Jacksonville",value :0.732786885245902},
+        {label:"Centralia",value :0.736005089058524},
+        {label:"Taylorville",value :0.741195741195741},
+        {label:"Shawnee",value :0.752012882447665},
+        {label:"Lawrence",value :0.795378151260504},
+        {label:"Illinois River",value :0.79585798816568},
+        {label:"Lincoln",value :0.798822374877331},
+        {label:"Danville",value :0.802588996763754},
+        {label:"Dixon",value :0.816060126582278},
+        {label:"Graham",value :0.821762678483506},
+        {label:"Hill",value :0.828049435787211}
+       ];
+
+
+    Option2 = [
+        {label:"Southwestern Illinois",value :200},
+        {label:"Shawnee",value :221},
+        {label:"Danville",value :416},
+        {label:"Pontiac",value :507},
+        {label:"Big Muddy River",value :701},
+        {label:"Kewanee Reentry Center",value :814},
+        {label:"Logan",value :824},
+        {label:"Vienna",value :893},
+        {label:"Hill",value :894},
+        {label:"Pinckneyville",value :905},
+        {label:"Centralia",value :974},
+        {label:"Vandalia",value :1088},
+        {label:"Jacksonville",value :1110},
+        {label:"Taylorville",value :1157},
+        {label:"Sheridan",value :1357},
+        {label:"Dixon",value :1401},
+        {label:"Robinson",value :1478},
+        {label:"Decatur",value :1488},
+        {label:"Stateville",value :1541},
+        {label:"Illinois River",value :1551},
+        {label:"East Moline",value :1614},
+        {label:"Lawrence",value :1669},
+        {label:"Joliet Treatment Center",value :1893},
+        {label:"Menard",value :1898},
+        {label:"Graham",value :2063},
+        {label:"Western Illinois",value :2105},
+        {label:"Lincoln",value :2199}
+    ];
+
+    Option3 = [
+        {label:"Joliet Treatment Center",value :0},
+        {label:"Kewanee Reentry Center",value :0},
+        {label:"Vandalia",value :0},
+        {label:"Decatur",value :59},
+        {label:"Big Muddy River",value :129},
+        {label:"Southwestern Illinois",value :142},
+        {label:"Pontiac",value :212},
+        {label:"Vienna",value :232},
+        {label:"Robinson",value :282},
+        {label:"East Moline",value :283},
+        {label:"Jacksonville",value :284},
+        {label:"Taylorville",value :295},
+        {label:"Lincoln",value :305},
+        {label:"Centralia",value :371},
+        {label:"Sheridan",value :425},
+        {label:"Logan",value :431},
+        {label:"Pinckneyville",value :463},
+        {label:"Shawnee",value :470},
+        {label:"Stateville",value :479},
+        {label:"Western Illinois",value :490},
+        {label:"Menard",value :548},
+        {label:"Danville",value :561},
+        {label:"Illinois River",value :600},
+        {label:"Hill",value :611},
+        {label:"Graham",value :654},
+        {label:"Lawrence",value :703},
+        {label:"Dixon",value :799}
+    ];
+
+
+
+    d3.selectAll("input").on("change", selectDataset);
+
+    function selectDataset()
+    {
+        var value = this.value;
+
+        if (value == "Option1")
+        {
+            change(Option1);
+        }
+        else if (value == "Option2")
+        {
+            change(Option2);
+        }
+
+        else if (value == "Option3")
+        {
+            change(Option3);
+        }
+
+    }
+
+    var margin = {top: (parseInt(d3.select('body').style('height'), 10)/20), right: (parseInt(d3.select('body').style('width'), 10)/20), bottom: (parseInt(d3.select('body').style('height'), 10)/20), left: (parseInt(d3.select('body').style('width'), 10)/4.8)},
+        width = parseInt(d3.select('body').style('width'), 10) - margin.left - margin.right,
+        height = parseInt(d3.select('body').style('height'), 10) - margin.top - margin.bottom;
+
+    var div = d3.select("body").append("div").attr("class", "toolTip");
+
+    var formatPercent = d3.format(",%");
+
+    var y = d3.scale.ordinal()
+        .rangeRoundBands([height, 0], .2, 0.5);
+
+    var x = d3.scale.linear()
+        .domain([0,.7])
+        .range([0, width]);
+
+    var xAxis = d3.svg.axis()
+        .scale(x)
+        .tickSize(-height)
+        .orient("bottom")
+        .ticks(0);
+
+    var yAxis = d3.svg.axis()
+        .scale(y)
+        .orient("left");
+    //.tickFormat(formatPercent);
+
+    var formatcomma = d3.format(",.0f")	;
+
+    var svg = d3.select("body").append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    svg.append("g")
+        .attr("class", "x axis")
+        .attr("transform", "translate(0," + height + ")")
+        .call(xAxis);
+
+    svg.append("g")
+        .attr("class", "labelValue");
+
+    d3.select("input[value=\"Option1\"]").property("checked", true);
+    change(Option1);
+
+    function change(dataset) {
+
+        y.domain(dataset.map(function(d) { return d.label; }));
+        x.domain([0, d3.max(dataset, function(d) { return d.value})]);
+
+        svg.append("g")
+            .attr("class", "x axis")
+            .attr("transform", "translate(0," + height + ")")
+            .call(xAxis);
+
+        svg.select(".y.axis").remove();
+        svg.select(".x.axis").remove();
+
+        svg.append("g")
+            .attr("class", "y axis")
+            .call(yAxis)
+            .append("text")
+            .attr("transform", "rotate(0)")
+            .attr("x", width/2)
+            .attr("dx", ".1em")
+            .style("text-anchor", "middle")
+            .text("");
+
+
+        var bar = svg.selectAll(".bar")
+            .data(dataset, function(d) { return d.label; });
+        // new data:
+        bar.enter().append("rect")
+            .attr("class", "bar")
+            .attr("x", 0)
+            .attr("y", function(d) { return y(d.label); })
+            .attr("width", function(d) { return width-x(d.value); })
+            .attr("height", y.rangeBand(0))
+            .attr("fill", function (d) {
+                if (d.value < .5 ) {return "#98abc5"}
+                else
+                    {return "darkred"}})
+                ;
+
+
+
+    //    bar
+      //      .on("mousemove", function(d){
+        //        div.style("left", d3.event.pageX+10+"px");
+          //      div.style("top", d3.event.pageY-25+"px");
+            //    div.style("display", "inline-block");
+   //             div.html((d.label)+"<br>"+formatPercent(d.value/101076));
+  //          });
+  //      bar
+  //          .on("mouseout",
+  //              div.style("display", "none"));
+
+
+
+//        bar.exit().remove();
+
+
+        // updated data:
+        bar.transition()
+            .duration(750)
+            .attr("x", 0)
+            .attr("y", function(d) { return y(d.label); })
+            .attr("width", function(d) { return x(d.value); })
+            .attr("height", y.rangeBand());
+
+
+
+        var text = svg.select(".labelValue").selectAll("text")
+            .data(dataset, function(d) {return d.label});
+
+        text.enter()
+            .append("text")
+            .attr("x", function(d) {return x(d.value)+ 3;})
+            .attr("y", function (d) {return y(d.label)+28;})
+            ;
+
+
+        text
+            .transition().duration(750)
+            .attr("dy", ".35em")
+            .attr("x", function(d) {return x(d.value)+ 3;})
+            .attr("y", function (d) {return y(d.label)+(y.rangeBand()/2);})
+            .text(function(d) {
+                if (d3.max(dataset, function(d) { return d.value}) <= 1)
+                {return formatPercent(d.value)}
+                else {return formatcomma(d.value)}
+            });
+
+    }
+</script>
+</body>
+
+
