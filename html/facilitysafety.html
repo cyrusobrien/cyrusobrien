@@ -5,7 +5,7 @@
 
     body {
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-        width: 450px;
+        width: 640px;
         height: 450px;
         position: absolute;
     }
@@ -135,7 +135,7 @@
     }
 
     .bar:hover {
-        fill-opacity: .8;
+        fill-opacity: 1;
     }
     .x.axis path {
         display: none;
@@ -153,7 +153,7 @@
 <h3>Only 3 Illinois Prisons Comply with Stage 2 of Reopening</h3>
 <form>
     <label><input type="radio" name="dataset" id="dataset" value="Option1" checked> Occupancy Rate</label><br>
-    <label><input type="radio" name="dataset" id="dataset" value="Option2"> Current Population<sup>1</sup></label> <br>
+    <label><input type="radio" name="dataset" id="dataset" value="Option2"> Current Population</label> <br>
     <label><input type="radio" name="dataset" id="dataset" value="Option3"> Releases Required to Reach Safe Occupancy</label> <br>
  </form>
 <script src="https://d3js.org/d3.v3.min.js"></script>
@@ -164,9 +164,9 @@
 
 
     Option1 = [
-        {label:"Kewanee Reentry Center",value :0.324046920821114},
+        {label:"Kewanee Reentry Ctr",value :0.324046920821114},
         {label:"Vandalia",value :0.364914107235815},
-        {label:"Joliet Treatment Center",value :0.411522633744856},
+        {label:"Joliet Treatment Ctr",value :0.411522633744856},
         {label:"Big Muddy River",value :0.565749235474006},
         {label:"Decatur",value :0.581818181818182},
         {label:"Pontiac",value :0.621004566210046},
@@ -200,7 +200,7 @@
         {label:"Danville",value :416},
         {label:"Pontiac",value :507},
         {label:"Big Muddy River",value :701},
-        {label:"Kewanee Reentry Center",value :814},
+        {label:"Kewanee Reentry Ctr",value :814},
         {label:"Logan",value :824},
         {label:"Vienna",value :893},
         {label:"Hill",value :894},
@@ -217,7 +217,7 @@
         {label:"Illinois River",value :1551},
         {label:"East Moline",value :1614},
         {label:"Lawrence",value :1669},
-        {label:"Joliet Treatment Center",value :1893},
+        {label:"Joliet Treatment Ctr",value :1893},
         {label:"Menard",value :1898},
         {label:"Graham",value :2063},
         {label:"Western Illinois",value :2105},
@@ -225,8 +225,8 @@
     ];
 
     Option3 = [
-        {label:"Joliet Treatment Center",value :0},
-        {label:"Kewanee Reentry Center",value :0},
+        {label:"Joliet Treatment Ctr",value :0},
+        {label:"Kewanee Reentry Ctr",value :0},
         {label:"Vandalia",value :0},
         {label:"Decatur",value :59},
         {label:"Big Muddy River",value :129},
