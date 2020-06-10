@@ -37,7 +37,7 @@
 <script>
 
     var svg = d3.select("svg"),
-        margin = {top: 20, right: 20, bottom: 30, left: 40},
+        margin = {top: 50, right: 20, bottom: 30, left: 40},
         width = +svg.attr("width") - margin.left - margin.right,
         height = +svg.attr("height") - margin.top - margin.bottom,
         g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
@@ -55,7 +55,7 @@
         .rangeRound([height, 0]);
 
     var z = d3.scaleOrdinal()
-        .range(["#7b6888",  "#8a89a6", "#98abc5", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
+        .range(["#FFF3B0",  "#213159", "#3D6098", "#80475E", " #818181", "#F04B4C", "#ff8c00"]);
 
     d3.csv("daysearlybyclass.csv", function(d, i, columns) {
         for (i = 1, t = 0; i < columns.length; ++i) t += d[columns[i]] = +d[columns[i]];
@@ -64,10 +64,10 @@
     }, function(error, data) {
         if (error) throw error;
 
-        var keys = data.columns.slice(1);
+        var keys = data.columns.slice(2);
 
         x.domain(data.map(function(d) { return d.State; }));
-        y.domain([0, d3.max(data, function(d) { return d.total; })]);
+        y.domain([0, d3.max(data, function(d) { return (d.total)/2; })]);
         z.domain(keys);
 
         g.append("g")
@@ -111,26 +111,27 @@
             .attr("dy", "0.32em")
             .attr("fill", "#000")
             .attr("font-weight", "bold")
-            .attr("text-anchor", "start")
+            .attr("text-anchor", "start");
 
-  //      g.append("g")
-  //          .selectAll("g")
-  //          .data(d3.stack().keys(keys)(data))
-  //          .enter().append("g")
-  //          .selectAll("axis")
-  //          .data(function(d) { return d})
-  //          .enter().append("text")
-  //          .attr("x", function(d) { return x(d.data.State) + x.bandwidth()/2; })
-  //          .attr("y", function(d) { return y(d[1]); })
-  //          .attr("text-anchor", "middle")
-  //          .style("font-size", "12px")
-  //          .text(function(d) {return d[1]});
+        g.append("g")
+            .selectAll("g")
+            .data(d3.stack().keys(keys)(data))
+            .enter().append("g")
+            .selectAll("axis")
+            .data(function(d) {return d })
+            .enter()
+            .append("text")
+            .attr("x", function(d) { return x(d.data.State) + x.bandwidth()/2; })
+            .attr("y", function(d) { return y(d.data.Tot) - 3})
+            .attr("text-anchor", "middle")
+            .style("font-size", "12px")
+            .text(function(d) {return d.data.Tot});
 
 
         g.append("text")
             .attr("class", "title")
             .attr("x", 960/2)
-            .attr("y",5)
+            .attr("y",-20)
             .style("fill", "#555")
             .style("font","strong")
             .style("font-size", "20px")
