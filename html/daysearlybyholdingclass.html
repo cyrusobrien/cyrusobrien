@@ -66,7 +66,6 @@
 
         var keys = data.columns.slice(1);
 
-
         x.domain(data.map(function(d) { return d.State; }));
         y.domain([0, d3.max(data, function(d) { return d.total; })]);
         z.domain(keys);
@@ -87,14 +86,15 @@
         d3.selectAll("rect")
             .on("mousemove", function(d){
                 div.style("left", d3.event.pageX-30+"px");
-                div.style("top", d3.event.pageY-105+"px");
+                div.style("top", d3.event.pageY-90+"px");
                 div.style("display", "inline-block");
-                div.html(formatcomma(d[0]));
+                div.html(formatcomma(d[1] - d[0]));
             });
         d3.selectAll("rect")
             .on("mouseout", function(d){
                 div.style("display", "none");
             });
+
 
 
         g.append("g")
@@ -112,7 +112,20 @@
             .attr("fill", "#000")
             .attr("font-weight", "bold")
             .attr("text-anchor", "start")
-        ;
+
+  //      g.append("g")
+  //          .selectAll("g")
+  //          .data(d3.stack().keys(keys)(data))
+  //          .enter().append("g")
+  //          .selectAll("axis")
+  //          .data(function(d) { return d})
+  //          .enter().append("text")
+  //          .attr("x", function(d) { return x(d.data.State) + x.bandwidth()/2; })
+  //          .attr("y", function(d) { return y(d[1]); })
+  //          .attr("text-anchor", "middle")
+  //          .style("font-size", "12px")
+  //          .text(function(d) {return d[1]});
+
 
         g.append("text")
             .attr("class", "title")
@@ -123,7 +136,7 @@
             .style("font-size", "20px")
             .style("font-weight", "bold")
             .style("text-anchor", "middle")
-            .text("Releases Since March 2020 by Days Early and Holding Class");
+            .text("Releases Since March 1, 2020 by Days Early and Holding Class");
 
         var legend = g.append("g")
             .attr("font-family", "sans-serif")
@@ -144,7 +157,7 @@
             .attr("x", width - 24)
             .attr("y", 9.5)
             .attr("dy", "0.32em")
-            .text(function(d) { return d; });
+            .text(function(d){return d; });
 
 
 
