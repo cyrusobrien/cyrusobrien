@@ -156,18 +156,20 @@
             "Latino": 9,
             "White": 31
         },
+
+        {
+            "mechanism": "Clemency",
+            "Black": 12,
+            "Latino": 2,
+            "White": 6
+        },
+
         {
             "mechanism": "Informal Mechanisms",
             "Black": 1038,
             "Latino": 185,
             "White": 696
         },
-        {
-            "mechanism": "Clemency",
-            "Black": 12,
-            "Latino": 2,
-            "White": 6
-        }
 
 
 
@@ -250,7 +252,7 @@
             l = elements.length
             l = l-1
             elementData = elements[l].__data__
-            divTooltip.html("<span style='color:red'><bold>" + formatcomma( elementData.value) + "</bold></span>" + " " + elementData.name + " prisoners <br> released early through " + d.mechanism);
+            divTooltip.html("<span style='color:red'><bold>" + formatcomma( elementData.value) + "</bold></span>" + " " + elementData.name + " prisoners released<br>early through " + d.mechanism);
        });
 
 
@@ -268,13 +270,13 @@
         .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
 
     legend.append("rect")
-        .attr("x", width - 70)
+        .attr("x", 75)
         .attr("width", 18)
         .attr("height", 18)
         .style("fill", z);
 
     legend.append("text")
-        .attr("x", width - 75)
+        .attr("x", 60)
         .attr("y", 9)
         .attr("dy", ".35em")
         .style("text-anchor", "end")
