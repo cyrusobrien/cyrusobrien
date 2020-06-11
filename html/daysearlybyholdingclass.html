@@ -1,16 +1,19 @@
 
 <!DOCTYPE html>
-<style>
-
+<meta charset="utf-8">
+<head>
+    <link href='https://fonts.googleapis.com/css?family=Work Sans' rel='stylesheet'>
+    <style>
     body {
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-family: "Work Sans", sans-serif;
+        font-size: 12px;
         position: absolute;
     }
     .axis .domain {
         display: none;
     }
     .toolTip {
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-family: "Work Sans", sans-serif;
         position: absolute;
         display: none;
         width: auto;
@@ -26,7 +29,6 @@
     }
     .title {
         text-align: center;
-        color: #555;
     }
 
 
@@ -124,7 +126,6 @@
             .attr("x", function(d) { return x(d.data.State) + x.bandwidth()/2; })
             .attr("y", function(d) { return y(d.data.Tot) - 3})
             .attr("text-anchor", "middle")
-            .style("font-size", "12px")
             .text(function(d) {return d.data.Tot});
 
 
@@ -132,15 +133,14 @@
             .attr("class", "title")
             .attr("x", 960/2)
             .attr("y",-20)
-            .style("fill", "#555")
+  //          .style("fill", "#555")
             .style("font","strong")
-            .style("font-size", "20px")
+            .style("font-size", "18px")
             .style("font-weight", "bold")
             .style("text-anchor", "middle")
             .text("Releases Since March 1, 2020 by Days Early and Holding Class");
 
         var legend = g.append("g")
-            .attr("font-family", "sans-serif")
             .attr("font-size", 10)
             .attr("text-anchor", "end")
             .selectAll("g")

@@ -1,31 +1,23 @@
 
 <!DOCTYPE html>
 <meta charset="utf-8">
-<style>
+
+<head>
+    <link href='https://fonts.googleapis.com/css?family=Work Sans' rel='stylesheet'>
+    <style>
 
 
-
-    text{
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    }
-
-
-
-    .legend {
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-        font-size: 60%;
-    }
 
     rect {
         stroke-width: 12;
     }
 
     text {
-        font: 12px sans-serif;
+        font: 12px 'Work Sans', sans-serif ;
     }
 
     .axis text {
-        font: 12px sans-serif;
+        font: 12px 'Work Sans', sans-serif;
     }
 
     .axis path{
@@ -72,10 +64,8 @@
         stroke: #000;
     }
 
-
-
     .toolTip {
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-family: "Work Sans", sans-serif;
         position: absolute;
         display: none;
         width: auto;
@@ -91,11 +81,10 @@
     }
 
     text.h3 {
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-family: 'Work Sans', sans-serif ;
         text-align: center;
-        fill: #555;
         font-size: 18px;
-        font-weight: 700;
+        font-weight: bold;
     }
     .form {
         text-align: center
@@ -108,7 +97,7 @@
 <script>
 
 
-    var margin = {top: (50), right: (40), bottom: (30), left: (40)},
+    var margin = {top: (60), right: (40), bottom: (30), left: (40)},
         width = 640 - margin.left - margin.right,
         height = 500 - margin.top - margin.bottom;
 
@@ -205,11 +194,11 @@
 
     svg.append("text")
        .attr("x", (width / 2))
-        .attr("y", -20)
+        .attr("y", -30)
         .attr("width", 400)
         .attr("text-anchor", "middle")
-        .style("font-size", "16px")
-        .attr("font-weight", "strong")
+        .style("font-size", "18px")
+        .attr("font-weight", "bold")
         .text("Prisoners by Age on March 1, 2020 and June 5, 2020")
     ;
 
