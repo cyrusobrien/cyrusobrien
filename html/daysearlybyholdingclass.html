@@ -5,9 +5,12 @@
     <link href='https://fonts.googleapis.com/css?family=Work Sans' rel='stylesheet'>
     <style>
     body {
+        position: absolute;
+    }
+
+    text {
         font-family: "Work Sans", sans-serif;
         font-size: 12px;
-        position: absolute;
     }
     .axis .domain {
         display: none;
@@ -23,7 +26,7 @@
         border-radius: 2px;
         box-shadow: -1px 1px 1px #888888;
         color: white;
-        font-size: 14px;
+        font-size: 12px;
         padding: 5px;
         text-align: center;
     }
@@ -32,10 +35,18 @@
     }
 
 
-</style>
 
-<svg width="960" height="400"></svg>
+    rect {
+        fill-opacity: .85;
+    }
+
+    rect:hover {
+        fill-opacity: 1;
+    }
+
+</style>
 <script src="https://d3js.org/d3.v4.min.js"></script>
+<svg width="960" height="400"></svg>
 <script>
 
     var svg = d3.select("svg"),
@@ -119,12 +130,12 @@
             .selectAll("g")
             .data(d3.stack().keys(keys)(data))
             .enter().append("g")
-            .selectAll("axis")
+            .selectAll("rect")
             .data(function(d) {return d })
             .enter()
             .append("text")
-            .attr("x", function(d) { return x(d.data.State) + x.bandwidth()/2; })
-            .attr("y", function(d) { return y(d.data.Tot) - 3})
+            .attr("x", function(d) { return x(d.data.State) + Math.round(x.bandwidth()/2);})
+            .attr("y", function(d) { return Math.round(y(d.data.Tot)) - 3; })
             .attr("text-anchor", "middle")
             .text(function(d) {return d.data.Tot});
 
@@ -134,7 +145,6 @@
             .attr("x", 960/2)
             .attr("y",-20)
             .style("fill", "#4E4E4E")
-            .style("font","strong")
             .style("font-size", "20px")
             .style("font-weight", "bold")
             .style("text-anchor", "middle")
