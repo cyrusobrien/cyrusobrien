@@ -44,6 +44,11 @@
         fill-opacity: 1;
     }
 
+
+    .x.axis path {
+        stroke: #000;
+    }
+
 </style>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <svg width="960" height="400"></svg>
@@ -111,7 +116,7 @@
 
 
         g.append("g")
-            .attr("class", "axis")
+            .attr("class", "x.axis")
             .attr("transform", "translate(0," + height + ")")
             .call(d3.axisBottom(x));
 
