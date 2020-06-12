@@ -294,7 +294,7 @@
         .attr("dy", ".32em")
         .style("text-anchor", "end")
         .attr("font-weight", "normal")
-        .text("Number of Prisoners Released");
+        .text("Average Daily Number of Prisoners Released");
 
     svg.append("text")
         .attr("x", (width / 2))
@@ -304,7 +304,7 @@
         .style("font-size", "20px")
         .attr("font-weight", "bold")
         .attr("fill", "#4E4E4E")
-        .text("Releases by Week, 2019 vs. 2020")
+        .text("Average Daily Releases, by Week, 2019 vs. 2020")
     ;
 
     var bar = svg.selectAll(".bar")
@@ -373,7 +373,7 @@
         .style("stroke", "#80475E") // colour the line
         .attr("stroke-width", 2)
         .attr("x1", 45)     // x position of the first end of the line
-        .attr("y1", y(70.6))      // y position of the first end of the line
+        .attr("y1", y(70))      // y position of the first end of the line
         .attr("x2", (843))     // x position of the second end of the line
         .attr("y2", y(62.1));    // y position of the second end of the line
 
@@ -386,7 +386,7 @@
         .style("stroke","#3D6098") // colour the line
         .attr("stroke-width", 2)
         .attr("x1", 45)     // x position of the first end of the line
-        .attr("y1", y(71.4))      // y position of the first end of the line
+        .attr("y1", y(70.6))      // y position of the first end of the line
         .attr("x2", (843))     // x position of the second end of the line
         .attr("y2", y(59.35));    // y position of the second end of the line
 
