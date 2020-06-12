@@ -142,131 +142,91 @@
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 
-    dataset = [
+    dataset =
 
-        {
-            "week": "Feb wk 1",
-            "2019": 68,
-            "2020": 68
-        },
-
-        {
-            "week": "Feb wk 2",
-            "2019": 66,
-            "2020": 67
-        },
-
-        {
-
-            "week": "Feb wk 3",
-            "2019": 64,
-            "2020": 56
-        },
-
-        {
-
-            "week": "Feb wk 4",
-            "2019": 76,
-            "2020": 79
-        },
-
-        {
-
-            "week": "Mar wk 1",
-            "2019": 64,
-            "2020": 62
-
-        },
-
-
-        {
-
-            "week": "Mar wk 2",
-            "2019": 68,
-            "2020": 67
-
-        },
-
-        {
-
-            "week": "Mar wk 3",
-            "2019": 76,
-            "2020": 49
-
-        },
-
-        {
-
-            "week": "Mar wk 4",
-            "2019": 68,
-            "2020": 82
-
-        },
-
-        {
-
-            "week": "Apr wk 1",
-            "2019": 72,
-            "2020": 77
-
-        },
-
-        {
-
-            "week": "Apr wk 2",
-            "2019": 60,
-            "2020": 79
-        },
-
-        {
-            "week": "Apr wk 3",
-            "2019": 56,
-            "2020": 71
-
-        },
-
-        {
-
-            "week": "Apr wk 4",
-            "2019": 70,
-            "2020": 67
-
-        },
-
-        {
-
-            "week": "May wk 1",
-            "2019": 64,
-            "2020": 57
-
-        },
-
-        {
-
-            "week": "May wk 2",
-            "2019": 69,
-            "2020": 55
-
-        },
-
-        {
-
-            "week": "May wk 3",
-            "2019": 60,
-            "2020": 56
-
-        },
-
-        {
-
-            "week": "May wk 4",
-            "2019": 57,
-            "2020": 48
-
-        }
-
-
-    ];
+        [
+            {
+                "2019": 476,
+                "2020": 476,
+                "week": "Feb wk 1"
+            },
+            {
+                "2019": 462,
+                "2020": 469,
+                "week": "Feb wk 2"
+            },
+            {
+                "2019": 448,
+                "2020": 392,
+                "week": "Feb wk 3"
+            },
+            {
+                "2019": 532,
+                "2020": 553,
+                "week": "Feb wk 4"
+            },
+            {
+                "2019": 448,
+                "2020": 434,
+                "week": "Mar wk 1"
+            },
+            {
+                "2019": 476,
+                "2020": 469,
+                "week": "Mar wk 2"
+            },
+            {
+                "2019": 532,
+                "2020": 343,
+                "week": "Mar wk 3"
+            },
+            {
+                "2019": 476,
+                "2020": 574,
+                "week": "Mar wk 4"
+            },
+            {
+                "2019": 504,
+                "2020": 539,
+                "week": "Apr wk 1"
+            },
+            {
+                "2019": 420,
+                "2020": 553,
+                "week": "Apr wk 2"
+            },
+            {
+                "2019": 392,
+                "2020": 497,
+                "week": "Apr wk 3"
+            },
+            {
+                "2019": 490,
+                "2020": 469,
+                "week": "Apr wk 4"
+            },
+            {
+                "2019": 448,
+                "2020": 399,
+                "week": "May wk 1"
+            },
+            {
+                "2019": 483,
+                "2020": 385,
+                "week": "May wk 2"
+            },
+            {
+                "2019": 420,
+                "2020": 392,
+                "week": "May wk 3"
+            },
+            {
+                "2019": 399,
+                "2020": 336,
+                "week": "May wk 4"
+            }
+        ]
+    ;
 
 
     var options = d3.keys(dataset[0]).filter(function(key) { return key !== "week"; });
@@ -304,7 +264,7 @@
         .style("font-size", "20px")
         .attr("font-weight", "bold")
         .attr("fill", "#4E4E4E")
-        .text("Average Daily Releases, by Week, 2019 vs. 2020")
+        .text("Releases by Week, 2019 vs. 2020")
     ;
 
     var bar = svg.selectAll(".bar")
@@ -362,7 +322,7 @@
         .attr("x", function(d) { return x1(d.name) + 9; })
         .attr("y",function(d) { return y(d.value) - 3; })
         .attr("text-anchor", "middle")
-        .style("font-size", "12px")
+        .style("font-size", "10px")
         .text(function(d) {return formatcomma(d.value)});
 
     var line1 = svg.selectAll("svg")
@@ -373,9 +333,9 @@
         .style("stroke", "#80475E") // colour the line
         .attr("stroke-width", 2)
         .attr("x1", 45)     // x position of the first end of the line
-        .attr("y1", y(70))      // y position of the first end of the line
+        .attr("y1", y(490.5))      // y position of the first end of the line
         .attr("x2", (843))     // x position of the second end of the line
-        .attr("y2", y(62.1));    // y position of the second end of the line
+        .attr("y2", y(435.23));    // y position of the second end of the line
 
     var line2 = svg.selectAll("svg")
         .data(dataset)
@@ -386,9 +346,9 @@
         .style("stroke","#3D6098") // colour the line
         .attr("stroke-width", 2)
         .attr("x1", 45)     // x position of the first end of the line
-        .attr("y1", y(70.6))      // y position of the first end of the line
+        .attr("y1", y(494.5))      // y position of the first end of the line
         .attr("x2", (843))     // x position of the second end of the line
-        .attr("y2", y(59.35));    // y position of the second end of the line
+        .attr("y2", y(415.4));    // y position of the second end of the line
 
 
 </script>
