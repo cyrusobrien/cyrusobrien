@@ -290,28 +290,29 @@
         .data(options.slice())
         .enter().append("g")
         .attr("class", "legend")
-        .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+        .attr("transform", function(d, i) { return "translate(0," + i * 30 + ")"; });
 
     legend.append("rect")
-        .attr("x", width-58)
-        .attr("width", 18)
-        .attr("height", 18)
+        .attr("x", width-75)
+        .attr("width", 25)
+        .attr("y", 5)
+        .attr("height", 25)
         .style("fill", z);
 
     legend.append("text")
-        .attr("x", width-63)
-        .attr("y", 9)
+        .attr("x", width-82)
+        .attr("y", 18)
         .attr("dy", ".35em")
         .style("text-anchor", "end")
         .text(function(d) { return d; });
 
     legend.append("line")
-        .attr("x1", width-35)
-        .attr("y1", 8)
-        .attr("x2", (width-17))
-        .attr("y2", 8)
+        .attr("x1", width-28)
+        .attr("y1", 17)
+        .attr("x2", (width-3))
+        .attr("y2", 17)
         .style("stroke", z) //
-        .attr("stroke-width", 4);
+        .attr("stroke-width", 3);
 
 
 
@@ -343,6 +344,33 @@
         .attr("x2", (843))     // x position of the second end of the line
         .attr("y2", y(415.4));    // y position of the second end of the line
 
+    svg.append("text")
+        .attr("x", (width-15))
+        .attr("y", -10)
+        .attr("text-anchor", "middle")
+        .style("font-size", "11")
+        .text("Trend");
+
+    svg.append("text")
+        .attr("x", (width-15))
+        .attr("y", 1)
+        .attr("text-anchor", "middle")
+        .style("font-size", "11")
+        .text("Line");
+
+    svg.append("text")
+        .attr("x", (width-63))
+        .attr("y", -10)
+        .attr("text-anchor", "middle")
+        .style("font-size", "11")
+        .text("Weekly");
+
+    svg.append("text")
+        .attr("x", (width-63))
+        .attr("y", 1)
+        .attr("text-anchor", "middle")
+        .style("font-size", "11")
+        .text("Releases");
 
 </script>
 </body>
