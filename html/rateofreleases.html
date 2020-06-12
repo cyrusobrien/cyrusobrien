@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href='https://fonts.googleapis.com/css?family=Work Sans' rel='stylesheet'>
+    <style>
+        body {
+            font-family: 'Work Sans', sans-serif ;font-size: 12px;
+        }
+
+
+    .legend {
+        font-family: Work Sans, Open Sans, sans-serif;
+        font-size: 100%;
+    }
+
+    rect {
+        stroke-width: 12;
+    }
+
+
+    .x.axis text {
+        font: 10px "Work Sans", "Open Sans", sans-serif;
+    }
+        .y.axis text {
+            font: 12px "Work Sans", "Open Sans", sans-serif;
+        }
+    .axis path{
+        fill: none;
+        stroke: #none;
+    }
+
+    .axis line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+    }
+
+    .axis .tick line {
+        stroke-width: 1;
+        stroke: rgba(0, 0, 0, .7);
+    }
+
+    .axisHorizontal path{
+        fill: none;
+        stroke: #000;
+    }
+
+    .axisHorizontal line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+    }
+
+    .axisHorizontal .tick line {
+        stroke-width: 1;
+        stroke: rgba(0, 0, 0, 0.2);
+    }
+
+    rect {
+        fill-opacity: .4;
+    }
+
+    rect:hover {
+        fill-opacity: .7;
+    }
+
+    .x.axis path {
+        stroke: #000;
+    }
+
+    .x.axis.text{
+
+    }
+
+
+
+    .toolTip {
+        position: absolute;
+        display: none;
+        width: auto;
+        height: auto;
+        background: rgba(0, 0, 0, 0.8);
+        border: 0 none;
+        border-radius: 2px;
+        box-shadow: -1px 1px 1px #888888;
+        color: white;
+        font-size: 16px;
+        padding: 5px;
+        text-align: center;
+    }
+
+    text.h3 {
+        font-size: 18px;
+    }
+    .form {
+        text-align: center
+    }
+
+</style>
+<body>
+<svg width="960" height="500"></svg>
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script>
+
+
+    var margin = {top: (75), right: (40), bottom: (30), left: (40)},
+        width = 960 - margin.left - margin.right,
+        height = 500 - margin.top - margin.bottom;
+
+    var x0 = d3.scale.ordinal()
+        .rangeRoundBands([0, width], .30);
+
+    var x1 = d3.scale.ordinal();
+
+    var y = d3.scale.linear()
+        .range([height, 0]);
+
+    var formatcomma = d3.format(",.0f")	;
+
+    var z = d3.scale.ordinal()
+        .range(["#80475E", "#3D6098", "#213159",  "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
+
+    var xAxis = d3.svg.axis()
+        .scale(x0)
+        .orient("bottom")
+        .tickFormat(null)
+        .outerTickSize(0);
+
+    var yAxis = d3.svg.axis()
+        .scale(y)
+        .orient("left")
+        .ticks(8, "s");
+
+
+    var divTooltip = d3.select("body").append("div").attr("class", "toolTip");
+
+
+    var svg = d3.select("svg").append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+
+    dataset = [
+
+        {
+            "week": "Feb wk 1",
+            "2019": 68,
+            "2020": 68
+        },
+
+        {
+            "week": "Feb wk 2",
+            "2019": 66,
+            "2020": 67
+        },
+
+        {
+
+            "week": "Feb wk 3",
+            "2019": 64,
+            "2020": 56
+        },
+
+        {
+
+            "week": "Feb wk 4",
+            "2019": 76,
+            "2020": 79
+        },
+
+        {
+
+            "week": "Mar wk 1",
+            "2019": 64,
+            "2020": 62
+
+        },
+
+
+        {
+
+            "week": "Mar wk 2",
+            "2019": 68,
+            "2020": 67
+
+        },
+
+        {
+
+            "week": "Mar wk 3",
+            "2019": 76,
+            "2020": 49
+
+        },
+
+        {
+
+            "week": "Mar wk 4",
+            "2019": 68,
+            "2020": 82
+
+        },
+
+        {
+
+            "week": "Apr wk 1",
+            "2019": 72,
+            "2020": 77
+
+        },
+
+        {
+
+            "week": "Apr wk 2",
+            "2019": 60,
+            "2020": 79
+        },
+
+        {
+            "week": "Apr wk 3",
+            "2019": 56,
+            "2020": 71
+
+        },
+
+        {
+
+            "week": "Apr wk 4",
+            "2019": 70,
+            "2020": 67
+
+        },
+
+        {
+
+            "week": "May wk 1",
+            "2019": 64,
+            "2020": 57
+
+        },
+
+        {
+
+            "week": "May wk 2",
+            "2019": 69,
+            "2020": 55
+
+        },
+
+        {
+
+            "week": "May wk 3",
+            "2019": 60,
+            "2020": 56
+
+        },
+
+        {
+
+            "week": "May wk 4",
+            "2019": 57,
+            "2020": 48
+
+        }
+
+
+    ];
+
+
+    var options = d3.keys(dataset[0]).filter(function(key) { return key !== "week"; });
+
+    dataset.forEach(function(d) {
+        d.valores = options.map(function(name) { return {name: name, value: +d[name]}; });
+    });
+
+    x0.domain(dataset.map(function(d) { return d.week; }));
+    x1.domain(options).rangeRoundBands([0, x0.rangeBand()]);
+    y.domain([0, d3.max(dataset, function(d) { return d3.max(d.valores, function(d) { return d.value; }); })]);
+
+    svg.append("g")
+        .attr("class", "x axis")
+        .attr("transform", "translate(0," + height + ")")
+        .call(xAxis);
+
+    svg.append("g")
+        .attr("class", "y axis")
+        .call(yAxis)
+        .append("text")
+        .attr("transform", "rotate(-90)")
+        .attr("x", 0)
+        .attr("y", 10)
+        .attr("dy", ".32em")
+        .style("text-anchor", "end")
+        .attr("font-weight", "normal")
+        .text("Number of Prisoners Released");
+
+    svg.append("text")
+        .attr("x", (width / 2))
+        .attr("y", -30)
+        .attr("width", 400)
+        .attr("text-anchor", "middle")
+        .style("font-size", "20px")
+        .attr("font-weight", "bold")
+        .attr("fill", "#4E4E4E")
+        .text("Releases by Week, 2019 vs 2020.")
+    ;
+
+    var bar = svg.selectAll(".bar")
+        .data(dataset)
+        .enter().append("g")
+        .attr("class", "rect")
+        .attr("transform", function(d) { return "translate(" + x0(d.week) + ",0)"; });
+
+
+    bar.selectAll("rect")
+        .data(function(d) { return d.valores; })
+        .enter().append("rect")
+        .attr("width", x1.rangeBand())
+        .attr("x", function(d) { return x1(d.name); })
+        .attr("y", function(d) { return y(d.value); })
+        .attr("value", function(d){return d.name;})
+        .attr("height", function(d) { return height - y(d.value); })
+        .style("fill", function(d) { return z(d.name); });
+
+
+
+    var legend = svg.selectAll(".legend")
+        .data(options.slice())
+        .enter().append("g")
+        .attr("class", "legend")
+        .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+
+    legend.append("rect")
+        .attr("x", width-58)
+        .attr("width", 18)
+        .attr("height", 18)
+        .style("fill", z);
+
+    legend.append("text")
+        .attr("x", width-63)
+        .attr("y", 9)
+        .attr("dy", ".35em")
+        .style("text-anchor", "end")
+        .text(function(d) { return d; });
+
+    legend.append("line")
+        .attr("x1", width-35)
+        .attr("y1", 8)
+        .attr("x2", (width-17))
+        .attr("y2", 8)
+        .style("stroke", z) //
+        .attr("stroke-width", 4);
+
+
+
+    bar.selectAll("text")
+        .data(function(d) { return d.valores; })
+        .enter().append("text")
+        .attr("class","text")
+        .attr("x", function(d) { return x1(d.name) + 9; })
+        .attr("y",function(d) { return y(d.value) - 3; })
+        .attr("text-anchor", "middle")
+        .style("font-size", "12px")
+        .text(function(d) {return formatcomma(d.value)});
+
+    var line1 = svg.selectAll("svg")
+        .data(dataset)
+        .enter().append("g");
+
+    line1.append("line")
+        .style("stroke", "#80475E") // colour the line
+        .attr("stroke-width", 2)
+        .attr("x1", 45)     // x position of the first end of the line
+        .attr("y1", y(70.6))      // y position of the first end of the line
+        .attr("x2", (840))     // x position of the second end of the line
+        .attr("y2", y(62.1));    // y position of the second end of the line
+
+    var line2 = svg.selectAll("svg")
+        .data(dataset)
+        .enter().append("g");
+
+
+    line2.append("line")
+        .style("stroke","#3D6098") // colour the line
+        .attr("stroke-width", 2)
+        .attr("x1", 45)     // x position of the first end of the line
+        .attr("y1", y(71.4))      // y position of the first end of the line
+        .attr("x2", (840))     // x position of the second end of the line
+        .attr("y2", y(59.35));    // y position of the second end of the line
+
+
+</script>
+</body>
