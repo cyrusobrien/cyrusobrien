@@ -284,8 +284,7 @@
 
 
     bar.selectAll("text")
-        .data(function(d) { return d.valores; })
-        .enter().append("text")
+        .append("text")
         .attr("class","text")
         .attr("x", function(d) { return x1(d.name)+16; })
         .attr("y",function(d) { return y(d.value) - 3; })
