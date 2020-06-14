@@ -142,7 +142,7 @@
             .attr("x", function(d) { return x(d.data.State) + Math.round(x.bandwidth()/2);})
             .attr("y", function(d) { return Math.round(y(d.data.Tot)) - 3; })
             .attr("text-anchor", "middle")
-            .text(function(d) {return d.data.Tot});
+            .text(function(d) {return formatcomma(d.data.Tot)});
 
 
         g.append("text")
