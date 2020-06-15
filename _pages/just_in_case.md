@@ -1,7 +1,5 @@
 ---
 layout: noheader
-type: noheader
-category: Report
 permalink: /restorejustice.html
 title: Restore Justice
 subTitle:
