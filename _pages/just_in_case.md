@@ -1,5 +1,5 @@
 ---
-layout: plain
+layout: noheader
 type: noheader
 category: Report
 permalink: /restorejustice.html
