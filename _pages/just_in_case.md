@@ -1,6 +1,6 @@
 ---
 layout: noheader
-permalink: /restorejustice.html
+permalink: /restorejustice
 title: Restore Justice
 subTitle:
 ---
