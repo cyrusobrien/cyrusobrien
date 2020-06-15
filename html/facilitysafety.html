@@ -144,7 +144,8 @@
 <form>
     <label><input type="radio" name="dataset" id="dataset" value="Option1" checked> Occupancy Rate</label><br>
     <label><input type="radio" name="dataset" id="dataset" value="Option2"> Current Population</label> <br>
-    <label><input type="radio" name="dataset" id="dataset" value="Option3"> Releases Required to Reach Safer Occupancy</label> <br>
+    <label><input type="radio" name="dataset" id="dataset" value="Option3"> Early Releases Since March 1, 2020</label> <br>
+    <label><input type="radio" name="dataset" id="dataset" value="Option4"> Releases Required to Reach Safer Occupancy</label> <br>
  </form>
 <script src="https://d3js.org/d3.v3.min.js"></script>
 <body>
@@ -215,6 +216,37 @@
     ];
 
     Option3 = [
+    {label:"Joliet Treatment Ctr",value :8},
+    {label:"Kewanee Reentry Ctr",value :36},
+    {label:"Big Muddy River",value :40},
+    {label:"Pontiac",value :41},
+    {label:"Hill",value :52},
+    {label:"Dixon",value :58},
+    {label:"Menard",value :60},
+    {label:"Centralia",value :61},
+    {label:"Western Illinois",value :69},
+    {label:"Taylorville",value :73},
+    {label:"East Moline",value :81},
+    {label:"Southwestern Illinois",value :91},
+    {label:"Lawrence",value :94},
+    {label:"Danville",value :95},
+    {label:"Graham",value :119},
+    {label:"Pinckneyville",value :122},
+    {label:"Shawnee",value :123},
+    {label:"Lincoln",value :124},
+    {label:"Robinson",value :135},
+    {label:"Vienna",value :144},
+    {label:"Jacksonville",value :195},
+    {label:"Logan",value :197},
+    {label:"Illinois River",value :199},
+    {label:"Decatur",value :211},
+    {label:"Sheridan",value :226},
+    {label:"Vandalia",value :249},
+    {label:"Stateville",value :285}];
+
+
+
+    Option4 = [
         {label:"Joliet Treatment Ctr",value :0},
         {label:"Kewanee Reentry Ctr",value :0},
         {label:"Vandalia",value :0},
@@ -264,6 +296,11 @@
         else if (value == "Option3")
         {
             change(Option3);
+        }
+
+        else if (value == "Option4")
+        {
+            change(Option4);
         }
 
     }
