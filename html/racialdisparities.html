@@ -93,9 +93,9 @@
 <h3>Racial and Ethnic Disparities in EDSC Releases</h3>
 <form>
     <label><input type="radio" name="dataset" id="dataset" value="Option1" checked> Prison Population (n=36,904)</label><br>
-    <label><input type="radio" name="dataset" id="dataset" value="Option2"> EDSC Early Releases (n=1,166)</label> <br>
-    <label><input type="radio" name="dataset" id="dataset" value="Option3"> Released 90+ Days Early through EDSC (n=809)</label><br>
-    <label><input type="radio" name="dataset" id="dataset" value="Option4"> Released 180+ Days Early through EDSC (n=337)</label>
+    <label><input type="radio" name="dataset" id="dataset" value="Option2"> EDSC Early Releases (n=1,169)</label> <br>
+    <label><input type="radio" name="dataset" id="dataset" value="Option3"> Released 90+ Days Early through EDSC (n=812)</label><br>
+    <label><input type="radio" name="dataset" id="dataset" value="Option4"> Released 180+ Days Early through EDSC (n=380)</label>
 </form>
 <script src="https://d3js.org/d3.v3.min.js"></script>
 <body>
@@ -118,14 +118,14 @@
     Option3 = [
         {label:"Black",value :0.292},
         {label:"Latino",value :0.098},
-        {label:"White",value :0.596}
+        {label:"White",value :0.597}
 
     ];
 
     Option4 = [
-        {label:"Black",value :0.263},
-        {label:"Latino",value :0.098},
-        {label:"White",value :0.623}
+        {label:"Black",value :0.261},
+        {label:"Latino",value :0.10},
+        {label:"White",value :0.624}
     ];
 
     d3.selectAll("input").on("change", selectDataset);
