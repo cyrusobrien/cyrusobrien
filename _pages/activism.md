@@ -11,6 +11,25 @@ permalink: /practice/
 My scholarship is informed by more than a dozen years practical work to reduce and limit incarceration. I've worked for the [Southern Poverty Law Center](https://www.splcenter.org/issues/childrens-rights), the [Annie E. Casey Foundation](http://www.aecf.org/work/juvenile-justice/), the [American Bar Association](https://www.americanbar.org/advocacy/rule_of_law/where_we_work/middle_east/morocco/programs.html), and, from 2013 to 2020, the Project on Accountable Justice, a criminal justice reform think tank based at Florida State University. My projects to reduce incarceration have involved legislative advocacy, collaborative technical assistance to local courts and state corrections agencies, media campaigns, and assistance with litigation against a private juvenile prison. Some of this work has resulted in publications, a selection of which is below.
 
 
+
+<hr class="section-heading-spacer">
+   <div markdown="0"  class="container-fluid">
+   <div class="row">
+   <div class="col-sm-6 clearfix">
+                       <h3 class="section-heading">Illinois Failing Key Pillar of COVID-19 Response: Prisons Remain Crowded while Early Releases Exacerbate Racial Inequity</h3>
+                       <p>Prisons and jails quickly emerged as some of the most dangerous "hot spots" for the cornonavirus pandemic.<a href="https://restorejustice.org/early-releases-exacerbate-racial-inequity/"> Despite the risks crowded prisons pose to incarcerated people and broader public health, Illinois has not taken meaningful steps to keep Illinoisans safe. I worked with Restore Justice to analyze the release practices of the Illinois Department of Corrections in response to COVID-19.</a> Though early releases are not sufficient to protect public health, they are rife with racial disparities and particularly neglect black and Latino people.</p>
+               </div>
+                   <div class="col-sm-6 clearfix">
+                        <a href="https://restorejustice.org/early-releases-exacerbate-racial-inequity/">
+                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/RJIllinois.jpeg" style="padding-top:30px" alt="Screenshot from Restore Justice">
+                       </a>
+                   </div>
+</div>
+           </div>
+
+
+
+
 <hr class="section-heading-spacer">
    <div markdown="0"  class="container-fluid">
    <div class="row">
