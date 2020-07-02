@@ -33,7 +33,7 @@ My scholarship is informed by more than a dozen years practical work to reduce a
    <div markdown="0"  class="container-fluid">
    <div class="row">
    <div class="col-sm-6 clearfix">
-                       <h3 class="section-heading">Florida Rolled Back Parts of the War on Drugs, but Hundreds Remain in Prison under Obsolete Laws Justice Demands that Reforms Be Made Retroactive</h3>
+                       <h3 class="section-heading">Florida Rolled Back Parts of the War on Drugs, but Hundreds Remain in Prison under Obsolete Laws. Justice Demands that Reforms Be Made Retroactive</h3>
                        <p><a href="https://accountablejustice.github.io/report/retroactivity">This report highlights the plight of 935 Floridians </a>who are serving mandatory minimum sentences for offenses that are no longer in state law. I collaborated with Emily Mahoney of the <i>Miami Herald</i> and <i>Tampa Bay Times</i>, which published a <a href="https://www.tampabay.com/special-reports/2019/11/13/hundreds-of-florida-inmates-are-serving-drug-sentences-no-longer-in-state-law/">Special Report detailed the cases of people sentenced to up to 25 years in prison</a> for simply possessing prescription opioids.</p>
                </div>
                    <div class="col-sm-6 clearfix">
