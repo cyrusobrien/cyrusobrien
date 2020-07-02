@@ -16,7 +16,7 @@ I designed and taught "Religion and Politics in American History" at Washington 
 
 Access the [syllabus here]({{ site.url }}{{ site.baseurl }}/teaching/relpol225), which contains links to many of the activities and assignments. I've also decided to post my course evaluations, which you can [find here]({{ site.url }}{{ site.baseurl }}/documents/WashUCourseEvaluationsReligionandPoliticsinAmericanHistorySpring2020.pdf).
 
-### [The Politics of Religion, Crime, and Punishment in the United States]({{ site.url }}{{ site.baseurl }}/teaching/RelPolt275)
+### ["The Politics of Religion, Crime, and Punishment in the United States"]({{ site.url }}{{ site.baseurl }}/teaching/RelPolt275)
 
 I taught "The Politics of Religion, Crime, and Punishment in the United States" at Washington University in St. Louis in the Fall of 2018. The course enrolled 20 students and emphasized how religious interventions in criminal justice often backfired. [Access the syllabus]({{ site.url }}{{ site.baseurl }}/teaching/RelPolt275) or [read course evaluations]({{ site.url }}{{ site.baseurl }}/documents/WashUCourseEvaluationsReligionCrimePunishment.pdf).
 
