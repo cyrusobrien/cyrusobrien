@@ -140,3 +140,21 @@ h4 {
 	height:80vh;
 }
 
+@media only screen and (max-width: 600px) {
+	.floatpic {
+		width: 100%;
+		float: left;
+		border: 10px;
+		padding: 3%;
+		border-radius: 50%;
+	}
+}
+@media only screen and (min-width: 601px) {
+	.floatpic {
+		width: 270px;
+		float: right;
+		border: 10px;
+		border-radius: 50%;
+		}
+
+	}
