@@ -35,6 +35,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
 
 
    <div markdown="0"  class="container-fluid">
+   <hr class="section-heading-spacer">
    <div class="row">
    <div class="col-sm-6 clearfix">
                        <h4 class="section-heading">Illinois Failing Key Pillar of COVID-19 Response: Prisons Remain Crowded while Early Releases Exacerbate Racial Inequity</h4>
@@ -108,7 +109,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
                </div>
                 <div class="col-sm-6 clearfix">
                     <a href="https://www.splcenter.org/20121127/unlocking-your-community’s-hidden-strengths-guidebook-community-asset-mapping">
-                    <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/unlockingcommunities.jpg" width="250px" alt="communities"> </a>
+                    <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/unlockingcommunities.jpg" width="270px" alt="communities"> </a>
                                   </div>
            </div>
   </div>
@@ -124,7 +125,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
                </div>
                 <div class="col-sm-6 clearfix">
                          <a href="https://www.splcenter.org/20101222/fiscal-responsibility-key-safer-smarter-and-stronger-juvenile-justice-system">
-                   <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/fiscal.jpg"  width="250px" alt="communities"> </a>
+                   <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/fiscal.jpg"  width="270px" alt="communities"> </a>
                  </div>
                  </div>
   </div>
