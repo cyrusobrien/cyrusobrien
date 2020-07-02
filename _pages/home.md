@@ -126,6 +126,6 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
 
 ### Curriculum Vita
 
-I occasionally update my CV. For a semi-recent version, [click here](https://drive.google.com/file/d/0BztWFCdHIreXbFpfbzJuVjhvWTA/view).
+<a id="CV">I occasionally update my CV. For a semi-recent version, [click here](https://drive.google.com/file/d/0BztWFCdHIreXbFpfbzJuVjhvWTA/view).
 
 <small>Photo courtesy of WUSTL photos/Sid Hastings.</small>
