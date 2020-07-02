@@ -38,7 +38,7 @@ My scholarship is informed by more than a dozen years practical work to reduce a
                </div>
                    <div class="col-sm-6 clearfix">
                         <a href="https://accountablejustice.github.io/report/retroactivity">
-                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/HundredsofInmates.png" style="padding-top:30px" alt="Screenshot from Tampa Bay Times">
+                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/obsoletedruglaws.jpeg" style="padding-top:30px" alt="Screenshot of Report">
                        </a>
                    </div>
 </div>
