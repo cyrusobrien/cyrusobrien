@@ -14,11 +14,18 @@ I am a historian and anthropologist working against mass incarceration, militari
 I recently accepted a [Mellon/ACLS Public Fellow](https://www.acls.org/Recent-Awardees/Mellon-ACLS-Public-Fellows) position, and will join the [American Civil Liberties Union's](https://www.aclu.org/) national office in New York City as a Research Fellow.
 
 
+<hr class="section-heading-spacer">
+
+
 ### Research in the Humanities and Social Sciences
 
 I am currently completing a book titled _Faith in Imprisonment: Religion and the Development of Mass Incarceration in Florida_, which is under contract with the University of Pennsylvania Press. This book places religion at the center of the study of mass incarceration. In particular, it shows how religious ideas and organizations shaped the development, structure, and experiences of mass incarceration in the latter half of the twentieth century. I develop this argument by tracing religion’s changing roles as Florida’s prison system expanded from an archipelago of small labor camps at the outset of the Second World War into one of the world’s largest justice systems. Blending archival research with data I collected through hundreds of hours of ethnography in a North Florida prison and more than one hundred oral history and ethnographic interviews, I demonstrate that religion was a key force in the adoption of parole, the embrace of halfway houses, and the privatization of prisons — fundamental transformations that expanded the criminal justice system’s capacities to supervise and to incarcerate, drawing its tentacles deeper into daily American life.
 
 My academic work has been supported by the [National Science Foundation](https://www.nsfgrfp.org), the [Wenner-Gren Foundation for Anthropological Research](http://www.wennergren.org/grantees/obrien-cyrus-james), the [Rackham Graduate School at the University of Michigan](https://www.rackham.umich.edu/blog/announcing-2016-2017-rackham-predoctoral-fellowship-winners), the [Anti-Discrimination Center](http://www.antibiaslaw.com/) and the [Charlotte Newcombe Foundation](http://woodrow.org/news/2017-newcombe-fellows-named/).
+
+
+<hr class="section-heading-spacer">
+
 
 
 ### Policy Work and Activism
@@ -27,7 +34,6 @@ My academic work has been supported by the [National Science Foundation](https:/
 I have worked for more than a dozen years to reduce incarceration and promote justice. I worked for the [Southern Poverty Law Center](https://www.splcenter.org/issues/childrens-rights), the [Annie E. Casey Foundation](http://www.aecf.org/work/juvenile-justice/), the [American Bar Association](https://www.americanbar.org/advocacy/rule_of_law/where_we_work/middle_east/morocco/programs.html), and, from 2013 to 2020, the Project on Accountable Justice, a criminal justice reform think tank based at Florida State University. My projects to reduce incarceration have involved legislative advocacy, collaborative technical assistance to local courts and state corrections agencies, media campaigns, and assistance with litigation against a private juvenile prison. Some of this work has resulted in publications, a selection of which is below.
 
 
-<hr class="section-heading-spacer">
    <div markdown="0"  class="container-fluid">
    <div class="row">
    <div class="col-sm-6 clearfix">
