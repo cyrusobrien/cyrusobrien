@@ -14,10 +14,10 @@ My efforts to connect abstract social forces to individuals’ everyday experien
 
 I designed and taught "Religion and Politics in American History" at Washington University in St. Louis in the Spring of 2020. This course enrolled 37 students and is one of the gateway courses for WashU's [Religion and Politics Minor](https://rap.wustl.edu/undergrad/). The course emphasized the interconnections of race, religion, and nationalism. Highlights of the course include units on Native American boarding schools, slavery (with readings by Frederick Douglass), Confederate nationalism, and American Empire.
 
-Access the [syllabus here]({{ site.url }}{{ site.baseurl }}/teaching/relpol225), which contains links to many of the activities and assignments. I've also decided to post my course evaluations, which you can [find here]({{ site.url }}{{ site.baseurl }}/documents/WashUCourseEvaluationsReligionandPoliticsinAmericanHistorySpring2020.pdf).
+Access the [syllabus here]({{ site.url }}{{ site.baseurl }}/teaching/relpol225), which contains links to many of the activities and assignments.
 
 ### ["The Politics of Religion, Crime, and Punishment in the United States"]({{ site.url }}{{ site.baseurl }}/teaching/RelPolt275)
 
-I taught "The Politics of Religion, Crime, and Punishment in the United States" at Washington University in St. Louis in the Fall of 2018. The course enrolled 20 students and emphasized how religious interventions in criminal justice often backfired. [Access the syllabus]({{ site.url }}{{ site.baseurl }}/teaching/RelPolt275) or [read course evaluations]({{ site.url }}{{ site.baseurl }}/documents/WashUCourseEvaluationsReligionCrimePunishment.pdf).
+I taught "The Politics of Religion, Crime, and Punishment in the United States" at Washington University in St. Louis in the Fall of 2018. The course enrolled 20 students and emphasized how religious interventions in criminal justice often backfired. [Access the syllabus here]({{ site.url }}{{ site.baseurl }}/teaching/RelPolt275).
 
 <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/teaching.jpg" alt="teaching">
