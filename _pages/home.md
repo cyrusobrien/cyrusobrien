@@ -9,7 +9,7 @@ permalink: /
 # Welcome!
 ![]({{ site.url }}{{ site.baseurl }}/images/webportrait2.jpg){: style="width: 270px; float: right; border: 10px; border-radius:50%"}
 
-I am a historian and anthropologist working against mass incarceration, militarized policing, and racial inequality. In June, I completed a postdoctoral fellowship at the [Danforth Center for Religion and Politics at Washington University in St. Louis](http://rap.wustl.edu/bio/cyrus-obrien/), where I taught about U.S. History, Race, Religion, and Politics. My PhD is in Anthropology and History from the University of Michigan in 2018, which awarded me its top student prize, the [ProQuest Distinguished Dissertation Award](https://rackham.umich.edu/faculty-and-staff/awards/distinguished-dissertation-awards/).
+I am a historian and anthropologist working against mass incarceration, militarized policing, and racial inequality. In June, I completed a postdoctoral fellowship at the [Danforth Center for Religion and Politics at Washington University in St. Louis](http://rap.wustl.edu/bio/cyrus-obrien/), where I taught about U.S. History, Race, Religion, and Politics. My PhD is in Anthropology and History from the University of Michigan in 2018, which awarded me its top student prize, the [ProQuest Distinguished Dissertation Award](https://rackham.umich.edu/faculty-and-staff/awards/distinguished-dissertation-awards/). My article, “‘A Prison in Your Community’: Halfway Houses and the Melding of Treatment and Control,” was recently accepted for publication by the [Journal of American History](https://jah.oah.org/) and I anticipate that it will be published in 2021.
 
 I recently accepted a [Mellon/ACLS Public Fellow](https://www.acls.org/Recent-Awardees/Mellon-ACLS-Public-Fellows) position, and will join the [American Civil Liberties Union's](https://www.aclu.org/) national office in New York City as a Research Fellow.
 
@@ -31,7 +31,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
    <div markdown="0"  class="container-fluid">
    <div class="row">
    <div class="col-sm-6 clearfix">
-                       <h3 class="section-heading">Illinois Failing Key Pillar of COVID-19 Response: Prisons Remain Crowded while Early Releases Exacerbate Racial Inequity</h3>
+                       <h4 class="section-heading">Illinois Failing Key Pillar of COVID-19 Response: Prisons Remain Crowded while Early Releases Exacerbate Racial Inequity</h4>
                        <p>Prisons and jails quickly emerged as some of the most dangerous "hot spots" for the cornonavirus pandemic.<a href="https://restorejustice.org/early-releases-exacerbate-racial-inequity/"> Despite the risks crowded prisons pose to incarcerated people and broader public health, Illinois has not taken meaningful steps to keep Illinoisans safe. I worked with Restore Justice to analyze the release practices of the Illinois Department of Corrections in response to COVID-19.</a> Though early releases are not sufficient to protect public health, they are rife with racial disparities and neglect the health and safety of black and Latino people.</p>
                </div>
                    <div class="col-sm-6 clearfix">
@@ -49,7 +49,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
    <div markdown="0"  class="container-fluid">
    <div class="row">
    <div class="col-sm-6 clearfix">
-                       <h3 class="section-heading">Florida Rolled Back Parts of the War on Drugs, but Hundreds Remain in Prison under Obsolete Laws. Justice Demands that Reforms Be Made Retroactive</h3>
+                       <h4 class="section-heading">Florida Rolled Back Parts of the War on Drugs, but Hundreds Remain in Prison under Obsolete Laws. Justice Demands that Reforms Be Made Retroactive</h4>
                        <p><a href="https://accountablejustice.github.io/report/retroactivity">This report highlights the plight of 935 Floridians </a>who are serving mandatory minimum sentences for offenses that are no longer in state law. I collaborated with Emily Mahoney of the <i>Miami Herald</i> and <i>Tampa Bay Times</i>, which published a <a href="https://www.tampabay.com/special-reports/2019/11/13/hundreds-of-florida-inmates-are-serving-drug-sentences-no-longer-in-state-law/">Special Report detailed the cases of people sentenced to up to 25 years in prison</a> for simply possessing prescription opioids.</p>
                </div>
                    <div class="col-sm-6 clearfix">
@@ -65,7 +65,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
    <div markdown="0"  class="container-fluid">
    <div class="row">
    <div class="col-sm-6 clearfix">
-                       <h3 class="section-heading">Florida Criminal Justice Reform: Understanding the Challenges and Opportunities</h3>
+                       <h4 class="section-heading">Florida Criminal Justice Reform: Understanding the Challenges and Opportunities</h4>
                        <p>This report was released in November 2017 and includes detailed quantitative and historical analyses of Florida's criminal justice system. The growth of Florida's prison system has been both fast and steady. And even as legislators embraced laws and policies that grew the system, they were concerned about continued growth. Just since 2000, Florida's prison population has increased fifty percent, in large part due to laws that send tens of thousands of people to prison each your for minor offenses and other laws that keep people in prison for extremely long periods of time.<a href="https://accountablejustice.github.io/report"> Available here...</a></p>
                </div>
                    <div class="col-sm-6 clearfix">
@@ -81,7 +81,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
    <div markdown="0"  class="container-fluid">
    <div class="row">
    <div class="col-sm-6 clearfix">
-                       <h3 class="section-heading">No Place for a Child: Direct File of Juveniles Comes at High Cost</h3>
+                       <h4 class="section-heading">No Place for a Child: Direct File of Juveniles Comes at High Cost</h4>
                        <p>I led a research team that analyzed quantitative data from multiple sources to find out what happened to children after they were transferred to adult court and prosecuted as adults. We found that 72% of children prosecuted as adults were <b>not</b> initially sentenced to prison, but instead were offered plea agreements to probation. The processes that allowed children to be prosecuted as adults produced significant racial disparities, violated basic norms of fairness, and resulted from an extreme concentration of power in the hands of prosecutors.<a href="{{ site.url }}{{ site.baseurl }}/documents/2016-juvenile-justice-policy-brief-21.pdf"> Available as a PDF here...</a></p>
                </div>
                    <div class="col-sm-6 clearfix">
@@ -96,7 +96,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
  <div markdown="0"  class="container-fluid">
  <div class="row">
                    <div class="col-sm-6 clearfix">
-                     <h3 class="section-heading">Unlocking Your Community's Hidden Strengths: A Guide to Community Asset-Mapping</h3>
+                     <h4 class="section-heading">Unlocking Your Community's Hidden Strengths: A Guide to Community Asset-Mapping</h4>
                      <p>This guide, to a process known as "community asset-mapping," rejects the habit of describing communities in which many of our children live by listing their problems. Instead of focusing on deficits, asset-mapping spotlights methods of tapping into the hidden wealth of knowledge in all communities for the benefit of children.
  <a href="https://www.splcenter.org/20121127/unlocking-your-community’s-hidden-strengths-guidebook-community-asset-mapping"> Read the full document here...</a></p>
                </div>
@@ -112,7 +112,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
  <div markdown="0"  class="container-fluid">
  <div class="row">
                    <div class="col-sm-6 clearfix">
-                     <h3 class="section-heading">Fiscal Responsibility: The Key to a Safer, Stronger, and Smarter Juvenile Justice System</h3>
+                     <h4 class="section-heading">Fiscal Responsibility: The Key to a Safer, Stronger, and Smarter Juvenile Justice System</h4>
                         <p>This white paper was based on a quantitative analysis of youth incarceration in Florida that found that nearly half of all children admitted to juvenile prisons were adjudicated only for a misdemeanor or probation violation. It was the <a href="https://www.flsenate.gov/PublishedContent/Session/2012/InterimReports/2012-118cj.pdf">basis</a> for <a href="http://laws.flrules.org/2011/54" > legislation</a> that prohibited the incarceration of children adjudicated for misdemeanors in most circumstances, the implementation of which has contributed to a nearly 70% decline in juvenile incarceration in the state. Jointly published by the Southern Poverty Law Center and Florida TaxWatch, it was one of the first (and remains one of the few) successful anti-incarceration collaborations between right and left. I wasn't responsible for the title...
  <a href="https://www.splcenter.org/20101222/fiscal-responsibility-key-safer-smarter-and-stronger-juvenile-justice-system"> Read the full document here...</a></p>
                </div>
