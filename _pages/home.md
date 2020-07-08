@@ -50,6 +50,21 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
            </div>
 
 
+   <div markdown="0"  class="container-fluid">
+   <hr class="section-heading-spacer">
+   <div class="row">
+   <div class="col-sm-6 clearfix">
+                       <h4 class="section-heading">Florida's Obsolete Drug Laws Disproportionately Affect Latinos and Women</h4>
+                       Nine thousand more Latinx people are imprisoned in Florida than previously reported because, for decades, Florida prison authorities have systematically misclassified Latinos as non-Hispanic whites. This report &mdash; highlighting both the systemic misclassification and the role of ethnic disparities in Florida's drug laws &mdash; drew significant coverage in the <a href="https://mundohispanico.com/nueve-mil-hispanos-carceles-florida/">Mundo Hispanico</a>, <a href="https://www.elnuevoherald.com/noticias/sur-de-la-florida/article239566533.html">el Nuevo Herald</a> and <a href="https://www.efe.com/efe/america/ame-hispanos/descubren-que-hay-9-000-latinos-mas-de-lo-se-creia-en-carceles-florida/20000034-4157200"> Agencia EFE</a>, Spain's International News Agency and the 2th largest newswire service worldwide. Thank you to <a href="https://twitter.com/ivonnemalaver?lang=en">Ivonne Malaver</a> for publicizing this and asking such crucial questions.
+
+                 </div>
+                                <div class="col-sm-6 clearfix">
+                                     <a href="https://accountablejustice.github.io/report/demographics">
+                                          <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/demographics_of_fl_prisons.jpeg" style="padding-top:30px" alt="Screenshot of Report">
+                                    </a>
+                                </div>
+</div>
+           </div>
 
 
 <hr class="section-heading-spacer">
