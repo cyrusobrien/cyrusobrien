@@ -43,7 +43,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
                </div>
                    <div class="col-sm-6 clearfix">
                         <a href="https://restorejustice.org/early-releases-exacerbate-racial-inequity/">
-                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/RJIllinois.jpeg" style="padding-top:30px; border: 1px solid #555;" alt="Screenshot from Restore Justice">
+                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/RJIllinois.jpeg" style="border: 1px solid #555;" alt="Screenshot from Restore Justice">
                        </a>
                    </div>
 </div>
@@ -60,7 +60,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
                  </div>
                                 <div class="col-sm-6 clearfix">
                                      <a href="https://accountablejustice.github.io/report/demographics">
-                                          <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/demographics_of_fl_prisons.jpeg" style="padding-top:30px" alt="Screenshot of Report">
+                                          <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/demographics_of_fl_prisons.jpeg" alt="Screenshot of Report">
                                     </a>
                                 </div>
 </div>
@@ -76,7 +76,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
                </div>
                    <div class="col-sm-6 clearfix">
                         <a href="https://accountablejustice.github.io/report/retroactivity">
-                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/obsoletedruglaws.jpeg" style="padding-top:30px" alt="Screenshot of Report">
+                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/obsoletedruglaws.jpeg" alt="Screenshot of Report">
                        </a>
                    </div>
 </div>
@@ -92,7 +92,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
                </div>
                    <div class="col-sm-6 clearfix">
                         <a href="https://accountablejustice.github.io/report">
-                             <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/PAJwidethumbnail.jpg" style="padding-top:30px" alt="FloridaReport">
+                             <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/PAJwidethumbnail.jpg" alt="FloridaReport">
                        </a>
                    </div>
 </div>
