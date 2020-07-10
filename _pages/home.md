@@ -1,5 +1,5 @@
 ---
-title: "Cyrus O'Brien"
+title: "Cyrus J. O'Brien"
 layout: textlay
 sitemap: false
 permalink: /
@@ -150,7 +150,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
 
 ### Curriculum Vita <a id="CV"></a>
 
-I occasionally update my CV. For a semi-recent version, [click here](https://drive.google.com/file/d/0BztWFCdHIreXbFpfbzJuVjhvWTA/view).
+I occasionally update my CV. For a semi-recent version, [click here]({{ site.url }}{{ site.baseurl }}/Users/cyrus/GitHub/cyrusobrien/documents/CyrusOBrienCV-web.pdf).
 
 
 <hr class="section-heading-spacer">
