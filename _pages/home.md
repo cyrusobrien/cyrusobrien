@@ -7,7 +7,7 @@ permalink: /
 
 
 # Welcome!
-![]({{ site.url }}{{ site.baseurl }}/images/webportrait2.jpg){: class="floatpic"}
+![]({{ site.url }}{{ site.baseurl }}/images/webportrait3.jpg){: class="floatpic"}
 
 I am a historian and anthropologist working against mass incarceration, militarized policing, and racial inequality. In June, I completed a postdoctoral fellowship at the [Danforth Center for Religion and Politics at Washington University in St. Louis](http://rap.wustl.edu/bio/cyrus-obrien/), where I taught about U.S. History, Race, Religion, and Politics. I earned my PhD in Anthropology and History from the University of Michigan, which awarded me its top student prize, the [ProQuest Distinguished Dissertation Award](https://rackham.umich.edu/faculty-and-staff/awards/distinguished-dissertation-awards/). My article, “‘A Prison in Your Community’: Halfway Houses and the Melding of Treatment and Control,” was recently accepted for publication by the [Journal of American History](https://jah.oah.org/) and I anticipate that it will be published in 2021.
 
