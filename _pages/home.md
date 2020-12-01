@@ -152,8 +152,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
 
 ### Curriculum Vita <a id="CV"></a>
 
-I occasionally update my CV. For a semi-recent version, [click here]({{ site.baseurl }}/documents/CyrusOBrienCV-web.pdf).
-
+I occasionally update my CV. For a semi-recent version, [click here]({{ site.baseurl }}/documents/CyrusOBrienCV-web.pdf). You can also see a [resume here]({{ site.baseurl }}/documents/CyrusOBrienResume-web.pdf).
 
 <hr class="section-heading-spacer">
 
