@@ -10,11 +10,11 @@ permalink: /
 
 ![a portrait of me, taken when I was a bit skinnier]({{ site.url }}{{ site.baseurl }}/images/webportrait3.jpg){: class="floatpic"}
 
-I am a researcher and advocate working against mass incarceration, militarized policing, and racial inequality. I am currently a [Mellon/ACLS Public Fellow](https://www.acls.org/Recent-Awardees/Mellon-ACLS-Public-Fellows) and a Research Fellow at the [American Civil Liberties Union](https://www.aclu.org/).
+I am a researcher and advocate working against mass incarceration, militarized policing, and racial inequality. I am currently a [Mellon/ACLS Public Fellow](https://www.acls.org/Recent-Awardees/Mellon-ACLS-Public-Fellows) and a Research Fellow at the [American Civil Liberties Union](https://www.aclu.org/news/by/cyrus-j-obrien-phd/).
 
 I earned a PhD in Anthropology and History from the University of Michigan, which awarded me its top dissertation prize, the [ProQuest Distinguished Dissertation Award](https://rackham.umich.edu/faculty-and-staff/awards/distinguished-dissertation-awards/). I completed a postdoctoral fellowship at the [Danforth Center for Religion and Politics at Washington University in St. Louis](http://rap.wustl.edu/bio/cyrus-obrien/), where I taught about U.S. History, Race, Religion, and Politics.
 
-The [Journal of American History](https://jah.oah.org/) published my article, [“‘A Prison in Your Community’: Halfway Houses and the Melding of Treatment and Control,”](https://doi.org/10.1093/jahist/jaab065) in its June 2021 issue.
+The [Journal of American History](https://jah.oah.org/) published my article, [“‘A Prison in Your Community’: Halfway Houses and the Melding of Treatment and Control”](https://doi.org/10.1093/jahist/jaab065), in its June 2021 issue.
 
 
 <hr class="section-heading-spacer">
