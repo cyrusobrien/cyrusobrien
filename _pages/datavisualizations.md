@@ -23,7 +23,7 @@ The projects below use digital and computational methods to convey the growth of
                </div>
                 <div class="col-sm-6 clearfix">
                   <a href="{{ site.url }}{{ site.baseurl }}/cartogram">
-                                              <img  class="img-responsive" style="padding-top:10px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/cartogram.jpg" alt="cartogram">
+                                              <img  class="img-responsive" style="padding-top:10px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/cartogram.jpg" alt="this is a picture of a cartogram showing imprisonment by state in 2015">
                                         </a>
                                   </div>
            </div>
@@ -41,7 +41,7 @@ The projects below use digital and computational methods to convey the growth of
                </div>
                 <div class="col-sm-6 clearfix">
                   <a href="{{ site.url }}{{ site.baseurl }}/racialdisparities">
-                                              <img  class="img-responsive" style="padding-top:20px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/racialdisparities.jpg" alt="racialdisparities"> </a>
+                                              <img  class="img-responsive" style="padding-top:20px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/racialdisparities.jpg" alt="this is a picture of a bar chart that shows racial disparities in Florida, broken down by county"> </a>
                                   </div>
            </div>
   </div>
@@ -57,7 +57,7 @@ The projects below use digital and computational methods to convey the growth of
                </div>
                 <div class="col-sm-6 clearfix">
                   <a href="{{ site.url }}{{ site.baseurl }}/animatedtimeline">
-                                              <img  class="img-responsive" style="padding-top:20px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/historicalchart.png" alt="animated timeline">
+                                              <img  class="img-responsive" style="padding-top:20px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/historicalchart.png" alt="this is a picture of a line chart showing imprisonment rates in Florida. when you click on it, it shows incarceration going up alongside policies that affected prison populations">
                                         </a>
                                   </div>
            </div>
