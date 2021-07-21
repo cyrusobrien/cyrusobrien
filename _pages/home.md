@@ -8,7 +8,7 @@ permalink: /
 
 # <strong>CYRUS O'BRIEN<strong>, PhD
 
-![]({{ site.url }}{{ site.baseurl }}/images/webportrait3.jpg){: class="floatpic"}
+![a portrait of me, taken when I was a bit skinnier]({{ site.url }}{{ site.baseurl }}/images/webportrait3.jpg){: class="floatpic"}
 
 I am a researcher and advocate working against mass incarceration, militarized policing, and racial inequality. I am currently a [Mellon/ACLS Public Fellow](https://www.acls.org/Recent-Awardees/Mellon-ACLS-Public-Fellows) and a Research Fellow at the [American Civil Liberties Union](https://www.aclu.org/).
 
@@ -51,7 +51,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
                </div>
                    <div class="col-sm-6 clearfix">
                         <a href="https://www.aclu.org/news/criminal-law-reform/how-america-disguised-35000-prison-beds/">
-                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}images/picpic/65000_beds.jpg" style="border: 1px solid #555;" alt="Screenshot from Restore Justice">
+                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}images/picpic/65000_beds.jpg" style="border: 1px solid #555;" alt="a picture of the published report">
                        </a>
                    </div>
 </div>
@@ -70,7 +70,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
                </div>
                    <div class="col-sm-6 clearfix">
                         <a href="https://www.aclu.org/news/criminal-law-reform/federal-militarization-of-law-enforcement-must-end/">
-                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}images/picpic/federal_militarization.jpg" style="border: 1px solid #555;" alt="Screenshot from Restore Justice">
+                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}images/picpic/federal_militarization.jpg" style="border: 1px solid #555;" alt="another picture of the published report">
                        </a>
                    </div>
 </div>
@@ -90,7 +90,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
                </div>
                    <div class="col-sm-6 clearfix">
                         <a href="https://www.aclu.org/news/civil-liberties/its-past-time-to-end-the-federal-militarization-of-police/">
-                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}images/picpic/aclu_police_militarization_short.jp2" style="border: 1px solid #555;" alt="Screenshot from Restore Justice">
+                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}images/picpic/aclu_police_militarization_short.jp2" style="border: 1px solid #555;" alt="another picture of the published report">
                        </a>
                    </div>
 </div>
@@ -106,7 +106,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
                </div>
                    <div class="col-sm-6 clearfix">
                         <a href="https://restorejustice.org/early-releases-exacerbate-racial-inequity/">
-                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/RJIllinois.jpeg" style="border: 1px solid #555;" alt="Screenshot from Restore Justice">
+                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/RJIllinois.jpeg" style="border: 1px solid #555;" alt="another picture of the published report">
                        </a>
                    </div>
 </div>
@@ -123,7 +123,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
                  </div>
                                 <div class="col-sm-6 clearfix">
                                      <a href="https://accountablejustice.github.io/report/demographics">
-                                          <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/demographics_of_fl_prisons.jpeg" alt="Screenshot of Report">
+                                          <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/demographics_of_fl_prisons.jpeg" alt="another picture of the published report">
                                     </a>
                                 </div>
 </div>
@@ -139,7 +139,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
                </div>
                    <div class="col-sm-6 clearfix">
                         <a href="https://accountablejustice.github.io/report/retroactivity">
-                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/obsoletedruglaws.jpeg" alt="Screenshot of Report">
+                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/obsoletedruglaws.jpeg" alt="another picture of the published report">
                        </a>
                    </div>
 </div>
@@ -155,7 +155,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
                </div>
                    <div class="col-sm-6 clearfix">
                         <a href="https://accountablejustice.github.io/report">
-                             <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/PAJwidethumbnail.jpg" alt="FloridaReport">
+                             <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/PAJwidethumbnail.jpg" alt="another picture of the published report">
                        </a>
                    </div>
 </div>
@@ -171,7 +171,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
                </div>
                    <div class="col-sm-6 clearfix">
                         <a href="{{ site.url }}{{ site.baseurl }}/documents/2016-juvenile-justice-policy-brief-21.pdf">
-                             <img  class="img-responsive" width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/directfile.jpg" alt="directfile">
+                             <img  class="img-responsive" width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/directfile.jpg" alt="another picture of the published report">
                        </a>
                    </div>
 </div>
@@ -187,7 +187,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
                </div>
                 <div class="col-sm-6 clearfix">
                     <a href="https://www.splcenter.org/20121127/unlocking-your-community’s-hidden-strengths-guidebook-community-asset-mapping">
-                    <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/unlockingcommunities.jpg" width="270px" alt="communities"> </a>
+                    <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/unlockingcommunities.jpg" width="270px" alt="another picture of the published report"> </a>
                                   </div>
            </div>
   </div>
@@ -203,7 +203,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
                </div>
                 <div class="col-sm-6 clearfix">
                          <a href="https://www.splcenter.org/20101222/fiscal-responsibility-key-safer-smarter-and-stronger-juvenile-justice-system">
-                   <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/fiscal.jpg"  width="270px" alt="communities"> </a>
+                   <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/fiscal.jpg"  width="270px" alt="another picture of the published report - sorry this is so redundant :)"> </a>
                  </div>
                  </div>
   </div>
