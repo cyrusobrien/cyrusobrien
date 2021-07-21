@@ -6,12 +6,15 @@ permalink: /
 ---
 
 
-# Welcome!
+# <strong>CYRUS O'BRIEN<strong>, PhD
+
 ![]({{ site.url }}{{ site.baseurl }}/images/webportrait3.jpg){: class="floatpic"}
 
-I am a researcher and advocate working against mass incarceration, militarized policing, and racial inequality. I earned a PhD in Anthropology and History from the University of Michigan, which awarded me its top dissertation prize, the [ProQuest Distinguished Dissertation Award](https://rackham.umich.edu/faculty-and-staff/awards/distinguished-dissertation-awards/). My article, “‘A Prison in Your Community’: Halfway Houses and the Melding of Treatment and Control,” has been accepted for publication by the [Journal of American History](https://jah.oah.org/).
+I am a researcher and advocate working against mass incarceration, militarized policing, and racial inequality. I am currently a [Mellon/ACLS Public Fellow](https://www.acls.org/Recent-Awardees/Mellon-ACLS-Public-Fellows) and a Research Fellow at the [American Civil Liberties Union](https://www.aclu.org/).
 
-I recently completed a postdoctoral fellowship at the [Danforth Center for Religion and Politics at Washington University in St. Louis](http://rap.wustl.edu/bio/cyrus-obrien/), where I taught about U.S. History, Race, Religion, and Politics. I am currently a [Mellon/ACLS Public Fellow](https://www.acls.org/Recent-Awardees/Mellon-ACLS-Public-Fellows) and a Research Fellow at the [American Civil Liberties Union](https://www.aclu.org/).
+I earned a PhD in Anthropology and History from the University of Michigan, which awarded me its top dissertation prize, the [ProQuest Distinguished Dissertation Award](https://rackham.umich.edu/faculty-and-staff/awards/distinguished-dissertation-awards/). I completed a postdoctoral fellowship at the [Danforth Center for Religion and Politics at Washington University in St. Louis](http://rap.wustl.edu/bio/cyrus-obrien/), where I taught about U.S. History, Race, Religion, and Politics.
+
+The [Journal of American History](https://jah.oah.org/) published my article, [“‘A Prison in Your Community’: Halfway Houses and the Melding of Treatment and Control,”](https://doi.org/10.1093/jahist/jaab065) in its June 2021 issue.
 
 
 <hr class="section-heading-spacer">
@@ -33,7 +36,65 @@ My research has been supported by the [National Science Foundation](https://www.
 ### Policy Work and Activism
 
 
-I have worked for more than a dozen years to reduce incarceration and promote justice. I worked for the [Southern Poverty Law Center](https://www.splcenter.org/issues/childrens-rights), the [Annie E. Casey Foundation](http://www.aecf.org/work/juvenile-justice/), the [American Bar Association](https://www.americanbar.org/advocacy/rule_of_law/where_we_work/middle_east/morocco/programs.html),[Restore Justice](https://restorejustice.org/), and, from 2013 to 2020, the Project on Accountable Justice, a criminal justice reform think tank based at Florida State University. My projects to reduce incarceration have involved legislative advocacy, collaborative technical assistance to local courts and state corrections agencies, media campaigns, and assistance with litigation against a private juvenile prison. Some of this work has resulted in publications, a selection of which is below.
+I have worked for more than a dozen years to reduce incarceration and promote justice. I worked for the [Southern Poverty Law Center](https://www.splcenter.org/issues/childrens-rights), the [Annie E. Casey Foundation](http://www.aecf.org/work/juvenile-justice/), the [American Bar Association](https://www.americanbar.org/advocacy/rule_of_law/where_we_work/middle_east/morocco/programs.html), [Restore Justice](https://restorejustice.org/), and, from 2013 to 2020, the Project on Accountable Justice, a criminal justice reform think tank based at Florida State University. My projects to reduce incarceration have involved legislative advocacy, collaborative technical assistance to local courts and state corrections agencies, media campaigns, and assistance with litigation against a private juvenile prison. Some of this work has resulted in publications, a selection of which is below.
+
+
+   <div markdown="0"  class="container-fluid">
+   <hr class="section-heading-spacer">
+   <div class="row">
+   <div class="col-sm-6 clearfix">
+
+                       <h4 class="section-heading">How America Disguised 65,000 Prison Beds</h4>
+
+                       This article <a href="https://www.aclu.org/news/criminal-law-reform/how-america-disguised-35000-prison-beds/"> published on the ACLU's blog</a> summarizes key findings from my Journal of American History article. Recast for a popular audience, I highlight the dangers posed by "alternatives to incarceration." Determining which alternatives will dismantle mass incarceration -- rather than replicate it -- involves close attention to technologies for involuntary confinement, surveillance, and control.
+
+               </div>
+                   <div class="col-sm-6 clearfix">
+                        <a href="https://www.aclu.org/news/criminal-law-reform/how-america-disguised-35000-prison-beds/">
+                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}images/picpic/65000_beds.jpg" style="border: 1px solid #555;" alt="Screenshot from Restore Justice">
+                       </a>
+                   </div>
+</div>
+           </div>
+
+
+   <div markdown="0"  class="container-fluid">
+   <hr class="section-heading-spacer">
+   <div class="row">
+   <div class="col-sm-6 clearfix">
+
+                       <h4 class="section-heading">Federal Militarization of Law Enforcement Must End</h4>
+
+                       This piece is a collaboration with my brilliant colleague <a href="https://www.aclu.org/news/by/charlotte-lawrence/">Charlotte Lawrence</a>. <a href="https://www.aclu.org/news/criminal-law-reform/federal-militarization-of-law-enforcement-must-end/"> We tracked transfers of military equipment to state and local law enforcement agencies under the 1033 program, and advocate for the repeal of 1033.</a> We also propose that military equipment unsuitable for peaceful purposes be destroyed in environmentally friendly ways, such as being used in the creation and expansion of artificial reefs.
+
+               </div>
+                   <div class="col-sm-6 clearfix">
+                        <a href="https://www.aclu.org/news/criminal-law-reform/federal-militarization-of-law-enforcement-must-end/">
+                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}images/picpic/federal_militarization.jpg" style="border: 1px solid #555;" alt="Screenshot from Restore Justice">
+                       </a>
+                   </div>
+</div>
+           </div>
+
+
+
+   <div markdown="0"  class="container-fluid">
+   <hr class="section-heading-spacer">
+   <div class="row">
+   <div class="col-sm-6 clearfix">
+
+                       <h4 class="section-heading">It's Past Time to End Federal Militarization of Police</h4>
+
+                        <a href="https://www.aclu.org/news/by/charlotte-lawrence/">Charlotte Lawrence</a>. <a href="https://www.aclu.org/news/civil-liberties/its-past-time-to-end-the-federal-militarization-of-police/"> We tracked transfers of military equipment to state and local law enforcement agencies under the 1033 program, and advocate for the repeal of 1033.</a> We also propose that military equipment unsuitable for peaceful purposes be destroyed in environmentally friendly ways, such as being used in the creation and expansion of artificial reefs.
+
+               </div>
+                   <div class="col-sm-6 clearfix">
+                        <a href="https://www.aclu.org/news/civil-liberties/its-past-time-to-end-the-federal-militarization-of-police/">
+                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}images/picpic/aclu_police_militarization_short.jp2" style="border: 1px solid #555;" alt="Screenshot from Restore Justice">
+                       </a>
+                   </div>
+</div>
+           </div>
 
 
    <div markdown="0"  class="container-fluid">
@@ -149,12 +210,6 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
 
 <hr class="section-heading-spacer">
 
-
-### Curriculum Vita <a id="CV"></a>
-
-I occasionally update my CV. For a semi-recent version, [click here]({{ site.baseurl }}/documents/CyrusOBrienCV-web.pdf). You can also see a [resume here]({{ site.baseurl }}/documents/CyrusOBrienResume-web.pdf).
-
-<hr class="section-heading-spacer">
 
 
 <small>Photo courtesy of WUSTL photos/Sid Hastings.</small>
