@@ -64,7 +64,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
    <div class="col-sm-6 clearfix">
                      <h4 class="section-heading">Federal Militarization of Law Enforcement Must End</h4>
 
-                     <p>  This piece is a collaboration with my brilliant colleague <a href="https://www.aclu.org/news/by/charlotte-lawrence/">Charlotte Lawrence</a>. <a href="https://www.aclu.org/news/criminal-law-reform/federal-militarization-of-law-enforcement-must-end/"> We tracked transfers of military equipment to state and local law enforcement agencies under the 1033 program, and advocate for the repeal of 1033.</a> We also propose that military equipment unsuitable for peaceful purposes be destroyed in environmentally friendly ways, such as being used in the creation and expansion of artificial reefs.</p>
+                     <p>This piece is a collaboration with my brilliant colleague <a href="https://www.aclu.org/news/by/charlotte-lawrence/">Charlotte Lawrence</a>. <a href="https://www.aclu.org/news/criminal-law-reform/federal-militarization-of-law-enforcement-must-end/"> We tracked transfers of military equipment to state and local law enforcement agencies under the 1033 program, and advocate for the repeal of 1033.</a> We also propose that military equipment unsuitable for peaceful purposes be destroyed in environmentally friendly ways, such as being used in the creation and expansion of artificial reefs.</p>
 
                </div>
                    <div class="col-sm-6 clearfix">
@@ -84,7 +84,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
 
                        <h4 class="section-heading">It's Past Time to End Federal Militarization of Police</h4>
 
-                       This blog post is a companion piece to the longer article, <strong>Federal Militarization of Law Enforcement Must End</strong>. I wrote this for the ACLU's blog and it provides a pithy synopsis of my collaboration with <a href="https://www.aclu.org/news/by/charlotte-lawrence/">Charlotte Lawrence</a>, who conducted all the quantitative analyses for both pieces.
+                       <a href="https://www.aclu.org/news/civil-liberties/its-past-time-to-end-the-federal-militarization-of-police/">This blog post</a> is a companion piece to the longer article, <strong>Federal Militarization of Law Enforcement Must End</strong>. I wrote this for the ACLU's blog and it provides a pithy synopsis of my collaboration with <a href="https://www.aclu.org/news/by/charlotte-lawrence/">Charlotte Lawrence</a>, who conducted all the quantitative analyses for both pieces.
 
                </div>
                    <div class="col-sm-6 clearfix">
