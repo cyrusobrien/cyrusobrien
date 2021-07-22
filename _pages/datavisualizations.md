@@ -3,11 +3,11 @@ title: "Digital History and Data Visualization"
 layout: textlay
 excerpt: "Digital History"
 sitemap: false
-permalink: /digitalhistory/
+permalink: /datavisualization/
 ---
 
 
-# Digital History and Data Visualization
+# Data Visualization and Digital History
 
 I'm interested in telling stories in multiple ways. At the encouragement of [Justin Jocque](http://justinjoque.com/), the Visualization Librarian at the [University of Michigan Library](https://www.lib.umich.edu/data-visualization), I learned [D3 (for Data-Driven Documents), the Javascript library](https://d3js.org/) created by Mike Bostock, formerly of the New York Times.
 
