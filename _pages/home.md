@@ -52,7 +52,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
                    <div class="col-sm-6 clearfix">
                         <a href="https://www.aclu.org/news/criminal-law-reform/how-america-disguised-35000-prison-beds/">
                              <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}images/picpic/65000_beds.jpg" style="border: 1px solid #555;" alt="a picture of the published report">
-                       </a>
+                        </a>
                    </div>
 </div>
            </div>
