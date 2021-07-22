@@ -154,7 +154,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
                </div>
                    <div class="col-sm-6 clearfix">
                         <a href="https://accountablejustice.github.io/report">
-                             <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/PAJwidethumbnail.jpg" alt="another picture of the published report">
+                             <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/PAJwidethumbnail.jpg" alt="another picture of the published report">
                        </a>
                    </div>
 </div>
@@ -170,7 +170,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
                </div>
                    <div class="col-sm-6 clearfix">
                         <a href="{{ site.url }}{{ site.baseurl }}/documents/2016-juvenile-justice-policy-brief-21.pdf">
-                             <img  class="img-responsive" width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/directfile.jpg" alt="another picture of the published report">
+                             <img style="border: 1px solid #555;" class="img-responsive" width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/directfile.jpg" alt="another picture of the published report">
                        </a>
                    </div>
 </div>
