@@ -46,7 +46,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
 
                        <h4 class="section-heading">How America Disguised 65,000 Prison Beds</h4>
 
-                       This article <a href="https://www.aclu.org/news/criminal-law-reform/how-america-disguised-35000-prison-beds/"> published on the ACLU's blog</a> summarizes key findings from my <em>Journal of American History</em> article. Recast for a popular audience, I highlight the dangers posed by "alternatives to incarceration." Determining which alternatives will dismantle mass incarceration -- rather than replicate it -- involves close attention to technologies for involuntary confinement, surveillance, and control.
+                       This article <a href="https://www.aclu.org/news/criminal-law-reform/how-america-disguised-35000-prison-beds/"> published on the ACLU's blog</a> summarizes key findings from my <em>Journal of American History</em> article. Recast for a popular audience, it highlights the dangers posed by "alternatives to incarceration." Determining which alternatives will dismantle mass incarceration -- rather than replicate it -- involves close attention to technologies for involuntary confinement, surveillance, and control.
 
                </div>
                    <div class="col-sm-6 clearfix">
