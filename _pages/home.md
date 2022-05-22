@@ -49,7 +49,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
                </div>
                    <div class="col-sm-6 clearfix">
                         <a href="https://www.aclu.org/report/no-eviction-without-representation">
-                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}images/picpic/ACLU-evictions.jp2" style="border: 1px solid #555;" alt="another picture of the published report">
+                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}images/picpic/ACLU-evictions.jpg" style="border: 1px solid #555;" alt="another picture of the published report">
                        </a>
                    </div>
 </div>
