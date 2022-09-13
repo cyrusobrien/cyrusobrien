@@ -37,6 +37,64 @@ My research has been supported by the [National Science Foundation](https://www.
 I have worked for more than a dozen years to reduce incarceration and promote justice. I worked for the [American Civil Liberties Union](https://www.aclu.org/news/by/cyrus-j-obrien-phd/), [Southern Poverty Law Center](https://www.splcenter.org/issues/childrens-rights), the [Annie E. Casey Foundation](http://www.aecf.org/work/juvenile-justice/), the [American Bar Association](https://www.americanbar.org/advocacy/rule_of_law/where_we_work/middle_east/morocco/programs.html), [Restore Justice](https://restorejustice.org/), and, from 2013 to 2020, the Project on Accountable Justice, a criminal justice reform think tank based at Florida State University. My projects to reduce incarceration have involved legislative advocacy, collaborative technical assistance to local courts and state corrections agencies, media campaigns, and assistance with litigation against a private juvenile prison. Some of this work has resulted in publications, a selection of which is below.
 
 
+   <div markdown="0"  class="container-fluid">
+   <hr class="section-heading-spacer">
+   <div class="row">
+   <div class="col-sm-6 clearfix">
+                     <h4 class="section-heading">Just Work: Barriers that Keep People with Records from Full Workforce Participation Cost Florida More than $40 Billion Annually</h4>
+
+                     <p>Six million Floridians have a criminal record. A <a href="https://allianceforsafetyandjustice.org/wp-content/uploads/2022/09/Alliance-for-Safety-and-Justice-Florida-Workforce-Report-September-2022.pdf"> joint publication of the Alliance for Safety and Justice and Assoicated Industries of Florida</a>, this report highlights the economic costs associated with the exclusion of Floridians with a record from the labor force. It recommends that Florida automate record clearance so people can more easily find work and so businesses can more easily find workers.</p>
+
+               </div>
+                   <div class="col-sm-6 clearfix">
+                        <a href="https://allianceforsafetyandjustice.org/wp-content/uploads/2022/09/Alliance-for-Safety-and-Justice-Florida-Workforce-Report-September-2022.pdf">
+                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}images/picpic/justwork.jpg" style="border: 1px solid #555;" alt="another picture of the published report">
+                       </a>
+                   </div>
+</div>
+           </div>
+
+
+
+
+   <div markdown="0"  class="container-fluid">
+   <hr class="section-heading-spacer">
+   <div class="row">
+   <div class="col-sm-6 clearfix">
+                     <h4 class="section-heading">Unwarranted: How East Baton Rouge Parish’s Warrant Practices Make Us Less Safe</h4>
+
+                     <p>Baton Rouge has an <a href="http://www.fairfightinitiative.org/unwarranted.pdf">unbelievable problem with warrants</a>. There is one active warrant in the parish for every three househoulds, meaning that if no one in your household has a warrant out for their arrest, odds are someone who lives nextdoor to you does. This report was published by The Fair Fight Initiative, the Baton Rouge Chapter of the National Association for the Advancement of Colored People, The Promise of Justice Initiative, Voices of the Experienced (VOTE), the Law Center of the Southern University System.</p>
+
+               </div>
+                   <div class="col-sm-6 clearfix">
+                        <a href="http://www.fairfightinitiative.org/unwarranted.pdf">
+                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}images/picpic/unwarranted.jpg" style="border: 1px solid #555;" alt="another picture of the published report">
+                       </a>
+                   </div>
+</div>
+           </div>
+
+
+
+
+   <div markdown="0"  class="container-fluid">
+   <hr class="section-heading-spacer">
+   <div class="row">
+   <div class="col-sm-6 clearfix">
+                     <h4 class="section-heading">Scaling Safety: A Roadmap to Close America's Safety Gaps</h4>
+
+                     <p>This is a <a href="https://allianceforsafetyandjustice.org/wp-content/uploads/2022/07/Alliance-for-Safety-and-Justice-Scaling-Safety-Report-July-2022.pdf"> major collaborative project</a> envisioning new pathways to real public safety. A brainchild of Lenore Anderson, many people worked on this publication. I contributed research, writing, and framing the project.</p>
+
+               </div>
+                   <div class="col-sm-6 clearfix">
+                        <a href="https://allianceforsafetyandjustice.org/wp-content/uploads/2022/07/Alliance-for-Safety-and-Justice-Scaling-Safety-Report-July-2022.pdf">
+                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}images/picpic/scalingsafety.jpg" style="border: 1px solid #555;" alt="another picture of the published report">
+                       </a>
+                   </div>
+</div>
+           </div>
+
+
 
    <div markdown="0"  class="container-fluid">
    <hr class="section-heading-spacer">
@@ -44,7 +102,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
    <div class="col-sm-6 clearfix">
                      <h4 class="section-heading">No Eviction without Representation: Evictions' Disproportionate Harms and the Promise of Right to Counsel</h4>
 
-                     <p>This report, co-branded by the American Civil Liberties Union and the National Coalition for a Civil Right to Counsel, summarizes existing reseach on the harms of eviction and how lawyers can help prevent and mitigate those harm. This report put the ACLU on record as supporting a civil right to counsel.</p>
+                     <p><a href="https://www.aclu.org/report/no-eviction-without-representation"> This report, co-branded by the American Civil Liberties Union and the National Coalition for a Civil Right to Counsel</a>, summarizes existing reseach on the harms of eviction and how lawyers can help prevent and mitigate those harm. This report put the ACLU on record as supporting a civil right to counsel.</p>
 
                </div>
                    <div class="col-sm-6 clearfix">
