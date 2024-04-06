@@ -11,7 +11,25 @@ permalink: /datavisualization/
 
 I'm interested in telling stories in multiple ways. At the encouragement of [Justin Jocque](http://justinjoque.com/), the Visualization Librarian at the [University of Michigan Library](https://www.lib.umich.edu/data-visualization), I learned [D3 (for Data-Driven Documents), the Javascript library](https://d3js.org/) created by Mike Bostock, formerly of the New York Times.
 
-The projects below use digital and computational methods to convey the growth of U.S. prison systems since 1970, racial disparities in Florida's criminal justice system, and the contradictory criminal justice policies that the Florida Legislature has enacted since 1970.
+The projects below are exapmles of recent and old projects that use digital and computational methods to convey the growth of U.S. prison systems since 1970, racial disparities in Florida's criminal justice system, and the contradictory criminal justice policies that the Florida Legislature has enacted since 1970.
+
+
+
+<hr class="section-heading-spacer">
+ <div markdown="0"  class="container-fluid">
+ <div class="row">
+                   <div class="col-sm-6 clearfix">
+                     <h3 class="section-heading">Chicago Arrests</h3>
+                        <p>The Chicago Police Department made nearly 640,000 arrests between 2013 to 2018, averaging more than 100,000 arrests a year. Racial disparities in arrests are profound. Police arrested Black men and boys more than 395,000 times between 2013 and 2018. Black men and boys made up more than 60% of all arrests in Chicago in this period, despite making up less than 15% of the population. These maps show where police make arrests alongside Census data showing where Black, Latino, and white people live. Arrests are especially concentrated in Census tracts where Black Americans comprise more than 80% of residents.<a href="{{ site.url }}{{ site.baseurl }}/datavisualization/chicago-arrests> Read more and see the interactive visualization...</a></p>
+               </div>
+                <div class="col-sm-6 clearfix">
+                  <a href="{{ site.url }}{{ site.baseurl }}/datavisualization/chicago-arrests">
+                                              <img  class="img-responsive" style="padding-top:10px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/chicago-census-tract.png" alt="this is a picture of a map showing census tracts in Chicago">
+                                        </a>
+                                  </div>
+           </div>
+  </div>
+
 
 
 <hr class="section-heading-spacer">
