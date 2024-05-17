@@ -41,6 +41,27 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
    <hr class="section-heading-spacer">
    <div class="row">
    <div class="col-sm-6 clearfix">
+                     <h4 class="section-heading">Lost Work, Pay, and Safety: Victims of Violence Urgently Need Safe Leave</h4>
+
+                     <p>American workers lose 6.7 million days of work each year due to violent victimizations. More than 200,000 people miss work each year, and half of all people who miss work also lose pay because their absences are not covered by paid leave policies such as paid safe leave or sick leave.<p>
+
+                     <p><a href="https://allianceforsafetyandjustice.org/wp-content/uploads/2024/04/LostWorkLostPayLostSafety.pdf">This report is the first in more than 20 years</a> to quantify the need for safe leave. It is also the first I am aware of to estimate how many people who miss work also lose pay. The report advocates for expansive safe leave policies so victims of violence and their families have the time and resources they need to heal and make themselves safe.
+
+               </div>
+                   <div class="col-sm-6 clearfix">
+                        <a href="https://allianceforsafetyandjustice.org/wp-content/uploads/2024/04/LostWorkLostPayLostSafety.pdf">
+                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}images/picpic/lost-work-pay-and-safety-thumbnail.png" style="border: 1px solid #555;" alt="another picture of the published report">
+                       </a>
+                   </div>
+</div>
+           </div>
+
+
+
+   <div markdown="0"  class="container-fluid">
+   <hr class="section-heading-spacer">
+   <div class="row">
+   <div class="col-sm-6 clearfix">
                      <h4 class="section-heading">Just Work: Barriers that Keep People with Records from Full Workforce Participation Cost Florida More than $40 Billion Annually</h4>
 
                      <p>Six million Floridians have a criminal record. A <a href="https://allianceforsafetyandjustice.org/wp-content/uploads/2022/09/Alliance-for-Safety-and-Justice-Florida-Workforce-Report-September-2022.pdf"> joint publication of the Alliance for Safety and Justice and Assoicated Industries of Florida</a>, this report highlights the economic costs associated with the exclusion of Floridians with a record from the labor force. It recommends that Florida automate record clearance so people can more easily find work and so businesses can more easily find workers.</p>
