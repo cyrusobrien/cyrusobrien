@@ -30,6 +30,20 @@ I use [ObservableHQ](https://observablehq.com/@cyrusobrien) as a place to tinker
            </div>
   </div>
 
+<hr class="section-heading-spacer">
+ <div markdown="0"  class="container-fluid">
+ <div class="row">
+                   <div class="col-sm-6 clearfix">
+                     <h3 class="section-heading">California Criminal Justice Data</h3>
+                        <p>I had an opportunity to collaborate with a team from the Center for Juvenile and Criminal Justice on a report about the percentage of reported crimes that are solved by law enforcement. <a href="https://www.cjcj.org/reports-publications/report/charts">I created these interactive data visualizations so reporters, advocates, and policymakers could easily explore the data in their jurisdictions</a></p>
+               </div>
+                <div class="col-sm-6 clearfix">
+                  <a href="{{ site.url }}{{ site.baseurl }}/datavisualization/chicago-arrests">
+                                              <img  class="img-responsive" style="padding-top:10px" src="{{ site.url }}{{ site.baseurl }}images/picpic/clearance_rate_map.png" alt="this is a picture of a map of California showing clerance rates by county">
+                                        </a>
+                                  </div>
+           </div>
+  </div>
 
 
 <hr class="section-heading-spacer">

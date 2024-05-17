@@ -45,7 +45,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
 
                      <p>American workers lose 6.7 million days of work each year due to violent victimizations. More than 200,000 people miss work each year, and half of all people who miss work also lose pay because their absences are not covered by paid leave policies such as paid safe leave or sick leave.<p>
 
-                     <p><a href="https://allianceforsafetyandjustice.org/wp-content/uploads/2024/04/LostWorkLostPayLostSafety.pdf">This report is the first in more than 20 years</a> to quantify the need for safe leave. It is also the first I am aware of to estimate how many people who miss work also lose pay. The report advocates for expansive safe leave policies so victims of violence and their families have the time and resources they need to heal and make themselves safe.
+                     <p><a href="https://allianceforsafetyandjustice.org/wp-content/uploads/2024/04/LostWorkLostPayLostSafety.pdf">This report is the first in more than 20 years</a> to quantify the need for safe leave. It is also the first I am aware of to estimate how many people who miss work also lose pay. The report advocates for expansive safe leave policies so victims of violence and their families have the time and resources they need to heal and make themselves safe.</p>
 
                </div>
                    <div class="col-sm-6 clearfix">
