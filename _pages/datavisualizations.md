@@ -39,7 +39,7 @@ I use [ObservableHQ](https://observablehq.com/@cyrusobrien) as a place to tinker
                </div>
                 <div class="col-sm-6 clearfix">
                   <a href="{{ site.url }}{{ site.baseurl }}/datavisualization/chicago-arrests">
-                                              <img  class="img-responsive" style="padding-top:10px" src="{{ site.url }}{{ site.baseurl }}images/picpic/clearance_rate_map.png" alt="this is a picture of a map of California showing clerance rates by county">
+                                              <img  class="img-responsive" style="padding-top:10px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/clearance_rate_map.png" alt="this is a picture of a map of California showing clerance rates by county">
                                         </a>
                                   </div>
            </div>
