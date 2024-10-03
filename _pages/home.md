@@ -44,7 +44,7 @@ I have worked for more than a dozen years to reduce incarceration and promote ju
    <hr class="section-heading-spacer">
    <div class="row">
    <div class="col-sm-6 clearfix">
-                     <h4 class="section-heading">Crime Survivors Speak 2024: A National Survey of Victim' Views on Safety and Justice</h4>
+                     <h4 class="section-heading">Crime Survivors Speak 2024: A National Survey of Victims' Views on Safety and Justice</h4>
 
                      <p>Contrary to popular assumptions, victims of violence do not support tough-on-crime policies. Victims of violence overwhelmingly reject long sentences as the solution to crime.</p>
 
