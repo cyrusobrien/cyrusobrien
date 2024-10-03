@@ -37,6 +37,29 @@ My research has been supported by the [National Science Foundation](https://www.
 I have worked for more than a dozen years to reduce incarceration and promote justice. I worked for the [American Civil Liberties Union](https://www.aclu.org/news/by/cyrus-j-obrien-phd/), [Southern Poverty Law Center](https://www.splcenter.org/issues/childrens-rights), the [Annie E. Casey Foundation](http://www.aecf.org/work/juvenile-justice/), the [American Bar Association](https://www.americanbar.org/advocacy/rule_of_law/where_we_work/middle_east/morocco/programs.html), [Restore Justice](https://restorejustice.org/), and, from 2013 to 2020, the Project on Accountable Justice, a criminal justice reform think tank based at Florida State University. My projects to reduce incarceration have involved legislative advocacy, collaborative technical assistance to local courts and state corrections agencies, media campaigns, and assistance with litigation against a private juvenile prison. Some of this work has resulted in publications, a selection of which is below.
 
 
+
+
+
+   <div markdown="0"  class="container-fluid">
+   <hr class="section-heading-spacer">
+   <div class="row">
+   <div class="col-sm-6 clearfix">
+                     <h4 class="section-heading">Crime Survivors Speak 2024: A National Survey of Victim' Views on Safety and Justice</h4>
+
+                     <p>Contrary to popular assumptions, victims of violence do not support tough-on-crime policies. Victims of violence overwhelmingly reject long sentences as the solution to crime.</p>
+
+                     <p><a href="https://asj.allianceforsafetyandjustice.org/crime-survivors-speak-2024/">This report is based on a national survey of victims of violence.</a> In addition to showcasing their views of justice and safety policy, the report shows that survivors of violence experience major hardship - PTSD, bankruptcy, depression, and more - at much higher rates than people who did not experience violence.</p>
+
+               </div>
+                   <div class="col-sm-6 clearfix">
+                        <a href="https://asj.allianceforsafetyandjustice.org/crime-survivors-speak-2024/">
+                             <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}images/picpic/crime-survivors-speak-2024-thumbnail.jpg" style="border: 1px solid #555;" alt="another picture of the published report">
+                       </a>
+                   </div>
+</div>
+           </div>
+
+
    <div markdown="0"  class="container-fluid">
    <hr class="section-heading-spacer">
    <div class="row">
