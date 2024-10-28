@@ -5,6 +5,7 @@ excerpt: "CQI Demo"
 sitemap: false
 permalink: cqi-demo.html
 ---
+<head>
 <style>
     html, body {
       height: 100%;            /* Ensure full height for the parent containers */
@@ -40,7 +41,7 @@ permalink: cqi-demo.html
   <div id="observablehq-viewof-excel_input-ede234bb"></div>
   <div id="observablehq-chart1-ede234bb"></div>
   <div id="observablehq-summary-ede234bb"></div>
-  
+  </body>
   
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
   <script type="module">
