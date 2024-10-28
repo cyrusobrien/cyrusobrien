@@ -27,7 +27,7 @@ permalink: cqi-demo.html
   </style>
 </head>
 <body>
-
+ <div id="responsive-div">
   <div id="observablehq-viewof-m1-ede234bb"></div>
   <div id="observablehq-viewof-m2-ede234bb"></div>
   <div id="observablehq-viewof-m3-ede234bb"></div>
@@ -41,6 +41,7 @@ permalink: cqi-demo.html
   <div id="observablehq-viewof-excel_input-ede234bb"></div>
   <div id="observablehq-chart1-ede234bb"></div>
   <div id="observablehq-summary-ede234bb"></div>
+  </div>
   </body>
   
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
