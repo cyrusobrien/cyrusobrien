@@ -10,7 +10,7 @@ permalink: /
 
 ![a portrait of me, taken when I was a bit skinnier]({{ site.url }}{{ site.baseurl }}/images/webportrait3.jpg){: class="floatpic"}
 
-I am a researcher and advocate working against mass incarceration, militarized policing, and racial inequality. I am currently a Senior Researcher at the [Alliance for Safety and Justice](https://allianceforsafetyandjustice.org/), where I have worked since 2021. I was recently a [Mellon/ACLS Public Fellow](https://www.acls.org/Recent-Awardees/Mellon-ACLS-Public-Fellows) and a Research Fellow at the [American Civil Liberties Union](https://www.aclu.org/news/by/cyrus-j-obrien-phd/).
+I am a researcher and advocate working against mass incarceration, militarized policing, and racial inequality. I am currently a Senior Researcher at the [Alliance for Safety and Justice](https://allianceforsafetyandjustice.org/), where I have worked since 2021. I was recently a [Mellon/ACLS Public Fellow]([https://www.acls.org/Recent-Awardees/Mellon-ACLS-Public-Fellows](https://www.acls.org/fellow-grantees/cyrus-j-obrien/) and a Research Fellow at the [American Civil Liberties Union](https://www.aclu.org/news/by/cyrus-j-obrien-phd/).
 
 I earned a PhD in Anthropology and History from the University of Michigan, which awarded me its top dissertation prize, the [ProQuest Distinguished Dissertation Award](https://rackham.umich.edu/faculty-and-staff/awards/distinguished-dissertation-awards/). I completed a postdoctoral fellowship at the [Danforth Center for Religion and Politics at Washington University in St. Louis](http://rap.wustl.edu/bio/cyrus-obrien/), where I taught about U.S. History, Race, Religion, and Politics.
 
