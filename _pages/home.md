@@ -20,7 +20,7 @@ The [_Journal of American History_](https://jah.oah.org/) published my article, 
 <hr class="section-heading-spacer">
 
 
-### Research in the Humanities and Social Sciences
+### A Social Science Researcher
 
 I have extensive experience conducting research in and about prisons and related institutions. With funding from the National Science Foundation and the Wenner-Gren Foundation, I conducted thirteen months of ethnographic research in a 3,600-bed prison in North Florida. I have also led short-term research projects with people living in reentry centers, on probation, and on parole. My experience in and around contemporary criminal justice institutions is bolstered by my historical research of twentieth century correctional systems, especially "innovations" such as halfway houses, community corrections, and community policing. My interest is not merely to understand how institutional forms of treatment and punishment took shape, but also to highlight the experiences of the people who lived and worked within them.
 
