@@ -1,543 +1,604 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sliders by Standard</title>
-  <style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sliders by Standard</title>
+    <style>
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 0 1rem;
+        }
 
-h1 {
-    font-family: Arial;
+        h1 {
+            font-family: Arial;
 
-    color: #DA5521} 
-
-
-h2 {
-    font-family: Arial;
-    font-variant: small-caps;
-    color: #DA5521} 
+            color: #DA5521
+        }
 
 
+        h2 {
+            font-family: Arial;
+            font-variant: small-caps;
+            color: #DA5521
+        }
 
-body {
-    font-family: Arial;
-    min-height: calc(100vh - 20rem);
-    position: relative;
-    z-index: 0;
-}
 
-.oi1 {
-      --length2: 6.5px;
-      --length3: 13px;
-      --label-width: 500px;
-      --input-width: 240px;
-      font: 14px/1.5 sans-serif;
-      display: flex;
-      align-items: center;
-      flex-wrap: wrap;
-      min-height: 25.5px;
-      margin: var(--length3) 0;
-    }
-    .oi1 > label {
-      width: 100%;
-      padding-bottom: 3px;
-      font-family: Arial;
-    }
-    .oi1 > input[type="range"] {
-      margin: 0;
-      width: var(--input-width);
-    }
-    @media only screen and (max-width: 30em) {
-      .oi1 > input[type="range"] {
-        width: 100%; /* Make the slider full-width */
-      }
-    }
-    @media only screen and (min-width: 30em) {
-      .oi1 {
-        flex-wrap: nowrap;
-        width: calc(var(--input-width) + var(--label-width));
-        max-width: 100%;
-        margin: initial;
-      }
-      .oi1 > label {
-        flex-shrink: 0;
-        align-self: start;
-        padding: 5px 0 4px 0;
-        width: var(--label-width);
-        margin-right: var(--length2);
-      }
-    }
 
-    .hover-bar {
-        fill-opacity: 1;
-    }
+        body {
+            font-family: Arial;
+            min-height: calc(100vh - 20rem);
+            position: relative;
+            z-index: 0;
+        }
 
-    .hover-bar:hover {
-        fill-opacity: .7
-    }
-  </style>
+        .oi1 {
+            --length2: 6.5px;
+            --length3: 13px;
+            --label-width: 68%;
+            --input-width: 32%;
+            font: 14px/1.5 sans-serif;
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            min-height: 25.5px;
+            margin: var(--length3) 0;
+        }
+
+        .oi1>label {
+            width: 100%;
+            padding-bottom: 3px;
+            font-family: Arial;
+        }
+
+        .oi1>input[type="range"] {
+            margin: 0;
+            width: var(--input-width);
+        }
+
+        @media only screen and (max-width: 30em) {
+            .oi1>input[type="range"] {
+                width: 100%;
+                /* Make the slider full-width */
+            }
+        }
+
+        @media only screen and (min-width: 30em) {
+            .oi1 {
+                flex-wrap: nowrap;
+                width: calc(var(--input-width) + var(--label-width));
+                max-width: 100%;
+                margin: initial;
+            }
+
+            .oi1>label {
+                flex-shrink: 0;
+                align-self: start;
+                padding: 5px 0 4px 0;
+                width: var(--label-width);
+                margin-right: var(--length2);
+            }
+        }
+
+        .hover-bar {
+            fill-opacity: 1;
+        }
+
+        .hover-bar:hover {
+            fill-opacity: .7
+        }
+
+
+        .button-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 40px;
+            padding-bottom: 40px;
+        }
+    </style>
 </head>
 <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
 <script src="https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6"></script>
 <script src="https://cdn.jsdelivr.net/npm/htl@0.3.1/dist/htl.min.js"></script>
 
 <body>
+    <div class="container">
 
-    <h1>CQI Mockup</h2>
+        <h1>CQI Mockup</h1>
 
-    <div id="chart"></div>
+        <div id="chart"></div>
 
-    <div id="results"></div>
+        <div id="results"></div>
 
-      <h2>Standard 1: Partnership with Youth, Families and Communities</h2>
-    <div id="standard-1"></div>
-  
-    <h2>Standard 2: Explicit Focus on Race Equity</h2>
-    <div id="standard-2"></div>
-  
-    <h2>Standard 3: Leadership Commitment</h2>
-    <div id="standard-3"></div>
-  
-    <h2>Standard 4: Staff Engagement and Support</h2>
-    <div id="standard-4"></div>
-  
-    <h2>Standard 5: Reliance on Probation for Most Serious Offenses</h2>
-    <div id="standard-5"></div>
-  
-    <h2>Standard 6: Diversion</h2>
-    <div id="standard-6"></div>
-  
-    <h2>Standard 7: Relationship-Based Probation</h2>
-    <div id="standard-7"></div>
-  
-    <h2>Standard 8: Few and Focused Probation Conditions</h2>
-    <div id="standard-8"></div>
-  
-    <h2>Standard 9: Alternatives to Confinement in Response to Violations</h2>
-    <div id="standard-9"></div>
-  
-    <h2>Standard 10: Active Data Use</h2>
-    <div id="standard-10"></div>
-  
-  
-  <br>
-  
-    <button id="button">Submit</button>
-
-  <script>
-  
-  
-    // Labels for the sliders
-    const labels = [
-      "The department maintains partnerships with community organizations and other caring adults in neighborhoods where young people on probation live. Probation staff rely on those non-system partners to connect young people with positive opportunities, such as exploring their interests, building skills and contributing to the well-being of their communities.",
-      "The department employs or contracts with peer mentors or navigators to support families.",
-      "Fines and fees are not imposed on young people or their families.",
-      "Youth and families served by the system are involved in juvenile justice planning and compensated accordingly.",
-      "Probation and other court actors routinely examine and revise their own policies and practices to better accommodate the needs of families.",
-      "Staff culture encourages courageous conversations about the intersection of race and the department’s work.",
-      "Data is disaggregated by race, and results are analyzed to identify decision points exacerbating disparities and opportunities to advance racial equity.",
-      "A high-level committee or work group within the department is empowered to pursue an agenda to promote racial and ethnic equity.",
-      "Equity problems are identified and monitored, and strategies are developed to make meaningful and measurable improvements.",
-      "Training programs for new probation staff include the essentials of probation transformation: expanding the use of diversion, minimizing out-of-home placements, limiting probation supervision time, regarding probation officers as coaches not referees, focusing probation on promoting youth well-being, achieving equity for youth of color, and relying on community-based organizations, youth and families as true partners.",
-      "System leaders approach annual budget processes as opportunities to support probation transformation and increase funding for positive youth development services.",
-      "Department leadership continually seeks and responds to feedback from young people, families, staff and other stakeholders.",
-      "Department leadership holds annual convenings to evaluate and plan for probation transformation that include participation by staff, community members, family members and young people with lived experience.",
-      "Department leaders include staff with active caseloads in planning for new or revised policies.",
-      "Probation leadership prioritizes communication between staff and management and offers mechanisms to support it, such as team meetings.",
-      "Probation leadership makes trend data available to staff and encourages staff to share ideas, identify issues and hold leaders accountable for solutions.",
-      "Probation administration provides incentives for staff to contribute to probation transformation and supports emerging leaders.",
-      "At least 70% of new probation cases are based on an underlying felony adjudication.",
-      "Department policy and/or court practice provides that probation officers may not recommend disposition to an out-of-home placement until a family team meeting and/or case staff meeting has been convened to explore all possible alternatives, including emergency intervention strategies.",
-      "Funding mechanisms at the county and state levels exist to incentivize the use of probation over placement, and local decision-makers leverage those funding mechanisms to maximize resources for community-based support and interventions.",
-      "Department policy does not mandate out-of-home placement for any youth, regardless of offense or risk profile. Statutory mandates are narrowly applied and tracked annually.",
-      "At least 60% of youth accused of delinquent conduct are diverted from juvenile probation, including all youth who do not pose a significant risk to public safety.",
-      "Law enforcement and schools use alternatives-to-arrest for youth involved in disruptive behavior.",
-      "Following an arrest, prosecutors, probation departments and/or court-based intake staff have options to divert young people away from juvenile probation and toward community-based support, services and accountability.",
-      "Youth have access to an array of diversion options, which may include simple warnings, restorative justice interventions and referrals for individual services.",
-      "There is no informal probation (whereby youth diverted from formal court processing are overseen by probation officers and required to comply with probation conditions).",
-      "Diversion opportunities are not conditional (non-compliance doesn’t pull the youth back into the system).",
-      "A single community-based organization or a coalition of organizations oversees and coordinates diversion from juvenile court.",
-      "Young people and families, defined broadly, are included in case planning.",
-      "Case plans address identified needs, engage young people in positive youth development activities and contain realistic expectations and goals that are meaningful to young people and their families.",
-      "Probation staff who supervise youth act more like coaches than referees.",
-      "The duration of probation supervision rarely exceeds six to nine months, and almost never exceeds one year.",
-      "Case management prioritizes incentives to encourage positive behavior by offering opportunities and rewards valued by youth.",
-      "Incentives are used more than sanctions within every youth case development plan based on a 5-1 ratio.",
-      "In collaboration with the court, probation orders limit the number of conditions to five or fewer.",
-      "Probation orders are framed in terms of individualized expectations and goals, rather than boilerplate conditions.",
-      "The department uses a structured decision process that eliminates the use of confinement as a consequence for technical violations.",
-      "A supervisory review, including an immediate discussion of available alternatives to confinement, is conducted for every youth who repeatedly violates probation rules.",
-      "The department invests more heavily in person-based alternatives to confinement than in technology, such as electronic monitoring. Person-based alternatives to confinement include referrals to services, connection to a mentor, restorative practices and/or evening reporting centers.",
-      "The juvenile probation department compiles annual statistics on basic measures, including incoming referrals, formal prosecutions, dispositions to probation and out-of-home placement, admissions to detention, and length of stay in detention, on supervision and in placement. Each of those basic measures is broken down in terms of race, ethnicity, gender, ZIP code and most serious alleged offense.",
-      "In addition to quantitative data, the department uses surveys or focus groups to collect qualitative data from staff, family and young people. Qualitative data are reviewed, evaluated and used to inform policy, practice and programs.",
-      "On an annual basis, the department conducts case reviews on a random sample of 10% of out-of-home placements to ask what policies, practices, programs or partnerships would have been required to avoid placement.",
-      "On an annual basis, the department leads or participates in a root-cause analysis to identify underlying causes for racial and ethnic disparities and devises strategies to address imbalances in the quality, availability and cultural responsiveness of programs and services."
-    ];
-
-  
-const other_data = [
-  {
-    "color": "#DA5521",
-    "standard": "Partnership",
-    "short": "Partnerships with community organizations"
-  },
-  {
-    "color": "#DA5521",
-    "standard": "Partnership",
-    "short": "Peer mentors or navigators support"
-  },
-  {
-    "color": "#DA5521",
-    "standard": "Partnership",
-    "short": "No fines and fees on families"
-  },
-  {
-    "color": "#DA5521",
-    "standard": "Partnership",
-    "short": "Youth involvement in planning"
-  },
-  {
-    "color": "#DA5521",
-    "standard": "Partnership",
-    "short": "Policies revised for family needs"
-  },
-  {
-    "color": "#8e8a8a",
-    "standard": "Focus on Race Equity",
-    "short": "Staff discuss race and equity"
-  },
-  {
-    "color": "#8e8a8a",
-    "standard": "Focus on Race Equity",
-    "short": "Data analyzed for disparities"
-  },
-  {
-    "color": "#8e8a8a",
-    "standard": "Focus on Race Equity",
-    "short": "Committee promotes racial equity"
-  },
-  {
-    "color": "#8e8a8a",
-    "standard": "Focus on Race Equity",
-    "short": "Equity strategies monitored annually"
-  },
-  {
-    "color": "#005293",
-    "standard": "Leadership",
-    "short": "Training emphasizes probation transformation"
-  },
-  {
-    "color": "#005293",
-    "standard": "Leadership",
-    "short": "Budgets fund youth services"
-  },
-  {
-    "color": "#005293",
-    "standard": "Leadership",
-    "short": "Leadership seeks stakeholder feedback"
-  },
-  {
-    "color": "#005293",
-    "standard": "Leadership",
-    "short": "Annual convenings for transformation planning"
-  },
-  {
-    "color": "#E8AF1D",
-    "standard": "Staff Engagement",
-    "short": "Staff included in policy updates"
-  },
-  {
-    "color": "#E8AF1D",
-    "standard": "Staff Engagement",
-    "short": "Communication between staff and leadership"
-  },
-  {
-    "color": "#E8AF1D",
-    "standard": "Staff Engagement",
-    "short": "Trend data shared with staff"
-  },
-  {
-    "color": "#E8AF1D",
-    "standard": "Staff Engagement",
-    "short": "Staff incentives for transformation contributions"
-  },
-  {
-    "color": "#595959",
-    "standard": "Probation for Most Serious Offenses",
-    "short": "70% of cases tied to felonies"
-  },
-  {
-    "color": "#595959",
-    "standard": "Probation for Most Serious Offenses",
-    "short": "Alternatives to placement required first"
-  },
-  {
-    "color": "#595959",
-    "standard": "Probation for Most Serious Offenses",
-    "short": "Funding favors probation over placement"
-  },
-  {
-    "color": "#595959",
-    "standard": "Probation for Most Serious Offenses",
-    "short": "No mandatory out-of-home placements"
-  },
-  {
-    "color": "#97A825",
-    "standard": "Diversion",
-    "short": "60% of youth diverted from probation"
-  },
-  {
-    "color": "#97A825",
-    "standard": "Diversion",
-    "short": "Schools and police use arrest alternatives"
-  },
-  {
-    "color": "#97A825",
-    "standard": "Diversion",
-    "short": "Arrest diversion supports community services"
-  },
-  {
-    "color": "#97A825",
-    "standard": "Diversion",
-    "short": "Diversion options include justice and services"
-  },
-  {
-    "color": "#97A825",
-    "standard": "Diversion",
-    "short": "No informal probation for diverted youth"
-  },
-  {
-    "color": "#97A825",
-    "standard": "Diversion",
-    "short": "Diversion non-compliance isn’t penalized"
-  },
-  {
-    "color": "#97A825",
-    "standard": "Diversion",
-    "short": "Diversion coordinated by organizations"
-  },
-  {
-    "color": "#5A5284",
-    "standard": "Relationship-Based Probation",
-    "short": "Families included in case planning"
-  },
-  {
-    "color": "#5A5284",
-    "standard": "Relationship-Based Probation",
-    "short": "Case plans focus on goals and needs"
-  },
-  {
-    "color": "#5A5284",
-    "standard": "Relationship-Based Probation",
-    "short": "Staff act as coaches, not referees"
-  },
-  {
-    "color": "#5A5284",
-    "standard": "Relationship-Based Probation",
-    "short": "Supervision lasts under one year"
-  },
-  {
-    "color": "#5A5284",
-    "standard": "Relationship-Based Probation",
-    "short": "Incentives prioritize positive behavior"
-  },
-  {
-    "color": "#5A5284",
-    "standard": "Relationship-Based Probation",
-    "short": "Incentives outnumber sanctions 5-1"
-  },
-  {
-    "color": "#F7EED4",
-    "standard": "Probation Conditions",
-    "short": "Orders limit conditions to five or fewer"
-  },
-  {
-    "color": "#F7EED4",
-    "standard": "Probation Conditions",
-    "short": "Orders focus on individualized goals"
-  },
-  {
-    "color": "#849120",
-    "standard": "Alternatives to Confinement",
-    "short": "No confinement for technical violations"
-  },
-  {
-    "color": "#849120",
-    "standard": "Alternatives to Confinement",
-    "short": "Reviews assess alternatives to confinement"
-  },
-  {
-    "color": "#849120",
-    "standard": "Alternatives to Confinement",
-    "short": "Person-based alternatives prioritized over tech"
-  },
-  {
-    "color": "#e3dddd",
-    "standard": "Data Use",
-    "short": "Annual stats include demographic breakdowns"
-  },
-  {
-    "color": "#e3dddd",
-    "standard": "Data Use",
-    "short": "Surveys and focus groups inform policies"
-  },
-  {
-    "color": "#e3dddd",
-    "standard": "Data Use",
-    "short": "Case reviews explore placement alternatives"
-  },
-  {
-    "color": "#e3dddd",
-    "standard": "Data Use",
-    "short": "Root-cause analyses target disparities"
-  }
-];
-    function set(input, value) {
-      input.value = value;
-      input.dispatchEvent(new Event("input", { bubbles: true }));
-    }
-
-    function createSimpleRange([min, max], { label, value, step = 1 }) {
-      const form = document.createElement("form");
-      form.className = "oi1";
-
-      const labelElement = document.createElement("label");
-      labelElement.textContent = label;
-
-      const input = document.createElement("input");
-      input.type = "range";
-      input.min = min;
-      input.max = max;
-      input.step = step;
-      input.value = value;
-
-      form.appendChild(labelElement);
-      form.appendChild(input);
-
-      // Forward the input events
-      return { form, rangeInput: input, labelText: label };
-    }
-
-// Container for sliders 
-const standards = [
-  { id: "standard-1", startIndex: 0, count: 4 },
-  { id: "standard-2", startIndex: 4, count: 4 },
-  { id: "standard-3", startIndex: 8, count: 4 },
-  { id: "standard-4", startIndex: 12, count: 4 },
-  { id: "standard-5", startIndex: 16, count: 4 },
-  { id: "standard-6", startIndex: 20, count: 7 },
-  { id: "standard-7", startIndex: 27, count: 6 },
-  { id: "standard-8", startIndex: 33, count: 2 },
-  { id: "standard-9", startIndex: 35, count: 3 },
-  { id: "standard-10", startIndex: 38, count: 4 },
-];
-
-const sliders = [];
-
-standards.forEach(({ id, startIndex, count }) => {
-  const container = document.getElementById(id);
-  if (!container) return;
-  for (let i = startIndex; i < startIndex + count; i++) {
-    const { form, rangeInput, labelText } = createSimpleRange([1, 100], {
-      label: labels[i],
-      value: 1,
-    });
-    container.appendChild(form);
+        <div id="chart2"></div>
 
 
-    sliders.push({ id: `m${i + 1}`, form, rangeInput, labelText });
-  }
-});
+        <h2>Standard 1: Partnership with Youth, Families and Communities</h2>
+        <div id="standard-1"></div>
 
-function topFunction() {
-  document.body.scrollTop = 0; // For Safari
-  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
-}
+        <h2>Standard 2: Explicit Focus on Race Equity</h2>
+        <div id="standard-2"></div>
 
-document.getElementById("button").addEventListener("click", () => {
-      const input_data = sliders.map((slider, index) => ({
-        label: slider.labelText,
-        value: parseFloat(slider.rangeInput.value),
-        ...other_data[index % other_data.length],
-      }));
+        <h2>Standard 3: Leadership Commitment</h2>
+        <div id="standard-3"></div>
 
-      const data = input_data.map((d, i) => ({
-        ...d,
-        ...other_data[i % other_data.length], 
-      }));
+        <h2>Standard 4: Staff Engagement and Support</h2>
+        <div id="standard-4"></div>
+
+        <h2>Standard 5: Reliance on Probation for Most Serious Offenses</h2>
+        <div id="standard-5"></div>
+
+        <h2>Standard 6: Diversion</h2>
+        <div id="standard-6"></div>
+
+        <h2>Standard 7: Relationship-Based Probation</h2>
+        <div id="standard-7"></div>
+
+        <h2>Standard 8: Few and Focused Probation Conditions</h2>
+        <div id="standard-8"></div>
+
+        <h2>Standard 9: Alternatives to Confinement in Response to Violations</h2>
+        <div id="standard-9"></div>
+
+        <h2>Standard 10: Active Data Use</h2>
+        <div id="standard-10"></div>
 
 
-      const sortedData = [...data].sort((a, b) => a.value - b.value);
-      const lowestScores = sortedData.slice(0, 3);
+        <br>
+        <div class="button-container">
+            <button id="button">Submit</button>
+        </div>
+    </div>
+
+    <script>
+
+
+        const labels = [
+            "The department maintains partnerships with community organizations and other caring adults in neighborhoods where young people on probation live. Probation staff rely on those non-system partners to connect young people with positive opportunities, such as exploring their interests, building skills and contributing to the well-being of their communities.",
+            "The department employs or contracts with peer mentors or navigators to support families.",
+            "Fines and fees are not imposed on young people or their families.",
+            "Youth and families served by the system are involved in juvenile justice planning and compensated accordingly.",
+            "Probation and other court actors routinely examine and revise their own policies and practices to better accommodate the needs of families.",
+            "Staff culture encourages courageous conversations about the intersection of race and the department’s work.",
+            "Data is disaggregated by race, and results are analyzed to identify decision points exacerbating disparities and opportunities to advance racial equity.",
+            "A high-level committee or work group within the department is empowered to pursue an agenda to promote racial and ethnic equity.",
+            "Equity problems are identified and monitored, and strategies are developed to make meaningful and measurable improvements.",
+            "Training programs for new probation staff include the essentials of probation transformation: expanding the use of diversion, minimizing out-of-home placements, limiting probation supervision time, regarding probation officers as coaches not referees, focusing probation on promoting youth well-being, achieving equity for youth of color, and relying on community-based organizations, youth and families as true partners.",
+            "System leaders approach annual budget processes as opportunities to support probation transformation and increase funding for positive youth development services.",
+            "Department leadership continually seeks and responds to feedback from young people, families, staff and other stakeholders.",
+            "Department leadership holds annual convenings to evaluate and plan for probation transformation that include participation by staff, community members, family members and young people with lived experience.",
+            "Department leaders include staff with active caseloads in planning for new or revised policies.",
+            "Probation leadership prioritizes communication between staff and management and offers mechanisms to support it, such as team meetings.",
+            "Probation leadership makes trend data available to staff and encourages staff to share ideas, identify issues and hold leaders accountable for solutions.",
+            "Probation administration provides incentives for staff to contribute to probation transformation and supports emerging leaders.",
+            "At least 70% of new probation cases are based on an underlying felony adjudication.",
+            "Department policy and/or court practice provides that probation officers may not recommend disposition to an out-of-home placement until a family team meeting and/or case staff meeting has been convened to explore all possible alternatives, including emergency intervention strategies.",
+            "Funding mechanisms at the county and state levels exist to incentivize the use of probation over placement, and local decision-makers leverage those funding mechanisms to maximize resources for community-based support and interventions.",
+            "Department policy does not mandate out-of-home placement for any youth, regardless of offense or risk profile. Statutory mandates are narrowly applied and tracked annually.",
+            "At least 60% of youth accused of delinquent conduct are diverted from juvenile probation, including all youth who do not pose a significant risk to public safety.",
+            "Law enforcement and schools use alternatives-to-arrest for youth involved in disruptive behavior.",
+            "Following an arrest, prosecutors, probation departments and/or court-based intake staff have options to divert young people away from juvenile probation and toward community-based support, services and accountability.",
+            "Youth have access to an array of diversion options, which may include simple warnings, restorative justice interventions and referrals for individual services.",
+            "There is no informal probation (whereby youth diverted from formal court processing are overseen by probation officers and required to comply with probation conditions).",
+            "Diversion opportunities are not conditional (non-compliance doesn’t pull the youth back into the system).",
+            "A single community-based organization or a coalition of organizations oversees and coordinates diversion from juvenile court.",
+            "Young people and families, defined broadly, are included in case planning.",
+            "Case plans address identified needs, engage young people in positive youth development activities and contain realistic expectations and goals that are meaningful to young people and their families.",
+            "Probation staff who supervise youth act more like coaches than referees.",
+            "The duration of probation supervision rarely exceeds six to nine months, and almost never exceeds one year.",
+            "Case management prioritizes incentives to encourage positive behavior by offering opportunities and rewards valued by youth.",
+            "Incentives are used more than sanctions within every youth case development plan based on a 5-1 ratio.",
+            "In collaboration with the court, probation orders limit the number of conditions to five or fewer.",
+            "Probation orders are framed in terms of individualized expectations and goals, rather than boilerplate conditions.",
+            "The department uses a structured decision process that eliminates the use of confinement as a consequence for technical violations.",
+            "A supervisory review, including an immediate discussion of available alternatives to confinement, is conducted for every youth who repeatedly violates probation rules.",
+            "The department invests more heavily in person-based alternatives to confinement than in technology, such as electronic monitoring. Person-based alternatives to confinement include referrals to services, connection to a mentor, restorative practices and/or evening reporting centers.",
+            "The juvenile probation department compiles annual statistics on basic measures, including incoming referrals, formal prosecutions, dispositions to probation and out-of-home placement, admissions to detention, and length of stay in detention, on supervision and in placement. Each of those basic measures is broken down in terms of race, ethnicity, gender, ZIP code and most serious alleged offense.",
+            "In addition to quantitative data, the department uses surveys or focus groups to collect qualitative data from staff, family and young people. Qualitative data are reviewed, evaluated and used to inform policy, practice and programs.",
+            "On an annual basis, the department conducts case reviews on a random sample of 10% of out-of-home placements to ask what policies, practices, programs or partnerships would have been required to avoid placement.",
+            "On an annual basis, the department leads or participates in a root-cause analysis to identify underlying causes for racial and ethnic disparities and devises strategies to address imbalances in the quality, availability and cultural responsiveness of programs and services."
+        ];
+
+
+        const other_data = [
+            {
+                "color": "#DA5521",
+                "standard": "Partnership",
+                "short": "Partnerships with community organizations"
+            },
+            {
+                "color": "#DA5521",
+                "standard": "Partnership",
+                "short": "Peer mentors or navigators support"
+            },
+            {
+                "color": "#DA5521",
+                "standard": "Partnership",
+                "short": "No fines and fees on families"
+            },
+            {
+                "color": "#DA5521",
+                "standard": "Partnership",
+                "short": "Youth involvement in planning"
+            },
+            {
+                "color": "#DA5521",
+                "standard": "Partnership",
+                "short": "Policies revised for family needs"
+            },
+            {
+                "color": "#8e8a8a",
+                "standard": "Focus on Race Equity",
+                "short": "Staff discuss race and equity"
+            },
+            {
+                "color": "#8e8a8a",
+                "standard": "Focus on Race Equity",
+                "short": "Data analyzed for disparities"
+            },
+            {
+                "color": "#8e8a8a",
+                "standard": "Focus on Race Equity",
+                "short": "Committee promotes racial equity"
+            },
+            {
+                "color": "#8e8a8a",
+                "standard": "Focus on Race Equity",
+                "short": "Equity strategies monitored annually"
+            },
+            {
+                "color": "#005293",
+                "standard": "Leadership",
+                "short": "Training emphasizes probation transformation"
+            },
+            {
+                "color": "#005293",
+                "standard": "Leadership",
+                "short": "Budgets fund youth services"
+            },
+            {
+                "color": "#005293",
+                "standard": "Leadership",
+                "short": "Leadership seeks stakeholder feedback"
+            },
+            {
+                "color": "#005293",
+                "standard": "Leadership",
+                "short": "Annual convenings for transformation planning"
+            },
+            {
+                "color": "#E8AF1D",
+                "standard": "Staff Engagement",
+                "short": "Staff included in policy updates"
+            },
+            {
+                "color": "#E8AF1D",
+                "standard": "Staff Engagement",
+                "short": "Communication between staff and leadership"
+            },
+            {
+                "color": "#E8AF1D",
+                "standard": "Staff Engagement",
+                "short": "Trend data shared with staff"
+            },
+            {
+                "color": "#E8AF1D",
+                "standard": "Staff Engagement",
+                "short": "Staff incentives for transformation contributions"
+            },
+            {
+                "color": "#595959",
+                "standard": "Probation for Most Serious Offenses",
+                "short": "70% of cases tied to felonies"
+            },
+            {
+                "color": "#595959",
+                "standard": "Probation for Most Serious Offenses",
+                "short": "Alternatives to placement required first"
+            },
+            {
+                "color": "#595959",
+                "standard": "Probation for Most Serious Offenses",
+                "short": "Funding favors probation over placement"
+            },
+            {
+                "color": "#595959",
+                "standard": "Probation for Most Serious Offenses",
+                "short": "No mandatory out-of-home placements"
+            },
+            {
+                "color": "#97A825",
+                "standard": "Diversion",
+                "short": "60% of youth diverted from probation"
+            },
+            {
+                "color": "#97A825",
+                "standard": "Diversion",
+                "short": "Schools and police use arrest alternatives"
+            },
+            {
+                "color": "#97A825",
+                "standard": "Diversion",
+                "short": "Arrest diversion supports community services"
+            },
+            {
+                "color": "#97A825",
+                "standard": "Diversion",
+                "short": "Diversion options include justice and services"
+            },
+            {
+                "color": "#97A825",
+                "standard": "Diversion",
+                "short": "No informal probation for diverted youth"
+            },
+            {
+                "color": "#97A825",
+                "standard": "Diversion",
+                "short": "Diversion non-compliance isn’t penalized"
+            },
+            {
+                "color": "#97A825",
+                "standard": "Diversion",
+                "short": "Diversion coordinated by organizations"
+            },
+            {
+                "color": "#5A5284",
+                "standard": "Relationship-Based Probation",
+                "short": "Families included in case planning"
+            },
+            {
+                "color": "#5A5284",
+                "standard": "Relationship-Based Probation",
+                "short": "Case plans focus on goals and needs"
+            },
+            {
+                "color": "#5A5284",
+                "standard": "Relationship-Based Probation",
+                "short": "Staff act as coaches, not referees"
+            },
+            {
+                "color": "#5A5284",
+                "standard": "Relationship-Based Probation",
+                "short": "Supervision lasts under one year"
+            },
+            {
+                "color": "#5A5284",
+                "standard": "Relationship-Based Probation",
+                "short": "Incentives prioritize positive behavior"
+            },
+            {
+                "color": "#5A5284",
+                "standard": "Relationship-Based Probation",
+                "short": "Incentives outnumber sanctions 5-1"
+            },
+            {
+                "color": "#F7EED4",
+                "standard": "Probation Conditions",
+                "short": "Orders limit conditions to five or fewer"
+            },
+            {
+                "color": "#F7EED4",
+                "standard": "Probation Conditions",
+                "short": "Orders focus on individualized goals"
+            },
+            {
+                "color": "#849120",
+                "standard": "Alternatives to Confinement",
+                "short": "No confinement for technical violations"
+            },
+            {
+                "color": "#849120",
+                "standard": "Alternatives to Confinement",
+                "short": "Reviews assess alternatives to confinement"
+            },
+            {
+                "color": "#849120",
+                "standard": "Alternatives to Confinement",
+                "short": "Person-based alternatives prioritized over tech"
+            },
+            {
+                "color": "#e3dddd",
+                "standard": "Data Use",
+                "short": "Annual stats include demographic breakdowns"
+            },
+            {
+                "color": "#e3dddd",
+                "standard": "Data Use",
+                "short": "Surveys and focus groups inform policies"
+            },
+            {
+                "color": "#e3dddd",
+                "standard": "Data Use",
+                "short": "Case reviews explore placement alternatives"
+            },
+            {
+                "color": "#e3dddd",
+                "standard": "Data Use",
+                "short": "Root-cause analyses target disparities"
+            }
+        ];
+        function set(input, value) {
+            input.value = value;
+            input.dispatchEvent(new Event("input", { bubbles: true }));
+        }
+
+        function createSimpleRange([min, max], { label, value, step = 1 }) {
+            const form = document.createElement("form");
+            form.className = "oi1";
+
+            const labelElement = document.createElement("label");
+            labelElement.textContent = label;
+
+            const input = document.createElement("input");
+            input.type = "range";
+            input.min = min;
+            input.max = max;
+            input.step = step;
+            input.value = value;
+
+            form.appendChild(labelElement);
+            form.appendChild(input);
+
+            // Forward the input events
+            return { form, rangeInput: input, labelText: label };
+        }
+
+        // Container for sliders 
+        const standards = [
+            { id: "standard-1", startIndex: 0, count: 4 },
+            { id: "standard-2", startIndex: 4, count: 4 },
+            { id: "standard-3", startIndex: 8, count: 4 },
+            { id: "standard-4", startIndex: 12, count: 4 },
+            { id: "standard-5", startIndex: 16, count: 4 },
+            { id: "standard-6", startIndex: 20, count: 7 },
+            { id: "standard-7", startIndex: 27, count: 6 },
+            { id: "standard-8", startIndex: 33, count: 2 },
+            { id: "standard-9", startIndex: 35, count: 3 },
+            { id: "standard-10", startIndex: 38, count: 4 },
+        ];
+
+        const sliders = [];
+
+        standards.forEach(({ id, startIndex, count }) => {
+            const container = document.getElementById(id);
+            if (!container) return;
+            for (let i = startIndex; i < startIndex + count; i++) {
+                const { form, rangeInput, labelText } = createSimpleRange([1, 100], {
+                    label: labels[i],
+                    value: 1,
+                });
+                container.appendChild(form);
+
+
+                sliders.push({ id: `m${i + 1}`, form, rangeInput, labelText });
+            }
+        });
+
+        function topFunction() {
+            document.body.scrollTop = 0; // For Safari
+            document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+        }
+
+        document.getElementById("button").addEventListener("click", () => {
+            const input_data = sliders.map((slider, index) => ({
+                label: slider.labelText,
+                value: parseFloat(slider.rangeInput.value),
+                ...other_data[index % other_data.length],
+            }));
+
+            const data = input_data.map((d, i) => ({
+                ...d,
+                ...other_data[i % other_data.length],
+            }));
+
+
+            const sortedData = [...data].sort((a, b) => a.value - b.value);
+            const lowestScores = sortedData.slice(0, 3);
 
 
 
-      // Create chart
-      createChart(data);
+            // Create chart
+            createChart(data);
+            createChart2(data);
 
 
-       const resultsContainer = document.getElementById("results");
+            const resultsContainer = document.getElementById("results");
             resultsContainer.innerHTML = ""; // Clear previous results
             const h3 = document.createElement("h3");
             h3.textContent = "These are the milestones your jurisdiction should priortize as you work to improve probation:";
             resultsContainer.appendChild(h3);
 
-            const ol = document.createElement("ol"); 
+            const ol = document.createElement("ol");
             lowestScores.forEach(score => {
                 const li = document.createElement("li");
-                li.textContent = score.label; 
+                li.textContent = score.label;
                 ol.appendChild(li);
             });
-            resultsContainer.appendChild(ol); 
-    
-         // Add a Print Window button
-         const printButton = document.createElement("button");
-            printButton.textContent = "Print Results to PDF";
-            printButton.style.marginTop = "10px"; // Add some spacing
+            resultsContainer.appendChild(ol);
+
+            // Add a Print Window button
+            const printButton = document.createElement("button");
+            printButton.textContent = "Print Results";
+            printButton.style.marginTop = "10px";
             printButton.addEventListener("click", () => {
-                window.print(); // Trigger the print dialog
+                window.print();
             });
-            resultsContainer.appendChild(printButton); // Append the button to the results container
+            resultsContainer.appendChild(printButton);
 
-      topFunction();
-    });
-
-
-
-
-function createChart(data) {
-
-  document.getElementById("chart").innerHTML = "";
-
-  const labelOrder = data.map(d => d.short);
-
-  const chart = Plot.plot({
-    legend: true,
-    marginLeft: 270,
-    marks: [
-      Plot.barX(data, { y: "short", x: "value", fill: "color", class: "hover-bar", }),
-      Plot.ruleX([0]), 
-    ],
-    x: {
-      label: null,
-      ticks: 0
-    },
-    y: {
-        domain: labelOrder, 
-        label: null
-    },
-  });
-
-  document.getElementById("chart").appendChild(chart);
-
-  const bars = document.querySelectorAll("#chart svg rect");
-  bars.forEach(bar => bar.classList.add("hover-bar"));
-}
+            topFunction();
+        });
 
 
 
 
-  </script>
+        function createChart(data) {
+
+            document.getElementById("chart").innerHTML = "";
+
+            const labelOrder = data.map(d => d.short);
+
+            const chart = Plot.plot({
+                legend: true,
+                marginLeft: 270,
+                marks: [
+                    Plot.barX(data, { y: "short", x: "value", fill: "color", class: "hover-bar" }),
+                    Plot.ruleX([0]),
+                ],
+                x: {
+                    label: null,
+                    ticks: 0
+                },
+                y: {
+                    domain: labelOrder,
+                    label: null
+                },
+            });
+
+            document.getElementById("chart").appendChild(chart);
+
+            const bars = document.querySelectorAll("#chart svg rect");
+            bars.forEach(bar => bar.classList.add("hover-bar"));
+        }
+
+
+
+
+        function createChart2(data) {
+
+            document.getElementById("chart2").innerHTML = "";
+
+            const labelOrder = data.map(d => d.short);
+
+            const chart2 = Plot.plot({
+                legend: true,
+                marginLeft: 270,
+                marks: [
+                    Plot.barX(data, { y: "short", x: "value", fill: "color", class: "hover-bar", title: d => d.label, tip: true }),
+                    Plot.ruleX([0]),
+                ],
+                x: {
+                    label: null,
+                    ticks: 0
+                },
+                y: {
+                    domain: labelOrder,
+                    label: null
+                },
+            });
+
+            document.getElementById("chart2").appendChild(chart2);
+
+            const bars = document.querySelectorAll("#chart2 svg rect");
+            bars.forEach(bar => bar.classList.add("hover-bar"));
+        }
+
+
+
+    </script>
 
 </body>
+
 </html>
