@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sliders by Standard</title>
+    <title>CQI Mockup</title>
     <style>
         .container {
             max-width: 1000px;
@@ -519,15 +519,20 @@
             });
             resultsContainer.appendChild(ol);
 
-            // Add a Print Window button
+
+            const buttonContainer = document.createElement("div");
+            buttonContainer.classList.add("button-container");
+
             const printButton = document.createElement("button");
             printButton.textContent = "Print Results";
             printButton.style.marginTop = "10px";
             printButton.addEventListener("click", () => {
                 window.print();
             });
-            resultsContainer.appendChild(printButton);
 
+            buttonContainer.appendChild(printButton);
+
+            resultsContainer.appendChild(buttonContainer);
             topFunction();
         });
 
