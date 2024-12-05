@@ -544,9 +544,18 @@
             document.getElementById("chart").innerHTML = "";
 
             const labelOrder = data.map(d => d.short);
+            const uniqueStandards = Array.from(
+                new Map(data.map(d => [d.standard, d.color])).entries()
+            );
 
             const chart = Plot.plot({
-                legend: true,
+                color: {
+                    legend: true,
+                    domain: uniqueStandards.map(d => d[0]),
+                    range: uniqueStandards.map(d => d[1]),
+
+
+                },
                 marginLeft: 270,
                 marks: [
                     Plot.barX(data, { y: "short", x: "value", fill: "color", class: "hover-bar" }),
@@ -577,8 +586,17 @@
 
             const labelOrder = data.map(d => d.short);
 
+            const uniqueStandards = Array.from(
+                new Map(data.map(d => [d.standard, d.color])).entries()
+            );
+
             const chart2 = Plot.plot({
-                legend: true,
+                color: {
+                    legend: true,
+                    domain: uniqueStandards.map(d => d[0]),
+                    range: uniqueStandards.map(d => d[1]),
+
+                },
                 marginLeft: 270,
                 marks: [
                     Plot.barX(data, { y: "short", x: "value", fill: "color", class: "hover-bar", title: d => d.label, tip: true }),
