@@ -67,6 +67,14 @@ body {
         margin-right: var(--length2);
       }
     }
+
+    .hover-bar {
+        fill-opacity: 1;
+    }
+
+    .hover-bar:hover {
+        fill-opacity: .7
+    }
   </style>
 </head>
 <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
@@ -384,14 +392,11 @@ const other_data = [
     "short": "Root-cause analyses target disparities"
   }
 ];
-  // Function to set input value and trigger an input event
     function set(input, value) {
       input.value = value;
       input.dispatchEvent(new Event("input", { bubbles: true }));
     }
 
-
-    // Function to create the slider and label
     function createSimpleRange([min, max], { label, value, step = 1 }) {
       const form = document.createElement("form");
       form.className = "oi1";
@@ -429,7 +434,6 @@ const standards = [
 
 const sliders = [];
 
-
 standards.forEach(({ id, startIndex, count }) => {
   const container = document.getElementById(id);
   if (!container) return;
@@ -440,7 +444,7 @@ standards.forEach(({ id, startIndex, count }) => {
     });
     container.appendChild(form);
 
-    // Add to sliders array
+
     sliders.push({ id: `m${i + 1}`, form, rangeInput, labelText });
   }
 });
@@ -454,12 +458,12 @@ document.getElementById("button").addEventListener("click", () => {
       const input_data = sliders.map((slider, index) => ({
         label: slider.labelText,
         value: parseFloat(slider.rangeInput.value),
-        ...other_data[index % other_data.length], // Loop through other_data if fewer items
+        ...other_data[index % other_data.length],
       }));
 
       const data = input_data.map((d, i) => ({
         ...d,
-        ...other_data[i % other_data.length], // Map additional data
+        ...other_data[i % other_data.length], 
       }));
 
 
@@ -478,13 +482,13 @@ document.getElementById("button").addEventListener("click", () => {
             h3.textContent = "These are the milestones your jurisdiction should priortize as you work to improve probation:";
             resultsContainer.appendChild(h3);
 
-            const ol = document.createElement("ol"); // Create an ordered list
+            const ol = document.createElement("ol"); 
             lowestScores.forEach(score => {
                 const li = document.createElement("li");
-                li.textContent = score.label; // Add the label as a list item
+                li.textContent = score.label; 
                 ol.appendChild(li);
             });
-            resultsContainer.appendChild(ol); // Append the list to the results container
+            resultsContainer.appendChild(ol); 
     
          // Add a Print Window button
          const printButton = document.createElement("button");
@@ -505,16 +509,14 @@ function createChart(data) {
 
   document.getElementById("chart").innerHTML = "";
 
-  // Extract labels in the order they appear in the data
   const labelOrder = data.map(d => d.short);
 
-  // Create the bar chart using Observable Plot
   const chart = Plot.plot({
     legend: true,
     marginLeft: 270,
     marks: [
-      Plot.barX(data, { y: "short", x: "value", fill: "color" }),
-      Plot.ruleX([0]), // Baseline at 0
+      Plot.barX(data, { y: "short", x: "value", fill: "color", class: "hover-bar", }),
+      Plot.ruleX([0]), 
     ],
     x: {
       label: null,
@@ -527,40 +529,9 @@ function createChart(data) {
   });
 
   document.getElementById("chart").appendChild(chart);
-}
 
-
-
-
-function createRadialBarChart(data) {
-
-document.getElementById("chart").innerHTML = "";
-
-// Extract labels in the order they appear in the data
-const labelOrder = data.map(d => d.short);
-
-// Create the bar chart using Observable Plot
-const chart = Plot.plot({
-    color: {
-        domain: "red", 
-    legend: true // Enables the legend for the `fill` colors
-  },
-  marginLeft: 270,
-  marks: [
-    Plot.barX(data, { y: "short", x: "value", fill: "color" }),
-    Plot.ruleX([0]), // Baseline at 0
-  ],
-  x: {
-    label: null,
-    ticks: 0
-  },
-  y: {
-      domain: labelOrder, 
-      label: null
-  },
-});
-
-document.getElementById("chart").appendChild(chart);
+  const bars = document.querySelectorAll("#chart svg rect");
+  bars.forEach(bar => bar.classList.add("hover-bar"));
 }
 
 
