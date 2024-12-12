@@ -37,7 +37,16 @@ My research has been supported by the [National Science Foundation](https://www.
 I have worked for more than a dozen years to reduce incarceration and promote justice. I worked for the [American Civil Liberties Union](https://www.aclu.org/news/by/cyrus-j-obrien-phd/), [Southern Poverty Law Center](https://www.splcenter.org/issues/childrens-rights), the [Annie E. Casey Foundation](http://www.aecf.org/work/juvenile-justice/), the [American Bar Association](https://www.americanbar.org/advocacy/rule_of_law/where_we_work/middle_east/morocco/programs.html), [Restore Justice](https://restorejustice.org/), and, from 2013 to 2020, the Project on Accountable Justice, a criminal justice reform think tank based at Florida State University. My projects to reduce incarceration have involved legislative advocacy, collaborative technical assistance to local courts and state corrections agencies, media campaigns, and assistance with litigation against a private juvenile prison. Some of this work has resulted in publications, a selection of which is below.
 
 
+<div markdown="0" 
+class="container-fluid"> 
+<hr class="section-heading-spacer"> 
+<div class="row"> <div class="col-sm-6 clearfix"> 
+<h4 class="section-heading">The Keys to Safety: Why Housing Protections Increase Safety for All</h4>
 
+ <p><a href="https://asj.allianceforsafetyandjustice.org/the-keys-to-safety/">This is the first report in the U.S. to highlight tenants' unique vulnerability to violence.</a> People who rent their homes endure serious violence at three times the rate of people in owner-occupied units and poor people are especially impacted. People in renting households with less than $20k in household income endured <b>1.2 million</b> violent vicitmizations in 2022.</p>
+ <p>Many readers will find the sections related to renters' financial situations relevant. I replicated an analysis from the <a href = "https://www.jchs.harvard.edu/sites/default/files/reports/files/Harvard_JCHS_The_State_of_the_Nations_Housing_2024.pdf">Harvard Joint Center on Housing Studies</a> to reveal that one in four renting households has less than $200 in cash savings and that 42% have less than $1,000.</p>
+ <p>This report is based on analyses of the National Crime Victimization Survey, the Survey of Consumer Finances, and the National Longitudinal Survey of Adolescent to Adult Health. My colleague Emily Cosgrove conducted interviews with survivors of violence, and the profiles she wrote bring the quantitative findings to life.</p>
+ </div> <div class="col-sm-6 clearfix"> <a href="https://asj.allianceforsafetyandjustice.org/the-keys-to-safety/"> <img class="img-responsive" width="270px" src="{{ site.url }}{{ site.baseurl }}images/picpic/the-keys-to-safety-image.png" style="border: 1px solid #555;" alt="a picture of the published report"> </a> </div></div> </div>
 
 
    <div markdown="0"  class="container-fluid">
