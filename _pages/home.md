@@ -227,10 +227,10 @@ class="container-fluid">
    <div class="row">
    <div class="col-sm-6 clearfix">
                        <h4 class="section-heading">Illinois Failing Key Pillar of COVID-19 Response: Prisons Remain Crowded while Early Releases Exacerbate Racial Inequity</h4>
-                       <p>Prisons and jails quickly emerged as some of the most dangerous "hot spots" for the cornonavirus pandemic.<a href="[https://restorejustice.org/early-releases-exacerbate-racial-inequity/](https://web.archive.org/web/20200727174038/https://restorejustice.org/early-releases-exacerbate-racial-inequity/)"> Despite the risks crowded prisons pose to incarcerated people and broader public health, Illinois has not taken meaningful steps to keep Illinoisans safe. I worked with Restore Justice to analyze the release practices of the Illinois Department of Corrections in response to COVID-19.</a> Though early releases are not sufficient to protect public health, they are rife with racial disparities and neglect the health and safety of black and Latino people.</p>
+                       <p>Prisons and jails quickly emerged as some of the most dangerous "hot spots" for the cornonavirus pandemic.<a href="https://web.archive.org/web/20200727174038/https://restorejustice.org/early-releases-exacerbate-racial-inequity/"> Despite the risks crowded prisons pose to incarcerated people and broader public health, Illinois has not taken meaningful steps to keep Illinoisans safe. I worked with Restore Justice to analyze the release practices of the Illinois Department of Corrections in response to COVID-19.</a> Though early releases are not sufficient to protect public health, they are rife with racial disparities and neglect the health and safety of black and Latino people.</p>
                </div>
                    <div class="col-sm-6 clearfix">
-                        <a href="[https://restorejustice.org/early-releases-exacerbate-racial-inequity/](https://web.archive.org/web/20200727174038/https://restorejustice.org/early-releases-exacerbate-racial-inequity/)">
+                        <a href="https://web.archive.org/web/20200727174038/https://restorejustice.org/early-releases-exacerbate-racial-inequity/">
                              <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/RJIllinois.jpeg" style="border: 1px solid #555;" alt="another picture of the published report">
                        </a>
                    </div>
