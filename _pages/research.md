@@ -13,6 +13,6 @@ My academic work asked how and why the United States became the world's largest 
 
 The [Journal of American History](https://doi.org/10.1093/jahist/jaab065), the journal of record in the field, published my article, "A Prison in Your Community" in June 2021. Please contact me if you need access to a copy.
 
-Since 2020, my research has focused on data science and survey methods. I conduct quantative analyses of complex datasets, including the National Crime Victimization Survey, the Survey of Consumer Finances, the Survey of Household Decisionmaking, and other for many criminal justice and economic data. Publications drawn from my quantitive research are forthcoming, and this page will soon be updated.
+Since 2020, my research has focused on data science and survey methods. I conduct quantative analyses of complex datasets, including the National Crime Victimization Survey, the Survey of Consumer Finances, the Survey of Household Decisionmaking, and other sources of criminal justice and economic data. Publications drawn from my quantitive research are forthcoming, and this page will soon be updated.
 
 ![this is an image of the first page of my article in the Journal of American History]({{ site.url }}{{ site.baseurl }}/images/picpic/jah-screenshot.png)
