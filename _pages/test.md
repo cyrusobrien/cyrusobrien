@@ -6,6 +6,11 @@ sitemap: false
 permalink: teaching/2020-0213-discussion.html
 ---
 
+
+<iframe width="100%" height="798" frameborder="0"
+  src="https://observablehq.com/embed/cfdc44cda8162b98@136?cells=map"></iframe>
+  
+
 1.	What was the main reason William Jennings Bryan opposed U.S. Imperialism in the Philippines?
 
 2.	Would you describe Bryan as an isolationist? Why or why not?
