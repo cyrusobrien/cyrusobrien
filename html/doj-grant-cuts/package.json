@@ -1,0 +1,14 @@
+{
+  "name": "60f3d3141e811490",
+  "main": "60f3d3141e811490@634.js",
+  "version": "634.0.0",
+  "homepage": "https://observablehq.com/d/60f3d3141e811490",
+  "author": {
+    "name": "cyrusobrien",
+    "url": "https://observablehq.com/@cyrusobrien"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
