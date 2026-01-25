@@ -12,7 +12,7 @@ permalink: /
 
 I am a researcher and advocate working against mass incarceration, militarized policing, and racial inequality. I am currently a Senior Researcher at the [Alliance for Safety and Justice](https://allianceforsafetyandjustice.org/), where I have worked since 2021. I was recently a [Mellon/ACLS Public Fellow](https://www.acls.org/fellow-grantees/cyrus-j-obrien/) and a Research Fellow at the [American Civil Liberties Union](https://www.aclu.org/news/by/cyrus-j-obrien-phd/).
 
-I earned a PhD in Anthropology and History from the University of Michigan, which awarded me its top dissertation prize, the [ProQuest Distinguished Dissertation Award](https://rackham.umich.edu/faculty-and-staff/awards/distinguished-dissertation-awards/). I completed a postdoctoral fellowship at the [Danforth Center for Religion and Politics at Washington University in St. Louis](http://rap.wustl.edu/bio/cyrus-obrien/), where I taught about U.S. History, Race, Religion, and Politics.
+I earned a PhD in Anthropology and History from the University of Michigan, which awarded me its top dissertation prize, the [ProQuest Distinguished Dissertation Award](https://rackham.umich.edu/faculty-and-staff/awards/distinguished-dissertation-awards/). I completed a postdoctoral fellowship at the [Danforth Center for Religion and Politics at Washington University in St. Louis](http://rap.wustl.edu/), where I taught about U.S. History, Race, Religion, and Politics.
 
 The [_Journal of American History_](https://jah.oah.org/) published my article, [“‘A Prison in Your Community’: Halfway Houses and the Melding of Treatment and Control”](https://doi.org/10.1093/jahist/jaab065), in its June 2021 issue.
 
@@ -114,11 +114,11 @@ class="container-fluid">
    <div class="col-sm-6 clearfix">
                      <h4 class="section-heading">Unwarranted: How East Baton Rouge Parish’s Warrant Practices Make Us Less Safe</h4>
 
-                     <p>Baton Rouge has an <a href="http://www.fairfightinitiative.org/unwarranted.pdf">unbelievable problem with warrants</a>. There is one active warrant in the parish for every three househoulds, meaning that if no one in your household has a warrant out for their arrest, odds are someone who lives nextdoor to you does. This report was published by The Fair Fight Initiative, the Baton Rouge Chapter of the National Association for the Advancement of Colored People, The Promise of Justice Initiative, Voices of the Experienced (VOTE), the Law Center of the Southern University System.</p>
+                     <p>Baton Rouge has an <a href="/documents/unwarranted.pdf">unbelievable problem with warrants</a>. There is one active warrant in the parish for every three househoulds, meaning that if no one in your household has a warrant out for their arrest, odds are someone who lives nextdoor to you does. This report was published by The Fair Fight Initiative, the Baton Rouge Chapter of the National Association for the Advancement of Colored People, The Promise of Justice Initiative, Voices of the Experienced (VOTE), the Law Center of the Southern University System.</p>
 
                </div>
                    <div class="col-sm-6 clearfix">
-                        <a href="http://www.fairfightinitiative.org/unwarranted.pdf">
+                        <a href="/documents/unwarranted.pdf">
                              <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}images/picpic/unwarranted.jpg" style="border: 1px solid #555;" alt="another picture of the published report">
                        </a>
                    </div>
@@ -134,11 +134,11 @@ class="container-fluid">
    <div class="col-sm-6 clearfix">
                      <h4 class="section-heading">Scaling Safety: A Roadmap to Close America's Safety Gaps</h4>
 
-                     <p>This is a <a href="https://allianceforsafetyandjustice.org/wp-content/uploads/2022/07/Alliance-for-Safety-and-Justice-Scaling-Safety-Report-July-2022.pdf"> major collaborative project</a> envisioning new pathways to real public safety. A brainchild of Lenore Anderson, many people worked on this publication. I contributed research, writing, and framing the project.</p>
+                     <p>This is a <a href="https://justsafe.org/resources/scaling-safety-roadmap-close-americas-safety-gaps-0/"> major collaborative project</a> envisioning new pathways to real public safety. A brainchild of Lenore Anderson, many people worked on this publication. I contributed research, writing, and framing the project.</p>
 
                </div>
                    <div class="col-sm-6 clearfix">
-                        <a href="https://allianceforsafetyandjustice.org/wp-content/uploads/2022/07/Alliance-for-Safety-and-Justice-Scaling-Safety-Report-July-2022.pdf">
+                        <a href="https://justsafe.org/resources/scaling-safety-roadmap-close-americas-safety-gaps-0/">
                              <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}images/picpic/scalingsafety.jpg" style="border: 1px solid #555;" alt="another picture of the published report">
                        </a>
                    </div>
