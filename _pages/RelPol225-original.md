@@ -455,7 +455,7 @@ Tuesday, March 31, 2020
 </div>
 <div class="col-sm-5" style="padding:26px; max-width:350px;">
 
- ![Protest at Attica](http://cyrusobrien.com/images/SyllabiImages/RelPolt275/attica_AP.jpg){: style="max-width: 100%;  border: 10px; display: block; margin: auto;"}
+ ![Protest at Attica](http://cyrusobrien.com/images/Syllabi Images/RelPolt275/attica_AP.jpg){: style="max-width: 100%;  border: 10px; display: block; margin: auto;"}
 
 _Prisoners at Attica State Prison in 1971 participate in a negotiation session. Associated Press_.
 

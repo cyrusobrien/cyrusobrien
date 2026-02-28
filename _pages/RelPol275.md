@@ -57,7 +57,7 @@ _Note: All assignments must be completed to receive a passing grade in the cours
 </div>
 <div class="col-sm-4" style="padding: 26px; max-width:350px">
 
- ![](http://cyrusobrien.com/images/SyllabiImages/RelPolt275/KillingWithElectricity.png){: style="max-width:290px; border:10px;"}
+ ![]({{ site.url }}{{ site.baseurl }}/images/Syllabi Images/RelPolt275/KillingWithElectricity.png){: style="max-width:290px; border:10px;"}
 
  _The electric chair was supposed to illustrate the advanced technology of the 19th century. To many observers, the invisible power of electricity seemed to be a sublime and divine force. Reprinted in_ Harper's Weekly, _February 25, 1988._
 
@@ -98,10 +98,9 @@ Take-home midterm and final exams will consist of short answer identification qu
 
 </div>
 <div class="col-sm-4" style="padding:26px; max-width:350px;">
+ ![]({{ site.url }}{{ site.baseurl }}/images/Syllabi Images/RelPolt275/WhatAreExPrisoners.png){: style="max-width: 300px;  border: 10px;"}
 
- ![](http://cyrusobrien.com/images/SyllabiImages/RelPolt275/WhatAreExPrisoners.png){: style="max-width: 300px;  border: 10px;"}
-
- ![](http://cyrusobrien.com/images/SyllabiImages/RelPolt275/sinnerslikeyouandme.png){: style="max-width: 300px;  border: 10px;"}
+ ![]({{ site.url }}{{ site.baseurl }}/images/Syllabi Images/RelPolt275/sinnerslikeyouandme.png){: style="max-width: 300px;  border: 10px;"}
 
  _In the 1960s, religious groups promoted rehabilitation programs by emphasizing that former prisoners were "sinners like you and me." Pamphlets from St. Leonard's House, ca. 1965, Box A664, Archives of the Episcopal Diocese of Chicago, Chicago, Illinois._
 
@@ -167,7 +166,7 @@ Wednesday, August 29: <span style="color:red"> **Goal Setting Assignment Due bef
 </div>
 <div class="col-sm-4" style="padding:26px; max-width:350px;">
 
- ![](http://cyrusobrien.com/images/SyllabiImages/RelPolt275/hanging.jpg){: style="max-width: 300px;  border: 10px;"}
+ ![](http://cyrusobrien.com/images/Syllabi Images/RelPolt275/hanging.jpg){: style="max-width: 300px;  border: 10px;"}
 
 _A depiction of a hanging in New England, courtesy of the New England Historical Society._
 </div>
@@ -244,13 +243,13 @@ Monday, September 24
 
 <div class="col-sm-4" style="padding:26px; max-width:350px;">
 
- ![](http://cyrusobrien.com/images/SyllabiImages/RelPolt275/mask-at-eastern-state.jpg){: style="max-width: 300px;  border: 10px;"}
+ ![](http://cyrusobrien.com/images/Syllabi Images/RelPolt275/mask-at-eastern-state.jpg){: style="max-width: 300px;  border: 10px;"}
 
 _At Eastern State Penitentiary in Philadelphia, the administration forced prisoners to wear masks if they moved out of their cells as part of an effort to prevent prisoners from being identified. Courtesy of Eastern State Historic Site._
 
 ***
 
-![](http://cyrusobrien.com/images/SyllabiImages/RelPolt275/cell-at-eastern-state.jpg){: style="max-width: 300px;  border: 10px;"}
+![](http://cyrusobrien.com/images/Syllabi Images/RelPolt275/cell-at-eastern-state.jpg){: style="max-width: 300px;  border: 10px;"}
 
 _Solitude and isolation were believed to facilitate penitence and reform. Courtesy of Eastern State Historic Site._
 
@@ -292,7 +291,7 @@ Wednesday, September 26
 
 <div class="col-sm-4" style="padding:26px; max-width:350px;">
 
- ![](http://cyrusobrien.com/images/SyllabiImages/RelPolt275/ChicagoVice.jpg){: style="max-width: 300px;  border: 10px;"}
+ ![](http://cyrusobrien.com/images/Syllabi Images/RelPolt275/ChicagoVice.jpg){: style="max-width: 300px;  border: 10px;"}
 
 _Campaigns against "vice" defined many aspects of urban American life during the Progressive Era._
 
@@ -387,7 +386,7 @@ Monday, October 29
 </div>
 <div class="col-sm-4" style="padding:26px; max-width:350px;">
 
- ![](http://cyrusobrien.com/images/SyllabiImages/RelPolt275/attica_AP.jpg){: style="max-width: 300px;  border: 10px;"}
+ ![](http://cyrusobrien.com/images/Syllabi Images/RelPolt275/attica_AP.jpg){: style="max-width: 300px;  border: 10px;"}
 
 _Prisoners at Attica State Prison in 1971 participate in a negotiation session. Associated Press_.
 
@@ -451,7 +450,7 @@ Wednesday, November 14
 </div>
 <div class="col-sm-4" style="padding:26px; max-width:350px;">
 
- ![](http://cyrusobrien.com/images/SyllabiImages/RelPolt275/colson.png){: style="max-width: 300px;  border: 10px;"}
+ ![](http://cyrusobrien.com/images/Syllabi Images/RelPolt275/colson.png){: style="max-width: 300px;  border: 10px;"}
 
 _After converting in prison, former Nixon aide and Watergate conspirator Chuck Colson established Prison Fellowship. The organization promotes prison ministry and advocates for criminal justice reform. Colson died in 2012. Courtesy of Prison Fellowship._
 

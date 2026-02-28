@@ -8,24 +8,22 @@ permalink: /
 
 # <strong><strong><strong>CYRUS O'BRIEN</strong></strong></strong>, PhD
 
-![a portrait of me, taken when I was a bit skinnier]({{ site.url }}{{ site.baseurl }}/images/webportrait3.jpg){: class="floatpic"}
+![a portrait of Cyrus, a smiling white man with dark hair and glasses in a suit]({{ site.url }}{{ site.baseurl }}/images/webportrait3.jpg){: class="floatpic"}
 
 
-Cyrus earned a PhD at the University of Michigan and completed a postdoctoral fellowship at the Danforth Center for Religion and Politics at Washington University in St. Louis. His scholarship has been published in leading journals including the [Journal of American History](https://doi.org/10.1093/jahist/jaab065) and the [Review of African Political Economy](https://doi.org/10.1080/03056240802574078). He has won major awards from the National Science Foundation, the Mellon Foundation, the American Council of Learned Societies, the Wenner-Gren Foundation, the Michigan Society of Fellows, and the Woodrow Wilson National Fellowship Foundation  (now the Institute for Citizens and Scholars.) 
+Cyrus earned a PhD at the University of Michigan and completed a postdoctoral fellowship at the Danforth Center for Religion and Politics at Washington University in St. Louis. His scholarship has been published in leading journals including the [*Journal of American History*](https://doi.org/10.1093/jahist/jaab065) and the [*Review of African Political Economy*](https://doi.org/10.1080/03056240802574078). He has won major awards from the National Science Foundation, the Mellon Foundation, the American Council of Learned Societies, the Wenner-Gren Foundation, the Michigan Society of Fellows, and the Woodrow Wilson National Fellowship Foundation  (now the Institute for Citizens and Scholars.) 
 
 Cyrus has worked in racial and economic justice movements for nearly two decades. He is a Senior Researcher at Just Safe has worked for organizations including the Alliance for Safety and Justice, the American Civil Liberties Union, the Annie E. Casey Foundation, Restore Justice, the Southern Poverty Law Center, the Project on Accountable Justice at Florida State University, the Fair Fight Initiative, and D.C. Justice Lab.
 
-<hr class="section-heading-spacer">
 
 
-### Research in the Social Sciences and Humanities
+### Research
 
-Cyrus has extensive experience conducting research in and about prisons and related institutions. He conducted thirteen months of ethnographic research in a 3,600-bed prison in North Florida and led short-term research projects with people living in reentry centers, on probation, and on parole.
+Cyrus has extensive experience conducting research in and about prisons and related institutions. He conducted thirteen months of ethnographic research in a 3,600-bed prison in North Florida and led research projects with people living in reentry centers, on probation, and on parole.
 
 Cyrus's recent projects have drawn on quantitative methods and his expertise in survey research. He has published analyses of complex surveys including the National Crime Victimization Survey, the Survey of Household and Economic Decisionmaking, and the Survey of Consumer Finances. In 2025, he served as an expert panelist for survey design for the Department of Justice's Bureau of Justice Statistics.
 
 
-<hr class="section-heading-spacer">
 
 
 
@@ -33,7 +31,7 @@ Cyrus's recent projects have drawn on quantitative methods and his expertise in 
 
 Below is a selection of advocacy publications and policy reports Cyrus wrote or contributed to.
 
-<div markdown="0" class="container-fluid">
+<div markdown="0" class="container-fluid-card">
 <div class="row"><div class="col-sm-6 clearfix">
 <h4 class="section-heading">Crime Survivors Speak: Pennsylvania Victims' Views on Safety and Justice</h4>
 
@@ -41,9 +39,9 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
  </div> <div class="col-sm-6 clearfix"> <a href="https://justsafe.org/resources/crime-survivors-speak-pennsylvania-victims-views-safety-and-justice/"> <img class="img-responsive" width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/Crime-Survivors-Speak-Pennsylvania-Victims-Views-on-Safety-and-Justice-2026.jpeg" style="border: 1px solid #555;" alt="a picture of the published report"> </a> </div></div>
 </div>
 
-<hr class="section-heading-spacer">
 
-<div markdown="0" class="container-fluid">
+
+<div markdown="0" class="container-fluid-card">
 <div class="row"> <div class="col-sm-6 clearfix">
 <h4 class="section-heading">The Keys to Safety: Why Housing Protections Increase Safety for All</h4>
 
@@ -53,9 +51,9 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
  </div> <div class="col-sm-6 clearfix"> <a href="https://asj.allianceforsafetyandjustice.org/the-keys-to-safety/"> <img class="img-responsive" width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/keys-to-safety-image.png" style="border: 1px solid #555;" alt="a picture of the published report"> </a> </div></div>
 </div>
 
-<hr class="section-heading-spacer">
 
-   <div markdown="0" class="container-fluid">
+
+   <div markdown="0" class="container-fluid-card">
    <div class="row">
    <div class="col-sm-6 clearfix">
                      <h4 class="section-heading">Crime Survivors Speak 2024: A National Survey of Victims' Views on Safety and Justice</h4>
@@ -73,9 +71,9 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
 </div>
            </div>
 
-<hr class="section-heading-spacer">
 
-   <div markdown="0" class="container-fluid">
+
+   <div markdown="0" class="container-fluid-card">
    <div class="row">
    <div class="col-sm-6 clearfix">
                      <h4 class="section-heading">Lost Work, Pay, and Safety: Victims of Violence Urgently Need Safe Leave</h4>
@@ -93,9 +91,9 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
 </div>
            </div>
 
-<hr class="section-heading-spacer">
 
-   <div markdown="0" class="container-fluid">
+
+   <div markdown="0" class="container-fluid-card">
    <div class="row">
    <div class="col-sm-6 clearfix">
                      <h4 class="section-heading">Just Work: Barriers that Keep People with Records from Full Workforce Participation Cost Florida More than $40 Billion Annually</h4>
@@ -111,9 +109,9 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
 </div>
            </div>
 
-<hr class="section-heading-spacer">
 
-   <div markdown="0" class="container-fluid">
+
+   <div markdown="0" class="container-fluid-card">
    <div class="row">
    <div class="col-sm-6 clearfix">
                      <h4 class="section-heading">Unwarranted: How East Baton Rouge Parish's Warrant Practices Make Us Less Safe</h4>
@@ -129,9 +127,9 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
 </div>
            </div>
 
-<hr class="section-heading-spacer">
 
-   <div markdown="0" class="container-fluid">
+
+   <div markdown="0" class="container-fluid-card">
    <div class="row">
    <div class="col-sm-6 clearfix">
                      <h4 class="section-heading">Scaling Safety: A Roadmap to Close America's Safety Gaps</h4>
@@ -147,9 +145,9 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
 </div>
            </div>
 
-<hr class="section-heading-spacer">
 
-   <div markdown="0" class="container-fluid">
+
+   <div markdown="0" class="container-fluid-card">
    <div class="row">
    <div class="col-sm-6 clearfix">
                      <h4 class="section-heading">No Eviction without Representation: Evictions' Disproportionate Harms and the Promise of Right to Counsel</h4>
@@ -165,9 +163,9 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
 </div>
            </div>
 
-<hr class="section-heading-spacer">
 
-   <div markdown="0" class="container-fluid">
+
+   <div markdown="0" class="container-fluid-card">
    <div class="row">
    <div class="col-sm-6 clearfix">
 
@@ -184,9 +182,9 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
 </div>
            </div>
 
-<hr class="section-heading-spacer">
 
-   <div markdown="0" class="container-fluid">
+
+   <div markdown="0" class="container-fluid-card">
    <div class="row">
    <div class="col-sm-6 clearfix">
                      <h4 class="section-heading">Federal Militarization of Law Enforcement Must End</h4>
@@ -202,9 +200,9 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
 </div>
            </div>
 
-<hr class="section-heading-spacer">
 
-   <div markdown="0" class="container-fluid">
+
+   <div markdown="0" class="container-fluid-card">
    <div class="row">
    <div class="col-sm-6 clearfix">
 
@@ -221,9 +219,9 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
 </div>
            </div>
 
-<hr class="section-heading-spacer">
 
-   <div markdown="0" class="container-fluid">
+
+   <div markdown="0" class="container-fluid-card">
    <div class="row">
    <div class="col-sm-6 clearfix">
                        <h4 class="section-heading">Illinois Failing Key Pillar of COVID-19 Response: Prisons Remain Crowded while Early Releases Exacerbate Racial Inequity</h4>
@@ -237,9 +235,9 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
 </div>
            </div>
 
-<hr class="section-heading-spacer">
 
-   <div markdown="0" class="container-fluid">
+
+   <div markdown="0" class="container-fluid-card">
    <div class="row">
    <div class="col-sm-6 clearfix">
                        <h4 class="section-heading">Florida's Obsolete Drug Laws Disproportionately Affect Latinos and Women</h4>
@@ -254,9 +252,9 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
 </div>
            </div>
 
-<hr class="section-heading-spacer">
 
-   <div markdown="0" class="container-fluid">
+
+   <div markdown="0" class="container-fluid-card">
    <div class="row">
    <div class="col-sm-6 clearfix">
                        <h4 class="section-heading">Florida Rolled Back Parts of the War on Drugs, but Hundreds Remain in Prison under Obsolete Laws. Justice Demands that Reforms Be Made Retroactive</h4>
@@ -270,9 +268,9 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
 </div>
            </div>
 
-<hr class="section-heading-spacer">
 
-   <div markdown="0" class="container-fluid">
+
+   <div markdown="0" class="container-fluid-card">
    <div class="row">
    <div class="col-sm-6 clearfix">
                        <h4 class="section-heading">Florida Criminal Justice Reform: Understanding the Challenges and Opportunities</h4>
@@ -286,9 +284,9 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
 </div>
            </div>
 
-<hr class="section-heading-spacer">
 
-   <div markdown="0" class="container-fluid">
+
+   <div markdown="0" class="container-fluid-card">
    <div class="row">
    <div class="col-sm-6 clearfix">
                        <h4 class="section-heading">No Place for a Child: Direct File of Juveniles Comes at High Cost</h4>
@@ -302,9 +300,9 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
 </div>
            </div>
 
-<hr class="section-heading-spacer">
 
- <div markdown="0" class="container-fluid">
+
+ <div markdown="0" class="container-fluid-card">
  <div class="row">
                    <div class="col-sm-6 clearfix">
                      <h4 class="section-heading">Unlocking Your Community's Hidden Strengths: A Guide to Community Asset-Mapping</h4>
@@ -318,9 +316,9 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
            </div>
   </div>
 
-<hr class="section-heading-spacer">
 
- <div markdown="0" class="container-fluid">
+
+ <div markdown="0" class="container-fluid-card">
  <div class="row">
                    <div class="col-sm-6 clearfix">
                      <h4 class="section-heading">Fiscal Responsibility: The Key to a Safer, Stronger, and Smarter Juvenile Justice System</h4>
@@ -333,7 +331,7 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
                  </div>
                  </div>
   </div>
-<hr class="section-heading-spacer">
+
 
 
 
