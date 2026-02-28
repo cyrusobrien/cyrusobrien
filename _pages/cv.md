@@ -16,13 +16,13 @@ You can access [my resume here]({{ site.baseurl }}/documents/CyrusOBrienResume-w
 
 
  <a href="{{ site.baseurl }}/documents/CyrusOBrienResume-web.pdf">
-                    <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/ResumeImage1.jpg"  width="100%" alt="image of resume page 1"> </a>
+                    <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/resume-image1.png"  width="100%" alt="image of resume page 1"> </a>
 
 
 
 
                        <a href="{{ site.baseurl }}/documents/CyrusOBrienResume-web.pdf">
-                                           <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/ResumeImage2.jpg"  width="100%" alt="image of resume page 2"> </a>
+                                           <img  class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/picpic/resume-image2.png"  width="100%" alt="image of resume page 2"> </a>
 
 
   </div>
