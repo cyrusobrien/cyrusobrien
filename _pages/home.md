@@ -35,8 +35,8 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
 <div class="row"><div class="col-sm-6 clearfix">
 <h4 class="section-heading">Crime Survivors Speak: Pennsylvania Victims' Views on Safety and Justice</h4>
 
- <p>This report highlights the criminal justice policy preferences <a href="https://justsafe.org/resources/crime-survivors-speak-pennsylvania-victims-views-safety-and-justice/">of Pennsylvanians who are survivors of violence.</a> Victims of violence overwhelmingly prefer policies that prioritize prevention and rehabilitation over punishment. The findings are the result of a survey of 1,800 Pennsylvianians.</p>
- </div> <div class="col-sm-6 clearfix"> <a href="https://justsafe.org/resources/crime-survivors-speak-pennsylvania-victims-views-safety-and-justice/"> <img class="img-responsive" width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/Crime-Survivors-Speak-Pennsylvania-Victims-Views-on-Safety-and-Justice-2026.jpeg" style="border: 1px solid #555;" alt="a picture of the published report"> </a> </div></div>
+ <p>This report highlights the criminal justice policy preferences <a href="https://justsafe.org/resources/pennsylvania-survivors-speak-2026-victims-views-on-safety-and-justice/">of Pennsylvanians who are survivors of violence.</a> Victims of violence overwhelmingly prefer policies that prioritize prevention and rehabilitation over punishment. The findings are the result of a survey of 1,800 Pennsylvianians.</p>
+ </div> <div class="col-sm-6 clearfix"> <a href="https://justsafe.org/resources/pennsylvania-survivors-speak-2026-victims-views-on-safety-and-justice/"> <img class="img-responsive" width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/Crime-Survivors-Speak-Pennsylvania-Victims-Views-on-Safety-and-Justice-2026.jpeg" style="border: 1px solid #555;" alt="a picture of the published report"> </a> </div></div>
 </div>
 
 
