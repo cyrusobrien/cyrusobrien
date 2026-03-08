@@ -1,0 +1,74 @@
+"Easy Access to the Census of Juveniles in Residential Placement"
+"Placement Status by State, 2021"
+
+"State of Offense","Total","Committed","Detained","Diversion"
+"United States","24,894","13,229","10,986","336",
+"Alabama","678","234","378","66",
+"Alaska","156","45","111","0",
+"Arizona","351","† 123","222","0",
+"Arkansas","297","210","† 81","6",
+"California","2,385","† 1,191","1,074","21",
+"Colorado","462","† 249","† 210","0",
+"Connecticut","63","27","36","0",
+"Delaware","135","48","87","0",
+"District of Columbia","78","† 24","† 51","0",
+"Florida","1,221","† 639","501","18",
+"Georgia","750","261","486","0",
+"Hawaii","27","24","0","0",
+"Idaho","264","186","72","0",
+"Illinois","516","135","378","0",
+"Indiana","837","504","† 306","† 9",
+"Iowa","267","99","144","18",
+"Kansas","351","144","198","0",
+"Kentucky","297","† 96","192","6",
+"Louisiana","717","417","288","0",
+"Maine","27","18","9","0",
+"Maryland","198","54","141","0",
+"Massachusetts","204","66","135","0",
+"Michigan","723","450","† 264","† 6",
+"Minnesota","378","198","† 159","15",
+"Mississippi","186","81","† 102","† 3",
+"Missouri","612","411","198","3",
+"Montana","99","51","45","0",
+"Nebraska","207","† 15","156","36",
+"Nevada","342","207","126","6",
+"New Hampshire","12","9","3","0",
+"New Jersey","378","168","207","3",
+"New Mexico","198","102","93","0",
+"New York","741","363","327","9",
+"North Carolina","411","231","180","0",
+"North Dakota","39","27","12","0",
+"Ohio","1,476","741","732","† 3",
+"Oklahoma","261","42","213","† 3",
+"Oregon","597","495","93","† 9",
+"Pennsylvania","1,002","708","† 270","† 9",
+"Rhode Island","72","48","18","6",
+"South Carolina","414","† 204","† 210","0",
+"South Dakota","99","36","66","0",
+"Tennessee","300","† 69","222","† 6",
+"Texas","2,730","1,590","1,122","9",
+"Utah","168","105","63","0",
+"Vermont","0","0","0","0",
+"Virginia","558","249","300","0",
+"Washington","396","291","102","0",
+"West Virginia","345","198","141","3",
+"Wisconsin","417","231","† 171","† 6",
+"Wyoming","171","96","72","0",
+"Not Reported","1,278","1,011","210","50",
+
+"The COVID-19 pandemic, which began March 2020, had significant effects on all stages of the juvenile justice system, including juvenile residential facilities, and may have impacted multiple aspects of the 2021 CJRP data, such as reporting and the number of youth in residential placement."
+
+"† Interpret data with caution. In these states 30% or more of the information for placement status was imputed. Visit the EZACJRP methods section for more information about imputation."
+
+"Note: The information in this table is based on the state where the offense was committed. However, the state of offense is not always reported. Youth for whom state of offense was unknown are included in U.S. totals. These instances are not evenly distributed across states. As such, users should exercise caution when examining state-level trends or comparing states. Visit the <a href="../asp/methods.asp#StateTables">EZACJRP methods</a> section for more information."
+
+"Note: U.S. total excludes youth in tribal facilities."
+
+"Note: To preserve the privacy of youth in residential placement, state level cell counts have been rounded to the nearest multiple of three."
+
+"Note: Committed youth include those placed in the facility as part of a court ordered disposition. Detained youth include those held awaiting a court hearing, adjudication, disposition or placement elsewhere. Diverted youth include those voluntarily admitted to the facility in lieu of adjudication as part of a diversion agreement. Totals include youth for whom placement status was reported as unknown or "other.""
+
+"Suggested citation: Puzzanchera, C., Sladky, T.J., and Kang, W. (2025) "Easy Access to the Census of Juveniles in Residential Placement." Online. Available:
+https://www.ojjdp.gov/ojstatbb/ezacjrp/"
+
+"Data source: Author's analysis of OJJDP's Census of Juveniles in Residential Placement 1997, 1999, 2001, 2003, 2006, 2007, 2010, 2011, 2013, 2015,  2017, 2019,  2021, and 2023 [machine-readable data files]."
