@@ -1,0 +1,118 @@
+<style>
+  #nl-wrap { padding: 2rem 1.5rem 1.5rem; font-family: var(--font-sans); }
+  #instruction { font-size: 16px; color: var(--color-text-primary); margin-bottom: 2rem; line-height: 1.6; }
+  #nl-svg { width: 100%; cursor: crosshair; display: block; }
+  #banner {
+    margin-top: 1.5rem;
+    padding: 1rem 1.25rem;
+    background: var(--color-background-secondary);
+    border: 0.5px solid var(--color-border-tertiary);
+    border-radius: var(--border-radius-lg);
+    display: none;
+  }
+  #banner-title { font-size: 13px; color: var(--color-text-secondary); margin: 0 0 6px; }
+  #banner-body { font-size: 22px; font-weight: 500; color: var(--color-text-primary); margin: 0 0 4px; }
+  #banner-sub { font-size: 14px; color: var(--color-text-secondary); margin: 0; }
+  #banner-miss { font-size: 14px; font-weight: 500; margin: 4px 0 0; }
+</style>
+
+<div id="nl-wrap">
+  <h2 class="sr-only">Number line guessing game: click where you think 1 million is between 0 and 1 billion</h2>
+  <p id="instruction">Where is <strong>1 million</strong> on this number line? Click to place your guess.</p>
+
+  <svg id="nl-svg" viewBox="0 0 700 120" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <marker id="arr-r" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto">
+        <path d="M0,0 L0,6 L8,3 z" fill="var(--color-text-secondary)" />
+      </marker>
+    </defs>
+
+    <line id="the-line" x1="40" y1="60" x2="655" y2="60"
+      stroke="var(--color-text-primary)" stroke-width="2" marker-end="url(#arr-r)" />
+
+    <circle cx="40" cy="60" r="4" fill="var(--color-text-primary)" />
+    <text x="40" y="82" text-anchor="middle" font-size="13" fill="var(--color-text-secondary)">0</text>
+    <text x="648" y="82" text-anchor="middle" font-size="13" fill="var(--color-text-secondary)">1 billion</text>
+
+    <!-- TRUE_X = 40 + (1_000_000 / 1_000_000_000) * (648 - 40) = 40.608 -->
+    <g id="true-marker" opacity="0">
+      <line x1="40.608" y1="38" x2="40.608" y2="78" stroke="#1D9E75" stroke-width="2" stroke-dasharray="4,3" />
+      <text x="40.608" y="30" text-anchor="middle" font-size="12" fill="#1D9E75" font-weight="500">1M</text>
+    </g>
+
+    <circle id="guess-dot" cx="-100" cy="60" r="7"
+      fill="#D85A30" stroke="var(--color-background-primary)" stroke-width="2" opacity="0" />
+  </svg>
+
+  <div id="banner">
+    <p id="banner-title">Your guess</p>
+    <p id="banner-body"></p>
+    <p id="banner-sub"></p>
+    <p id="banner-miss"></p>
+  </div>
+</div>
+
+<script>
+(function() {
+  const svg = document.getElementById('nl-svg');
+  const guessDot = document.getElementById('guess-dot');
+  const trueMarker = document.getElementById('true-marker');
+  const banner = document.getElementById('banner');
+
+  const X0 = 40, X1 = 648;       // SVG x-coords for 0 and 1 billion
+  const MAX = 1_000_000_000;
+  const TRUE_VAL = 1_000_000;
+
+  function getSVGX(evt) {
+    const rect = svg.getBoundingClientRect();
+    const scaleX = 700 / rect.width;
+    const clientX = evt.touches ? evt.touches[0].clientX : evt.clientX;
+    return (clientX - rect.left) * scaleX;
+  }
+
+  function handleClick(evt) {
+    const svgX = Math.max(X0, Math.min(X1, getSVGX(evt)));
+    const val = Math.round(((svgX - X0) / (X1 - X0)) * MAX / 1000) * 1000;
+    const clampedX = X0 + (val / MAX) * (X1 - X0);
+
+    guessDot.setAttribute('cx', clampedX);
+    guessDot.setAttribute('opacity', '1');
+    trueMarker.setAttribute('opacity', '1');
+    banner.style.display = 'block';
+
+    const roundedK = Math.round(val / 1000) * 1000;
+    let displayVal;
+    if (roundedK >= 1_000_000) {
+      displayVal = (roundedK / 1_000_000).toFixed(3).replace(/\.?0+$/, '') + ' million';
+    } else if (roundedK >= 1_000) {
+      displayVal = (roundedK / 1_000).toFixed(0) + ',000';
+    } else {
+      displayVal = roundedK.toLocaleString();
+    }
+
+    banner.querySelectorAll('p')[1].textContent = displayVal;
+    banner.querySelectorAll('p')[2].textContent =
+      `That's ${((val / MAX) * 100).toFixed(4)}% of the way across the line`;
+
+    const missAmt = Math.abs(val - TRUE_VAL);
+    const missPct = (missAmt / TRUE_VAL) * 100;
+    const missEl = banner.querySelectorAll('p')[3];
+    if (val === TRUE_VAL) {
+      missEl.textContent = 'Perfect! Exactly 1 million.';
+      missEl.style.color = '#1D9E75';
+    } else {
+      const dir = val < TRUE_VAL ? 'low' : 'high';
+      missEl.textContent = missPct >= 100
+        ? `${Math.round(missPct)}× off — too ${dir}`
+        : `${missPct < 1 ? missPct.toFixed(1) : Math.round(missPct)}% too ${dir}`;
+      missEl.style.color = '#D85A30';
+    }
+  }
+
+  svg.addEventListener('click', handleClick);
+  svg.addEventListener('touchend', function(e) {
+    e.preventDefault();
+    handleClick({ clientX: e.changedTouches[0].clientX });
+  });
+})();
+</script>
