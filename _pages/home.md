@@ -31,13 +31,6 @@ Cyrus's recent projects have drawn on quantitative methods and his expertise in 
 
 Below is a selection of advocacy publications and policy reports Cyrus wrote or contributed to.
 
-<div markdown="0" class="container-fluid-card">
-<div class="row"><div class="col-sm-6 clearfix">
-<h4 class="section-heading">Crime Survivors Speak: Pennsylvania Victims' Views on Safety and Justice</h4>
-
- <p>This report highlights the criminal justice policy preferences <a href="https://justsafe.org/resources/pennsylvania-survivors-speak-2026-victims-views-on-safety-and-justice/">of Pennsylvanians who are survivors of violence.</a> Victims of violence overwhelmingly prefer policies that prioritize prevention and rehabilitation over punishment. The findings are the result of a survey of 1,800 Pennsylvianians.</p>
- </div> <div class="col-sm-6 clearfix"> <a href="https://justsafe.org/resources/pennsylvania-survivors-speak-2026-victims-views-on-safety-and-justice/"> <img class="img-responsive" width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/Crime-Survivors-Speak-Pennsylvania-Victims-Views-on-Safety-and-Justice-2026.jpeg" style="border: 1px solid #555;" alt="a picture of the published report"> </a> </div></div>
-</div>
 
 
 
@@ -50,6 +43,25 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
  <p>This report is based on analyses of the National Crime Victimization Survey, the Survey of Consumer Finances, and the National Longitudinal Survey of Adolescent to Adult Health. My colleague Emily Cosgrove conducted interviews with survivors of violence, and the profiles she wrote bring the quantitative findings to life.</p>
  </div> <div class="col-sm-6 clearfix"> <a href="https://asj.allianceforsafetyandjustice.org/the-keys-to-safety/"> <img class="img-responsive" width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/keys-to-safety-image.png" style="border: 1px solid #555;" alt="a picture of the published report"> </a> </div></div>
 </div>
+
+
+
+<div markdown="0" class="container-fluid-card">
+<div class="row"><div class="col-sm-6 clearfix">
+<h4 class="section-heading">Law Enforcement Views on Safety and Justice: National Survey Reveals Strong Support for Common-Sense Safety Solutions</h4>
+
+ <p>This major collaborative project surveyed <a href="https://justsafe.org/resources/law-enforcement-views-safety-and-justice/">sworn law enforcement officers about their views on public safety policy.</a> We found that massive majorities of officers support neighborhood-based programs that promise to make their jobs safer and easier.</p>
+ </div> <div class="col-sm-6 clearfix"> <a href="https://justsafe.org/resources/law-enforcement-views-safety-and-justice/"> <img class="img-responsive" width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/law-enforcement-survey-image.png" style="border: 1px solid #555;" alt="a picture of the published report"> </a> </div></div>
+</div>
+
+<div markdown="0" class="container-fluid-card">
+<div class="row"><div class="col-sm-6 clearfix">
+<h4 class="section-heading">Crime Survivors Speak: Pennsylvania Victims' Views on Safety and Justice</h4>
+
+ <p>This report highlights the criminal justice policy preferences <a href="https://justsafe.org/resources/pennsylvania-survivors-speak-2026-victims-views-on-safety-and-justice/">of Pennsylvanians who are survivors of violence.</a> Victims of violence overwhelmingly prefer policies that prioritize prevention and rehabilitation over punishment. The findings are the result of a survey of 1,800 Pennsylvianians.</p>
+ </div> <div class="col-sm-6 clearfix"> <a href="https://justsafe.org/resources/pennsylvania-survivors-speak-2026-victims-views-on-safety-and-justice/"> <img class="img-responsive" width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/Crime-Survivors-Speak-Pennsylvania-Victims-Views-on-Safety-and-Justice-2026.jpeg" style="border: 1px solid #555;" alt="a picture of the published report"> </a> </div></div>
+</div>
+
 
 
 
