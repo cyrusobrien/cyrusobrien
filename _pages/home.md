@@ -24,6 +24,11 @@ Cyrus has extensive experience conducting research in and about prisons and rela
 Cyrus's recent projects have drawn on quantitative methods and his expertise in survey research. He has published analyses of complex surveys including the National Crime Victimization Survey, the Survey of Household and Economic Decisionmaking, and the Survey of Consumer Finances. In 2025, he served as an expert panelist for survey design for the Department of Justice's Bureau of Justice Statistics.
 
 
+### Writing about Inequality and the Affordability Crisis
+
+I recently started a blog called [In *Our* Economy](http://inoureconomy.org) where I write about the economy as **people** experience it. All the content is free, but you can subscribe on Substack to get every post in your inbox.
+
+<iframe src="https://inoureconomy.substack.com/embed" width="480" height="320" style="border: 1px solid #EEE; background: white" frameborder="0" scrolling="no"></iframe>
 
 
 
