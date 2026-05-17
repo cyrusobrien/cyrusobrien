@@ -26,10 +26,7 @@ Cyrus's recent projects have drawn on quantitative methods and his expertise in 
 
 ### Writing about Inequality and the Affordability Crisis
 
-I recently started a blog called [In *Our* Economy](http://inoureconomy.org) where I write about the economy as **people** experience it. All the content is free, but you can subscribe on Substack to get every post in your inbox.
-
-<iframe src="https://inoureconomy.substack.com/embed" width="480" height="320" style="border: 1px solid #EEE; background: white" frameborder="0" scrolling="no"></iframe>
-
+I recently started a blog called [In *Our* Economy](http://inoureconomy.org) where I write about the economy as **people** experience it. All the content is free, but you can [subscribe on Substack](https://inoureconomy.substack.com/) to get every post in your inbox.
 
 
 ### Advocacy Publications
