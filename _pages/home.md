@@ -74,11 +74,11 @@ Below is a selection of advocacy publications and policy reports Cyrus wrote or 
 
                      <p>Contrary to popular assumptions, victims of violence do not support tough-on-crime policies. Victims of violence overwhelmingly reject long sentences as the solution to crime.</p>
 
-                     <p><a href="https://asj.allianceforsafetyandjustice.org/crime-survivors-speak-2024/">This report is based on a national survey of victims of violence.</a> In addition to showcasing their views of justice and safety policy, the report shows that survivors of violence experience major hardship - PTSD, bankruptcy, depression, and more - at much higher rates than people who did not experience violence.</p>
+                     <p><a href="https://justsafe.org/resources/crime-survivors-speak-2024-national-survey-victims-views-safety-and-justice-1/">This report is based on a national survey of victims of violence.</a> In addition to showcasing their views of justice and safety policy, the report shows that survivors of violence experience major hardship - PTSD, bankruptcy, depression, and more - at much higher rates than people who did not experience violence.</p>
 
                </div>
                    <div class="col-sm-6 clearfix">
-                        <a href="https://asj.allianceforsafetyandjustice.org/crime-survivors-speak-2024/">
+                        <a href="https://justsafe.org/resources/crime-survivors-speak-2024-national-survey-victims-views-safety-and-justice-1/">
                              <img  class="img-responsive"  width="270px" src="{{ site.url }}{{ site.baseurl }}/images/picpic/crime-survivors-speak-2024-thumbnail.jpg" style="border: 1px solid #555;" alt="another picture of the published report">
                        </a>
                    </div>
